@@ -1,8 +1,34 @@
 {
- "updated": "2026-07-10 18:00",
- "last_check": "2026-07-10 18:00",
+ "updated": "2026-07-11 00:00",
+ "last_check": "2026-07-11 00:00",
  "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-07-11 00:00",
+   "label": "07-11 00시",
+   "digest": [
+    "**시공 현장 4명 사망**으로 SK에코플랜트의 중대재해·안전관리 리스크가 부각된 것이 이번 배치의 핵심",
+    "비상장 **K-OTC 시장에서 거래량 회복·2주간 13% 상승** 등 수급 측면 움직임이 관찰됨"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-10 18:33",
+     "source": "뉴스토마토",
+     "title": "최근 1년새 4명 사망…SK에코플랜트 시공 현장 '잔혹사' 왜?",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zZzhJb2NQVXB2UmE2VE1iUkxxQ0xGVjBZWFpzclNwRlpJUno3OG1yWEFzZlpkb1psQ0RWNUNHOFZ0ak1RNGkwOTVJZjZsSHh4ZnhhUGVGSnZrTl9oTnAxTg?oc=5",
+     "summary": "SK에코플랜트가 시공한 건설 현장에서 최근 1년 사이 4명의 노동자가 사망한 것으로 나타나 안전관리 부실 문제가 도마에 올랐다. 반복되는 중대재해로 안전 리스크가 부각되고 있다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-10 18:02",
+     "source": "프리스탁뉴스",
+     "title": "SK에코플랜트, 거래량 살아나며 2주간 13% UP",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ka0lwWTBUaThTd3FidW5ZYmlXc0FRbE03ZldwLTJlRHYzQkR0bGlmLUNaVlhxLWRCQzVxcGJZLVVyd2NQMkNuT2M1SXFMV1NLd29oaFhsVm9FLUhJdHFnUXNvZlRWMTY5V0tqZnhUcw?oc=5",
+     "summary": "비상장 주식 장외시장(K-OTC)에서 SK에코플랜트 거래량이 살아나며 2주간 약 13% 상승했다. 데이터젠 급등 등과 함께 K-OTC 거래가 늘어난 종목으로 언급됐다.",
+     "more": 1
+    }
+   ]
+  },
   {
    "ts": "2026-07-10 18:00",
    "label": "07-10 18시",
