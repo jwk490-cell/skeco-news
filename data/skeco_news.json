@@ -1,8 +1,33 @@
 {
- "updated": "2026-07-10 12:00",
- "last_check": "2026-07-10 12:00",
- "last_new": 0,
+ "updated": "2026-07-10 18:00",
+ "last_check": "2026-07-10 18:00",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-07-10 18:00",
+   "label": "07-10 18시",
+   "digest": [
+    "이번 배치의 핵심은 SK에코플랜트의 **건설·수주 경쟁력**으로, **반도체 클러스터 시공**을 통한 체급 강화와 **하안주공5단지 재건축**(한화와 경합) 수주전이 부각됨."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-10 16:22",
+     "source": "비즈니스포스트",
+     "title": "[닻 올린 균형발전⑨] SK에코플랜트 반도체 클러스터 시공으로 체급 높아져, 호남 기회의 땅 삼는다",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Ya3QzRFFjejhRWkVubTM3UGFQYjZBSERyZFBwdUVNeXpfbTlmZW8wTzMyZFdPUGR6TmI2ZnRnNG1zcG04SFlLYlBhOGRndWJZVnJYdWs3cVJIcF93TEEya0E1ZFhPTXFEZDdacy1IcFZKZ2M?oc=5",
+     "summary": "SK에코플랜트가 반도체 클러스터 시공 등을 통해 건설 체급을 키우고 있으며, 호남 지역을 균형발전·성장 기회의 땅으로 삼아 사업을 확대한다는 내용.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-10 17:00",
+     "source": "팍스경제TV",
+     "title": "[이슈] '하안지구 재건축 선두' 하안주공5단지, 시공사 선정 유찰…SK에코·한화 ‘탐색전’",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GVXRBOW5mQ0RLWDBPaFlMUHlTVWhRUWVuamxSM2Y0SVN2a3QtR1RCV2dQZ2t3X3JPVk5RbFFTalZqUERrcGowZG0yTzRyQm1pdzZDeTRJWWdwY3FnaUNJc29ZSVgtaUU?oc=5",
+     "summary": "광명 하안주공5단지 재건축 시공사 선정이 유찰된 가운데 SK에코플랜트와 한화가 수주를 놓고 탐색전을 벌이고 있음.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-09 18:00",
    "label": "07-09 18시",
