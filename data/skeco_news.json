@@ -1,8 +1,33 @@
 {
- "updated": "2026-07-11 06:00",
- "last_check": "2026-07-11 06:00",
- "last_new": 0,
+ "updated": "2026-07-11 12:00",
+ "last_check": "2026-07-11 12:00",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-07-11 12:00",
+   "label": "07-11 12시",
+   "digest": [
+    "이번 배치에는 **SK에코플랜트와 실질적으로 관련된 기사가 없습니다** — 에듀테크·상권 이탈 기사로, 단순 언급 수준이거나 무관하여 전량 제외했습니다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-11 08:11",
+     "source": "서울경제신문",
+     "title": "“큰 악재 될 것” 대기업도 못 버티고 떠나자...줄줄이 짐 싸기 시작한 ‘이 동네’",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ObXFwbFhXYWhubTE5cEFxVlR4NHZNWWxrQzdLVDk5bVFnbVBfZzV2QklQcHJfSE9FMmVKV0xuNkpqcHdacFZnWTVMSmloRlo1alHSAVNBVV95cUxOUUYtZ3E2NmJjeWRiSWZSSzY2eFdtenRkT1IwNXpoYU83ZnlsZEtnNjhFVU90bkRHV0l5M2dFdXVzTnVvS3JCTzhoSXJjaGN6Vlo2WQ?oc=5",
+     "summary": "",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-11 07:02",
+     "source": "네이트",
+     "title": "AI 독서실에 영어교육까지…아파트에 들어온 에듀테크",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55aWNwSlI0bFBUMDFxUndEN21LNzZlcE5kWFJGYXN6d2YzOFNUVDc4eDBoejFtMTNGTndMRXU1cWEyM2p3c3VHSGY0allsUURvLWY4?oc=5",
+     "summary": "",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-11 00:00",
    "label": "07-11 00시",
