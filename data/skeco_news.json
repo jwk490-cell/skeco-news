@@ -1,8 +1,34 @@
 {
- "updated": "2026-07-13 12:00",
- "last_check": "2026-07-13 12:00",
- "last_new": 1,
+ "updated": "2026-07-13 18:00",
+ "last_check": "2026-07-13 18:00",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-07-13 18:00",
+   "label": "07-13 18시",
+   "digest": [
+    "**작심스터디카페와 MOU** 체결로 교육·카페 브랜드를 연계한 프리미엄 주거 서비스 확대 등 주거상품 차별화 행보",
+    "SK에코플랜트 앞 외국인 노동자 사망 관련 조계종 사노위의 추모 기도회 개최 — 사업장 안전·노동 이슈"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-13 13:53",
+     "source": "한국건설신문",
+     "title": "SK에코플랜트, 교육·카페 브랜드와 협업 ‘주거서비스 차별화’",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBva19aMXBmclFVc2NfYldGT3l5ZWhZTWxwUzU4NVNYVjJWYUNpNGNiWXRFdU1vdWRoT1lEZFFNbWFhaU5ZVjU0cVQydzN6RnlVUmkwc0FhRllBeFJfZmNTdUwwRmg1blgzcnk4?oc=5",
+     "summary": "SK에코플랜트가 작심스터디카페(작심스터디카페 운영사) 등 교육·카페 브랜드와 MOU를 맺고, 자사 주거 단지에 프리미엄 주거 서비스를 확대하며 주거서비스 차별화에 나섰다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-07-13 13:10",
+     "source": "경향신문",
+     "title": "[경향포토] 조계종 사노위, SK에코플랜트 앞 외국인 노동자 추모 기도회",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ITGsxb2dVSWdIOVJnVVZfa2p0Z2xUakdZaW9PQ2Y2Q3RMMUkwY0p4NWJoZGN2V3lIT0IyWVZZWDNWOEswMFhyWTduUHpKXzVXeWV6clBMMGMzQdIBX0FVX3lxTE5yaHk4bVlXOXJtb19jcVRCSlBZUC1MQUt6TmlpcHYyR3ROQi1fZFVuRUc5MWhTUFRHTTY2ZlVJTjlNbnp2ekdReTFfMG9xendQbGljc0ZEOEQyVkQ5N2tz?oc=5",
+     "summary": "조계종 사회노동위원회가 SK에코플랜트 앞에서 숨진 외국인 노동자를 추모하는 기도회를 열었다.",
+     "more": 1
+    }
+   ]
+  },
   {
    "ts": "2026-07-13 12:00",
    "label": "07-13 12시",
