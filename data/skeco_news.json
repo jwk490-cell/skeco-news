@@ -1,8 +1,25 @@
 {
- "updated": "2026-07-13 18:00",
- "last_check": "2026-07-13 18:00",
- "last_new": 2,
+ "updated": "2026-07-14 00:00",
+ "last_check": "2026-07-14 00:00",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-07-14 00:00",
+   "label": "07-14 00시",
+   "digest": [
+    "**하청 이주노동자 사망 사고**로 SK에코플랜트에 대한 사과 및 책임 요구 여론이 제기됨(포토뉴스 형태 보도)."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-13 21:14",
+     "source": "경향신문",
+     "title": "[포토뉴스]“하청 이주노동자 사망, SK에코플랜트는 사과하라”",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qOVg0ZFdzaHBIWWtkc09wN2NYWVVJeXA5LWR0RU5CcnR2aklzSWdWZks3TDBIc0lTYkxsMUl2Y2otXzQ2dmpvT2ZJR0M3b1ZHQ1dzdWdXWUowZ9IBX0FVX3lxTE55ZndrbXFud3o1SEVFbXA1X2FkeTA5R25XWlYxUnIzRmRacU9YQjlLeG5BTEl3dFczT0syN3p2Y1hKZ0Q5SnhKT0VTQXJRTXlCUGhPOU5UOTh3aHd2RG5r?oc=5",
+     "summary": "하청 이주노동자 사망 사건과 관련해 SK에코플랜트의 사과를 촉구하는 시위·기자회견이 열렸다는 포토뉴스.",
+     "more": 1
+    }
+   ]
+  },
   {
    "ts": "2026-07-13 18:00",
    "label": "07-13 18시",
