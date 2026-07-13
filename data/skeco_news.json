@@ -1,8 +1,25 @@
 {
- "updated": "2026-07-13 06:00",
- "last_check": "2026-07-13 06:00",
- "last_new": 0,
+ "updated": "2026-07-13 12:00",
+ "last_check": "2026-07-13 12:00",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-07-13 12:00",
+   "label": "07-13 12시",
+   "digest": [
+    "**중복상장 규제 강화**가 SK그룹 지배구조 개편과 계열사 상장(SK에코플랜트 IPO 포함) 전략의 핵심 변수로 부상"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-13 07:00",
+     "source": "fetv.co.kr",
+     "title": "[중복상장 규제] SK그룹, 플라즈마 '허들' 넘을 수 있나",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QamJxLUpiMi1tb2trVEs1REJXQWZlRkxIVTRuZXc1R1VzclJKZDljdkVmZEUyV01ON2F1MHFfaXBGbkVYZWRhMU9jZWFwaXdpT1lGNDMxUHBuZGtJVW80S2dnMDF4VXNX?oc=5",
+     "summary": "SK그룹의 지배구조 개편·상장 전략('플라즈마')이 강화되는 중복상장 규제라는 허들을 넘을 수 있을지 짚은 기사로, SK에코플랜트 IPO 등 계열사 상장 이슈와 맞물린다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-11 12:00",
    "label": "07-11 12시",
