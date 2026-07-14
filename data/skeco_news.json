@@ -1,8 +1,25 @@
 {
- "updated": "2026-07-14 18:00",
- "last_check": "2026-07-14 18:00",
- "last_new": 3,
+ "updated": "2026-07-15 00:00",
+ "last_check": "2026-07-15 00:00",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-07-15 00:00",
+   "label": "07-15 00시",
+   "digest": [
+    "이번 배치에는 **SK에코플랜트와 실질적으로 관련된 기사가 없다** — 유일한 수집 기사(청주고용지청 무재해 릴레이 캠페인)는 회사와 무관하여 제외했다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-14 18:35",
+     "source": "충청매일",
+     "title": "청주고용지청, 무재해 릴레이 캠페인",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHTEcxUmpGcGxDWDVQVlY3R1FGTkVVQ0JncFlvTHI4RE82eTBfelZiLTJvTzhoMVY3clp4VWpUYjR2ZERKUElNRkxOZVl5SnZudGNMeGQ2em5id1Z2aDB0R0RiM1VZM0lCalE?oc=5",
+     "summary": "",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-14 18:00",
    "label": "07-14 18시",
