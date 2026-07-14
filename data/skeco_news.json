@@ -1,8 +1,42 @@
 {
- "updated": "2026-07-14 12:00",
- "last_check": "2026-07-14 12:00",
- "last_new": 0,
+ "updated": "2026-07-14 18:00",
+ "last_check": "2026-07-14 18:00",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-07-14 18:00",
+   "label": "07-14 18시",
+   "digest": [
+    "**산재 은폐 의혹(단독)**과 **중대재해 예방 캠페인** 보도가 같은 날 엇갈려 나오며 SK에코플랜트의 **안전관리 이슈**가 부각됨",
+    "부동산 PF 적신호 재점화 국면에서 SK에코플랜트가 **PF 익스포저 상위 건설사**로 거론되며 재무 리스크 관점도 상존"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-14 17:00",
+     "source": "뉴스토마토",
+     "title": "(단독)\"문에 끼여 다친 걸로\"…SK에코플랜트 하청업체 '산재 은폐' 의혹",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ta2d2U3MtVDBMZG0yQ1lZWDhHZHFCNmxkaUh3dl9jTlY3T1N2a19lVmJHVjBpOHhRYnR0N2ljUGlab09WMXZ1cW9xRnA3eGNZRl8xbk10cXVaWkd3N3dzWQ?oc=5",
+     "summary": "SK에코플랜트 하청업체가 근로자 산업재해를 '문에 끼여 다친 것'으로 축소·은폐했다는 의혹이 단독 보도됐다. 원청인 SK에코플랜트의 안전관리 책임 논란으로 번질 수 있는 사안이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-14 16:23",
+     "source": "충북일보",
+     "title": "SK하이닉스·SK에코플랜트, 중대재해 예방 '무재해 릴레이 캠페인' 실시",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RRURHbDllZ2l5aE1iakRWZ2paRllHNW1KekNMdG9zczNtVk80SUc1SzAxTFRnV1dxbXdyaFM0T0FFVE9WN0xiOFd0M2ZNc20xa0hFOFVfRU84MC13d2FxTDRn?oc=5",
+     "summary": "SK하이닉스와 SK에코플랜트가 협력사 대상 중대재해 예방을 위한 '무재해 릴레이 캠페인'을 실시한다고 밝혔다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-14 14:15",
+     "source": "스트레이트뉴스",
+     "title": "부동산 PF, 다시 적신호…현대건설, 롯데건설, SK에코플랜트 많아",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MZXBLTzFuU002Ri04TkREUnRGTjA2ZlJwOVJHQThHZ3hhX19QMDJmc2tCSkJJbTVEeEhFODZaZU90LWY3LXR0MERPVmVkY3hYOGh5U29uMHhFY3gyYnoyYldMQXRtR1hCN2xYbTFLekZwWlXSAXdBVV95cUxNYnRVVEtuT3BtWTU2a2hZSWNyaWdndEh1VklCOTh2MnNrUkZMRUxIOW5QTVhXbWxfaDFFQzBsajB6MGhoRzlTblVUS1FEOXJLZTdxRWpoaXNJemd2OWdYc1RhT3BMWFlqbnZCbXlMMmh6bzZqLUdfVQ?oc=5",
+     "summary": "부동산 PF 부실 우려가 재부각되는 가운데 SK에코플랜트가 현대건설·롯데건설과 함께 PF 익스포저가 큰 건설사로 지목됐다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-14 00:00",
    "label": "07-14 00시",
