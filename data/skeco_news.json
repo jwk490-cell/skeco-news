@@ -1,8 +1,26 @@
 {
- "updated": "2026-07-15 12:00",
- "last_check": "2026-07-15 12:00",
- "last_new": 0,
+ "updated": "2026-07-15 18:00",
+ "last_check": "2026-07-15 18:00",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-07-15 18:00",
+   "label": "07-15 18시",
+   "digest": [
+    "SK에코플랜트가 **'2026 테크 오픈 콜라보레이션'** 시상식에서 AI·반도체 혁신기술 스타트업 **6곳(6건)**을 선정, 공동 R&D·실증·사업화로 연계하는 **'AI 기업' 변신** 행보를 부각",
+    "김영식 사장이 직접 **AI·반도체 스타트업과의 협력 확대**를 강조하며 건설현장 자율주행 등 실사업 접목 방향을 제시"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-15 14:55",
+     "source": "뉴스1",
+     "title": "SK에코플랜트, 반도체·AI 혁신 기술 스타트업 6곳 선정",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FaEhaV24yQkE4VXBzSWVTUWdhR083RXJQUzh5YV9ZVHZqY1JrSGI5clNuSnpVNXdqUTBKQkFya2VqVndNTlNfZTV0amJ6ODM0UmNaUUFqMnRpcXc?oc=5",
+     "summary": "SK에코플랜트가 '2026 테크 오픈 콜라보레이션' 시상식을 열고 AI·반도체 분야 혁신기술 스타트업 6곳(6건)을 선정해 공동 연구개발·실증·사업화 연계를 추진한다고 밝혔다. 김영식 사장은 AI·반도체 스타트업과의 협력 확대 의지를 밝혔으며, 건설현장 자율주행 등 사업 접목과 대한항공 협업·드론·UAM 박람회 참가도 함께 소개됐다.",
+     "more": 21
+    }
+   ]
+  },
   {
    "ts": "2026-07-15 00:00",
    "label": "07-15 00시",
