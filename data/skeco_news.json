@@ -1,8 +1,34 @@
 {
- "updated": "2026-07-15 18:00",
- "last_check": "2026-07-15 18:00",
- "last_new": 1,
+ "updated": "2026-07-16 07:53",
+ "last_check": "2026-07-16 07:53",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-07-16 07:53",
+   "label": "07-16 07시",
+   "digest": [
+    "이번 배치는 사실상 **'2026 테크 오픈 콜라보레이션' 단일 이벤트**가 6개 매체에 동시 보도된 것으로, **반도체·AI 스타트업 기술 6건 선정**을 통해 반도체 인프라·AI 데이터센터 중심의 사업 재편 방향을 재확인",
+    "**오픈이노베이션 홍보성 기사 다수 vs. 안전경영 리스크 지적 1건**이 대비되는 구조 — 신사업 스토리는 강화되나 EPC 현장 안전 이슈는 잠재 리스크로 남음"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-15 18:02",
+     "source": "tokenpost.kr",
+     "title": "SK에코플랜트, AI 및 반도체 유망 기술 6선 발표… 스타트업과 협력 강화",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55bkNDWG93b2IzdVM3X2pKaV82aDRCNFRuWFRhck1IaWRycjVoOEZYazlETTJmWjgwOHEwdEZDaFRzTnZvdEdsVEVEXzhuc0FhejF3TlVqXzHSAVhBVV95cUxOeW5DQ1hvd29iM3VTN19qSmlfNmg0QjRUblhUYXJNSGlkcnI1aDhGWGs5RE0yZlo4MDhxMHRGQ2hUc052b3RHbFRFRF84bnNBYXoxd05Val8x?oc=5",
+     "summary": "SK에코플랜트가 '2026 테크 오픈 콜라보레이션' 시상식을 열고 반도체·AI 분야 유망 스타트업 기술 6건을 선정해 공동연구·사업화 협력을 추진한다고 밝혔다. 반도체 인프라·AI 데이터센터 등 핵심 사업과 연계한 미래 먹거리 발굴 차원으로, 선정 기업과 기술 검증 및 실증을 확대할 계획이다.",
+     "more": 5
+    },
+    {
+     "ts": "2026-07-15 18:10",
+     "source": "네이버 프리미엄콘텐츠",
+     "title": "국내도 해외도 끊이지 않는 사고…SK에코플랜트 안전경영 ‘빨간불’",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSTRFQ2thMVhSNjhkWVY5dzczUDZsRUhCZWtfRUk2OHlZWmU1bk1fQTZQM1dIaktwM2lpWGFhWV9kQzB3MWpyaU44eWFjanNtMUlVNlpaVndnZEFXaThVOF83RnUybG9Sb1RKT0ZXVmpGbG5tVjhYb2lSUFZKZzVQcGNMWQ?oc=5",
+     "summary": "국내외 현장에서 사고가 반복되며 SK에코플랜트의 안전경영에 경고등이 켜졌다는 지적이 제기됐다. EPC 사업 확대와 맞물려 중대재해·현장 안전관리 리스크가 부각되는 모습이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-15 18:00",
    "label": "07-15 18시",
