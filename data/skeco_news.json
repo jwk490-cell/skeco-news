@@ -1,8 +1,42 @@
 {
- "updated": "2026-07-16 07:53",
- "last_check": "2026-07-16 07:53",
- "last_new": 2,
+ "updated": "2026-07-16 12:00",
+ "last_check": "2026-07-16 12:00",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-07-16 12:00",
+   "label": "07-16 12시",
+   "digest": [
+    "이번 배치는 **'의왕역 SK뷰' 1,857가구 분양 개시**가 기사 대부분(17건)을 차지한 사실상 단일 이슈 배치로, **GTX-C·초역세권**을 앞세운 주택 분양 물량 소화가 관전 포인트다.",
+    "주택 외에는 **AI·반도체 혁신기술 6건 선정**과 최태원 회장의 AI 포트폴리오 발언이 나오며, 반도체 인프라 EPC·데이터센터 축에서의 그룹 내 역할이 재확인됐다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-16 09:16",
+     "source": "뉴스1",
+     "title": "SK에코플랜트, 1857가구 대단지 '의왕역 SK뷰' 견본주택 16일 개관",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02NmM0bWJpWmpYdUYwdDdEbWZQYk0yMTBEclBwSFQ1MmthMW4wQkViZWROM25lNzcxV0cteWVBMHoxQlhnNWg2QUktcW9EeFZ4bFhPQ3JSM0FJV1k?oc=5",
+     "summary": "SK에코플랜트가 7월 16일 경기 의왕시 '의왕역 SK뷰' 견본주택을 열고 총 1,857가구 대단지 분양에 돌입했다. 의왕역 도보 3분 거리 초역세권에 GTX-C 수혜 단지로, 20일 특별공급·21일 1순위 청약을 접수한다.",
+     "more": 16
+    },
+    {
+     "ts": "2026-07-16 07:56",
+     "source": "중소기업신문",
+     "title": "SK에코플랜트, AI·반도체 혁신기술 6건 선정",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xd2VXc1FvU3cyWWlHZGZYMWVDWUJrcnhENGt4WURucC1IWlZEV3E5c1d4X3JYNmNZWXp4TEtSSGxyTURwSENPTUxqVFJuYW9IR3BDSkx5eWZmaDVFRnBzMl9yazFRdzQzVkNKVlFR?oc=5",
+     "summary": "SK에코플랜트가 사내 공모를 통해 AI·반도체 분야 혁신기술 6건을 선정했다. 반도체 인프라·데이터센터 사업 확대에 맞춘 기술 내재화 행보로 읽힌다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-16 09:03",
+     "source": "핀포인트뉴스",
+     "title": "최태원 \"AI 포트폴리오 가장 잘 짜였다\"…SK AI 전략, 실적이 증명 |",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXWkJ5MFQxdERJME92bUlKNGpWbjJCQnhHeEhLelJFSVdiWE1MVVN6RlMtbEwtMVU0cHZFd0k2dnlybE13czJlb0JQZ19VTGd2c2doX0RfNG5FZV9adzJyUFlYNkJ2MTJzVzV0UHpkeWpLbm9IaGFF?oc=5",
+     "summary": "최태원 회장이 \"SK의 AI 포트폴리오가 가장 잘 짜였다\"고 언급하며 그룹 AI 전략이 실적으로 증명되고 있다고 밝혔다. SK에코플랜트는 반도체·데이터센터 인프라 축에서 그룹 AI 밸류체인의 한 축을 담당한다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-16 07:53",
    "label": "07-16 07시",
