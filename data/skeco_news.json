@@ -1,8 +1,26 @@
 {
- "updated": "2026-07-16 18:00",
- "last_check": "2026-07-16 18:00",
- "last_new": 3,
+ "updated": "2026-07-17 00:00",
+ "last_check": "2026-07-17 00:00",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-07-17 00:00",
+   "label": "07-17 00시",
+   "digest": [
+    "이번 배치는 전부 **'의왕역 SK VIEW' 견본주택 오픈** 단일 이벤트로, 총 1,857가구 중 820가구 일반분양이 핵심 수치",
+    "반도체 인프라·환경·에너지 등 주력 사업이 아닌 **주택 분양 부문 뉴스**로, 사업 방향성 변화보다는 정례적 분양 일정 보도에 가까움"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-16 18:11",
+     "source": "대한경제",
+     "title": "SK에코플랜트, 16일 의왕역 SK VIEW 견본주택 오픈",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkc2JKWUVrR0w3X25lSmxCZk5pcm5JbEdSTXRlN2ZPQkp6YXVwcEZrdkUtRVdrSW5tNEVUTlZLNkFRU1F3UjNPNUhTbmNLd1M2MUozMnBZNWU5YmpCa3JkOU9Fei1oZW45M2EzRUxYTkctR3NmM2c?oc=5",
+     "summary": "SK에코플랜트가 7월 16일 경기 의왕시 '의왕역 SK VIEW' 견본주택을 열고 분양에 나섰다. 총 1,857가구 규모 단지 중 820가구를 일반분양하며, 같은 시기 HDC현대산업개발·일신건영 등도 신규 단지를 공급해 분양시장이 활기를 띠고 있다.",
+     "more": 3
+    }
+   ]
+  },
   {
    "ts": "2026-07-16 18:00",
    "label": "07-16 18시",
