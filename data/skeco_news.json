@@ -1,8 +1,43 @@
 {
- "updated": "2026-07-16 12:00",
- "last_check": "2026-07-16 12:00",
+ "updated": "2026-07-16 18:00",
+ "last_check": "2026-07-16 18:00",
  "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-07-16 18:00",
+   "label": "07-16 18시",
+   "digest": [
+    "**'의왕역 SK VIEW' 1,857가구 분양 개시**가 이번 배치의 압도적 다수 기사로, 견본주택 개관·역세권 입지 홍보에 언론 노출이 집중됐다.",
+    "**최대 2,000억원 공모채 재발행 추진**으로 자금 조달 행보가 이어지는 중이다.",
+    "**미얀마 이주노동자 끼임 사망 사고 유족의 공식 사과 요구**가 분양 호재와 대비되는 부정적 리스크로 부각됐다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-16 14:26",
+     "source": "파이낸셜뉴스",
+     "title": "SK에코 '의왕역 SK뷰', 본격 공급...1857가구 규모",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KYTBoUW83d2oxdkgxMUNyUHE2M3dibGlnaWNTXzdVOXhtRHlEX1JfQk1mOG9SSFpJb0ZOM2ZqeGFTdjg5SXRDX0JnNE9BTUpfRHprZU9PNlJqQQ?oc=5",
+     "summary": "SK에코플랜트가 경기 의왕시 '의왕역 SK VIEW' 견본주택을 16일 개관하고 총 1,857가구(일반분양 820세대) 규모의 분양에 나섰다. 의왕역 도보 3분 역세권 대단지로 강남 접근 20분대를 내세웠으며, 20일 특별공급을 시작한다.",
+     "more": 11
+    },
+    {
+     "ts": "2026-07-16 15:27",
+     "source": "파이낸셜뉴스",
+     "title": "SK에코플랜트, 공모채 시장 재노크…최대 2000억원 조달 [fn마켓워치]",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUa1UwaDFVYllROVZ0MmpuMERWdmdJTTRDdmxFNnlsWFBjbUwwbXdFZGU1Wm9PNDJ6Rl9jdjFZSHRSUEl4Rll1X3lQZzNIcktuQUJ0VFBaRkFuQQ?oc=5",
+     "summary": "SK에코플랜트가 공모채 시장에 재차 나서 최대 2,000억원 규모 자금 조달을 추진한다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-16 15:32",
+     "source": "네이트",
+     "title": "\"제 남편을 돌려주세요\"···미얀마 노동자 유족, SK에코플랜트에 공식 사과 요구",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Lb0piSWpKX0duaUN2cDlBS2RjencyMkU1bkIxeUt4MGljMHlhbmlSNjBvbU04MlJBOVV4VnhORHR6VXE3WTZPQUlvNFBlcDl6RDNz?oc=5",
+     "summary": "미얀마 이주노동자 아웅민우 씨의 끼임 사망 사고와 관련해 유족이 SK에코플랜트를 찾아 공식 사과와 재발 방지 대책을 요구했다. 시민단체도 함께 회사 측의 책임 있는 조치를 촉구했다.",
+     "more": 2
+    }
+   ]
+  },
   {
    "ts": "2026-07-16 12:00",
    "label": "07-16 12시",
