@@ -1,8 +1,25 @@
 {
- "updated": "2026-07-17 18:00",
- "last_check": "2026-07-17 18:00",
- "last_new": 0,
+ "updated": "2026-07-18 00:00",
+ "last_check": "2026-07-18 00:00",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-07-18 00:00",
+   "label": "07-18 00시",
+   "digest": [
+    "이번 배치는 **SK에코플랜트 단독 이슈가 아닌 건설사 종합 소식**으로, SK에코플랜트는 **7월 분양물량 1,857가구** 공급 계획이 여러 건설사와 함께 나열된 수준의 언급에 그침"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-17 18:24",
+     "source": "네이트",
+     "title": "[건설소식] 롯데건설·SK에코플랜트·IPARK현대산업개발·대우건설",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1UXNRS0JoVEhORkN5WTF0eGl3UmdteWxVZVJabmlSb09mZ1YybEtpMG0wQ1FYaThPejhuaTk5MzdFTUxpX1pvd2txdHR5LVRDWF9SSG5RQWxseUE4aF9JWEVGYnMyeWtDMU1LQjNxdnZYckJkcmdqVw?oc=5",
+     "summary": "7월 건설업계 소식 종합 기사로, 시공능력 상위 10대 건설사가 7월부터 전국에서 1만679가구를 분양하는 가운데 SK에코플랜트는 1,857가구를 공급할 예정으로 언급됐다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-17 00:00",
    "label": "07-17 00시",
