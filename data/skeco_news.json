@@ -1,8 +1,25 @@
 {
- "updated": "2026-07-18 12:00",
- "last_check": "2026-07-18 12:00",
- "last_new": 0,
+ "updated": "2026-07-18 18:00",
+ "last_check": "2026-07-18 18:00",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-07-18 18:00",
+   "label": "07-18 18시",
+   "digest": [
+    "SK에코플랜트가 **KTX 공사장 미얀마 노동자 산재 사망 사고**에 대해 대표가 직접 유족에게 공식 사과하고 이주노동자 안전 대책 마련을 약속함 — 비상장사이나 산업재해·ESG 관점의 평판 리스크 이슈"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-18 12:08",
+     "source": "경향신문",
+     "title": "[단독]SK에코플랜트, ‘미얀마 노동자 산재 사망’ 유족에 공식 사과…이주노동자 안전 대책 마련키로",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92aXlGd0hsLV9wX3FpamxTbjBENkxXYmRUQ25Pd1BqQ1QtNGhVbTlRMjI2NllFT2RaWlczUUR5c3Y4NC04eUxrUkp4RkFaaXE4dGRZZHMyWVlLQdIBX0FVX3lxTFA2YXRFQThhVk11amM0UDYzb1VXZTBCSVZ3bzhSdXdxaDY4cXZCNnBLcE41MXdBSkRqR3poblBsVkVhdnFrYzA4eGNQY2U5QjVkdGs5aS1EWG5vWlBMZ0k4?oc=5",
+     "summary": "SK에코플랜트 대표가 KTX 공사현장에서 산재로 숨진 미얀마 이주노동자 유족을 찾아 공식 사과하고 '엄중한 책임을 통감한다'며 이주노동자 안전 대책을 마련하기로 했다.",
+     "more": 4
+    }
+   ]
+  },
   {
    "ts": "2026-07-18 00:00",
    "label": "07-18 00시",
