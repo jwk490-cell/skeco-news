@@ -1,8 +1,25 @@
 {
- "updated": "2026-07-18 18:00",
- "last_check": "2026-07-18 18:00",
+ "updated": "2026-07-19 00:00",
+ "last_check": "2026-07-19 00:00",
  "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-07-19 00:00",
+   "label": "07-19 00시",
+   "digest": [
+    "**아산 KTX 공사장 이주노동자 사망 사고**로 SK에코플랜트 대표가 유족에게 직접 사과 — 시공사 책임 및 산업안전 리스크 부각"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-18 19:07",
+     "source": "대전일보",
+     "title": "아산 KTX 공사장 이주노동자 사망…SK에코플랜트 대표 유족 사과",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFRFByRjE4NmZra2w3SkFkVHhtMWdJYll6UHo1LWJpbmFFWEcyUXdwYmh2U25Qa1dLaFFBLW94N2psYVJWYldHRTNqSHJOalF6emdnVF9BdWxkT2x5NWhwdkkwdXFlRU5STk95Ukl2UdIBc0FVX3lxTE5Od2o3RGZkTDdyLVZWa3d4bUFQTC1pOW9TLUFJUWdUcmtuaDdyakJ1bHRXWGtLN0VjUDM0MnJGMU1DemJObGJoV01MdFN4cDZNckR1ekp0cWk2YU12WWJnZGNXM0Q5VXJmT042eDBFazZWUFE?oc=5",
+     "summary": "충남 아산 KTX 공사 현장에서 이주노동자가 사망하는 사고가 발생했으며, SK에코플랜트 대표가 유족에게 사과했다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-18 18:00",
    "label": "07-18 18시",
