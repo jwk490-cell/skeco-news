@@ -1,8 +1,26 @@
 {
- "updated": "2026-07-19 06:00",
- "last_check": "2026-07-19 06:00",
- "last_new": 0,
+ "updated": "2026-07-19 12:00",
+ "last_check": "2026-07-19 12:00",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-07-19 12:00",
+   "label": "07-19 12시",
+   "digest": [
+    "이번 배치는 **SK에코플랜트 대표의 KTX 공사현장 미얀마 노동자 사망 사고 빈소 방문·사과** 단일 사건으로, 4개 매체가 동일 내용을 보도했다.",
+    "**건설현장 안전·중대재해 리스크**가 부각되는 사안으로, 대표가 직접 유족을 찾아 사과에 나선 점이 특징이다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-19 09:10",
+     "source": "Chosunbiz",
+     "title": "SK에코플랜트 대표, KTX 공사현장서 숨진 미얀마 노동자 빈소 찾아 사과 - 조선비즈",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0hzczFuajN5RWJFYkxESVNKenhRWjhiVzJILUJxbEQ5ZGlNWXJNS1p0SURHNTRkMFhtTlpXbEY0anphSW1QajBOekpPRVpMNmVTRmlyZU04eEFCTlNuMjJiZlBmWjhlLThSSFlxQXE1QUlsU2R4bFo3NXhGejlIRjNxajhtZmZYWXJvN3p3NC1rLVlfME9Cb9IBrAFBVV95cUxONjBHZ0dsWDBnYWZ1NURtYzluWk54aUZFZzVXYVVkR2xDa1R6akMzSzlya2ZvQV9TekU1a3U3WnZSdlNaSDhxR2tmd2hKTWF5T2ZqOVhTblNpUThDOEZ4Nm9FeWt3RlNqeWUyUWRZdGFYZE9OdUNBc3lhVS1GRnFVaUZxNmpYTjYzUjZfYWdCVk5KWmJYcUR1TVNfWG9XRkJrTmtKUlZhVFJPa195?oc=5",
+     "summary": "김형근 SK에코플랜트 대표가 KTX 공사현장에서 숨진 미얀마 노동자의 빈소를 직접 찾아 유족에게 사과했다. 최근 시공 현장에서 발생한 근로자 사망 사고에 대한 책임 있는 대응 차원의 행보로 풀이된다.",
+     "more": 3
+    }
+   ]
+  },
   {
    "ts": "2026-07-19 00:00",
    "label": "07-19 00시",
