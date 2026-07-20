@@ -1,8 +1,25 @@
 {
- "updated": "2026-07-20 18:00",
- "last_check": "2026-07-20 18:00",
- "last_new": 2,
+ "updated": "2026-07-21 00:00",
+ "last_check": "2026-07-21 00:00",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-07-21 00:00",
+   "label": "07-21 00시",
+   "digest": [
+    "이번 배치는 **건설사 정기 동향(건설레이더) 묶음기사 1건**뿐으로, SK에코플랜트 단독 이슈가 아닌 주요 건설사 업데이트 속 언급 수준이다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-20 18:47",
+     "source": "현대경제신문",
+     "title": "[건설레이더] IPARK현대산업개발·SK에코플랜트·대우건설 주요 업데이트",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0NmZmdDVmZWYxWHJrU3FjQjBXaklCTkRZZWRDcW9sUTk3dXpPcXlUUGh1R2tBSDdRX0RSZGllWmlncEY3VG12ek1qRko2czNhZzY2T0pqSjBwcmh4eW83STI1TVJNUkFYM3Bn0gFrQVVfeXFMUDQ2ZmZ0NWZlZjFYcmtTcWNCMFdqSUJORFllZENxb2xROTd1ek9xeVRQaHVHa0FIN1FfRFJkaWVaaWdwRjdUbXZ6TWpGSjZzM2FnNjZPSmpKMHByaHh5bzdJMjVNUk1SQVgzcGc?oc=5",
+     "summary": "현대경제신문 '건설레이더' 코너에서 HDC현대산업개발·SK에코플랜트·대우건설 등 주요 건설사들의 최근 동향을 묶어 다룬 정기 업데이트 기사로, SK에코플랜트도 주요 건설사 중 하나로 포함됐다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-20 18:00",
    "label": "07-20 18시",
