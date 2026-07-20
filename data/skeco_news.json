@@ -1,8 +1,42 @@
 {
- "updated": "2026-07-20 06:00",
- "last_check": "2026-07-20 06:00",
- "last_new": 0,
+ "updated": "2026-07-20 12:00",
+ "last_check": "2026-07-20 12:00",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-07-20 12:00",
+   "label": "07-20 12시",
+   "digest": [
+    "이번 배치는 **주택 분양 소식**이 대부분 — 의왕역 SK VIEW 분양 개시·견본주택 1.8만명 방문, 노량진 드파인 아르티아 정당계약(20~22일) 등 **수도권 핵심지 분양 성과**가 부각.",
+    "김영식 대표의 **이주노동자 유족 사과** 관련 기사는 안전·ESG 리스크 이슈로 별도 주목 필요."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-20 08:33",
+     "source": "글로벌이코노믹",
+     "title": "SK에코플랜트, '의왕역 SK VIEW' 분양 돌입",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2NubHdvV0RjZnkzRUV0TllZTVN6X1VmamNhWmZueGFldG5jMzZYTHJvZ2JrSnVOVmdCUENpQVVNMW4zVWZ0V19nWlgtekRWMzYwUV85dlIwZm5yeXNiS21nXzJLNElpSEw3NDZXSE5xR19ETDRyS1NtMkZRTWtxN1p4b2pLbHBy?oc=5",
+     "summary": "SK에코플랜트가 '의왕역 SK VIEW' 본격 분양에 돌입했으며, 견본주택에는 개관 사흘간 약 1만 8천 명의 방문객이 몰렸다.",
+     "more": 5
+    },
+    {
+     "ts": "2026-07-20 08:53",
+     "source": "국토일보",
+     "title": "SK에코플랜트, 노량진뉴타운 '드파인 아르티아' 20일(월)~22일(수) 정당계약",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nMTJ6eTc3Y1Fzay1jalZVWjlYQW9ETlkyeWU0NDRFdzlXQTRjMFlGbGJ1NHhsVTUteVpfV1JfNVdLQ0tTLW1MLUwwd1lIMzJXOUdvb3lBaTdHMVptXzBnMmozc2o?oc=5",
+     "summary": "노량진뉴타운 '드파인 아르티아'가 7월 20일(월)부터 22일(수)까지 정당계약을 진행한다(171세대, 청약 최고 경쟁률 50.1대 1).",
+     "more": 3
+    },
+    {
+     "ts": "2026-07-20 10:26",
+     "source": "세이프타임즈",
+     "title": "'이주노동자 유족'에 고개 숙인 김영식 SK에코플랜트 대표",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3Qllpa0NTaDY5cElrbm5tUFJLeDJJVXBYU0gtMW5aS2JtdTdaZXppOWJ0OXBHTzE1Q1J5RWJlX0ZvMnJCVGwwYjRpZ2tERG8tS2ZZZ2lwZDZieF82SkQyeGRBUHZhbkRKdWJKcUpzSdIBc0FVX3lxTE5JV3hpMGx0cjNCV3BONlcwdmJQazFJMDBWTm5EclJOcU1wbjU4SUxrWXRpdmktNmpPNnRwaW9mNUJaVS1iNHdrVFlEcnNOUVpzR1lXY1h5Wkw4MTFTUEF2YzBic1pmUlNfT3drR1RzRWg0Tnc?oc=5",
+     "summary": "김영식 SK에코플랜트 대표가 이주노동자 사망 사고 유족에게 고개 숙여 사과했다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-20 00:00",
    "label": "07-20 00시",
