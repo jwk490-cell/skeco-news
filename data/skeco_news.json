@@ -1,8 +1,59 @@
 {
- "updated": "2026-07-21 12:00",
- "last_check": "2026-07-21 12:00",
- "last_new": 0,
+ "updated": "2026-07-22 00:00",
+ "last_check": "2026-07-22 00:00",
+ "last_new": 5,
  "checks": [
+  {
+   "ts": "2026-07-22 00:00",
+   "label": "07-22 00시",
+   "digest": [
+    "이번 배치의 핵심은 SK에코플랜트의 **재무·크레딧 이슈**로, 반도체 인프라 중심 사업 재편·실적 반등은 긍정적이나 **3.3조원 순차입과 PF 우발채무**가 공모채 흥행·신용도의 최대 변수로 지목됨",
+    "단기채 활용으로 당장의 유동성 압박은 해소했으나 구조적 차입 부담은 지속",
+    "비주력 **SK오션플랜트 매각**(몸값 협상)과 하안주공5단지 재건축 수주 등 자산 재편·본업 활동은 병행 진행 중"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-21 14:40",
+     "source": "뉴스토마토",
+     "title": "[IB토마토](크레딧시그널)SK에코플랜트, 반도체 중심 재편 성공…PF는 부담",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51R0hoMXZWMnpFWldwc25uVjJDRXNCMGFVTEN2UzBORUEwOVNWQ1hKMkFvV3FNQWptcHBTaVI4a2N5bzhidUk0MjM4XzZkaFJhOFdZcEhHdDZuQ1VMX0E2RA?oc=5",
+     "summary": "SK에코플랜트가 반도체 인프라 중심으로 사업 재편에는 성공했고 실적도 반등했지만, 3.3조원 규모 순차입과 PF 우발채무가 '뇌관'으로 지목되며 공모채 흥행과 신용도의 최대 변수로 부각됐다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-07-21 16:17",
+     "source": "블로터",
+     "title": "[K조선 공급망] '알짜 매물' SK오션플랜트, 몸값 줄다리기 쟁점은",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaUE1TUmN2N0E1WFhMdE5RNGpWdFVOd3lyay1TQnlzdXUtSkstN0VxaUZjTGYxTWhhV21VZzE4Mm94U2ZQMDN1MnRUQkFrdUdleWNIZ1h3MUVYUnpGMzYyYkt0ek1Nejdj0gFsQVVfeXFMTkpvNUYxdmhpOThfQ0o4NEY5aWlzZ2xxQ1NkTE5SbWljWVVPQVBxOXlPN2ZkZG5MbUhKdS1Fa3RFVkRRaTl3MUtQUjQ0MmtqWUlLOVRORm9uVGZjT2FMcGJMRjRFNWREXzk4Ym5U?oc=5",
+     "summary": "SK에코플랜트가 매물로 내놓은 '알짜' 조선 기자재 자회사 SK오션플랜트의 매각이 진행 중이며, 인수 후보와 매각가(몸값)를 둘러싼 줄다리기가 쟁점으로 떠올랐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-21 17:08",
+     "source": "v.daum.net",
+     "title": "[단독] ‘무응찰’ 하안주공5단지, SK에코·한화 컨소시엄 가닥",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XVDJRbVpXeGVmMkUzX1M1MjM0MTJjU2gycXB3TGtENkdZcjl0RHFSZHlpakJ0XzRVQU9MeHJTR0dJNmgzOXJGOUxndmdSWmM?oc=5",
+     "summary": "무응찰로 유찰됐던 광명 하안주공5단지 재건축 사업이 SK에코플랜트·한화 컨소시엄 수주로 가닥이 잡힌 것으로 단독 보도됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-21 16:06",
+     "source": "블로터",
+     "title": "[건설사 자금조달 진단] SK에코플랜트, 단기채로 유동성 압박 해소",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UMGUyTDNUa29QdkRRaFFQRGMzRHpqektwTGxqNVdMejk1V2xBZGcxRGc3bE1QSTJheXo4Y3F3YlNsTUUzMG9TbG4xVGY2aGRqREhna0RJc194OXI2ejNKRXVCLURfam4w0gFsQVVfeXFMUEExejlVNkNrUlMzTXpYVTZPNTRrdUN4OXRqXzF4c0J3MjNIOGtCcm5hbUNMaUVwRFZEYkt4Y0FQaWtJNmN3U0lIQ3NoaDcyQ2pSei1fLXZab1M3UVRGd2lzSWFmaXh4Q2tmR3ZN?oc=5",
+     "summary": "SK에코플랜트가 단기채 발행을 활용해 당면한 유동성 압박을 해소했다는 건설사 자금조달 진단 기사.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-21 14:19",
+     "source": "SK에코플랜트 뉴스룸",
+     "title": "[딱 알려드림] AI 데이터센터, 전력과 냉각의 기술 트렌드",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHcXQ0Qm45QU1nV2lCNW1UZTRFWWFFYW9ndnBERjJWV01GSG9IZDB3cGxTZ3RuLUFFMF9rWU9HTmpFYmo4eVpTZUVuQVRFM1lV?oc=5",
+     "summary": "SK에코플랜트 뉴스룸이 AI 데이터센터의 전력·냉각 기술 트렌드를 설명하는 콘텐츠로, 자사 AI DC 인프라 사업 방향성을 소개했다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-21 00:00",
    "label": "07-21 00시",
