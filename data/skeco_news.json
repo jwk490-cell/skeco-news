@@ -1,8 +1,34 @@
 {
- "updated": "2026-07-22 06:00",
- "last_check": "2026-07-22 06:00",
- "last_new": 0,
+ "updated": "2026-07-22 12:00",
+ "last_check": "2026-07-22 12:00",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-07-22 12:00",
+   "label": "07-22 12시",
+   "digest": [
+    "이번 배치는 SK에코플랜트의 **주택·건설 사업 관련 이슈**로 협력사 서울 이전 추진과 '의왕역 SK뷰' 청약 미달 두 건이 핵심이다.",
+    "**'의왕역 SK뷰' 1순위 청약 미달**은 고분양가 논란과 맞물려 주택 분양 경기 부담을 시사한다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-22 08:45",
+     "source": "머니투데이",
+     "title": "\"이천 왔더니 다시 서울?\"…SK에코플랜트 협력사 이전 추진에 '술렁' - 머니투데이",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qNmx5VWhNdjZvMnl0VjhtbXg0a2lkeko1TTJZMHNUOVpTQWdBSnBZbW5hZkM0X084TkF3NmMzQ3FHVm9ScXpzZEdQendFSWxKQ3pCMDFiaEFJOXh3bDFtSmRNMS1mMVdnQktLb2lXc9IBb0FVX3lxTE9qNmx5VWhNdjZvMnl0VjhtbXg0a2lkeko1TTJZMHNUOVpTQWdBSnBZbW5hZkM0X084TkF3NmMzQ3FHVm9ScXpzZEdQendFSWxKQ3pCMDFiaEFJOXh3bDFtSmRNMS1mMVdnQktLb2lXcw?oc=5",
+     "summary": "SK에코플랜트가 이천에 자리 잡은 협력사를 다시 서울로 이전하는 방안을 추진하면서 관련 지역이 술렁이고 있다는 내용이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-22 09:14",
+     "source": "스트레이트뉴스",
+     "title": "'의왕역 SK뷰, 1순위서 10채 중 4채 미달...\"의왕시장, 비싸도 넘 비싸\" |",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uV3MwWncwczFzbnI1Z1V5UHpHUHlDWUd2S2l5OVRGOHlkUE5STlA2RHZYWE5kT0lmSURqVGt1LURjcUtZN2kxSjFkOEg1bzdoLU9TWTk3RGVYaFhSNWJNMXJWR25kdXRkOUNoRDByUkxVT0wybVJB?oc=5",
+     "summary": "SK에코플랜트 아파트 브랜드 '의왕역 SK뷰'가 청약 1순위에서 10채 중 4채가 미달했으며, 분양가가 지나치게 비싸다는 지적(의왕시장 발언 포함)이 제기됐다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-22 00:00",
    "label": "07-22 00시",
