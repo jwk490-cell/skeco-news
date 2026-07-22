@@ -1,8 +1,50 @@
 {
- "updated": "2026-07-22 12:00",
- "last_check": "2026-07-22 12:00",
- "last_new": 2,
+ "updated": "2026-07-22 18:00",
+ "last_check": "2026-07-22 18:00",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-07-22 18:00",
+   "label": "07-22 18시",
+   "digest": [
+    "회사채 수요예측에서 목표액의 **약 10배(9870억원)** 주문이 몰리며 흥행, 발행금리도 '언더' 두 자릿수로 형성돼 조달 여건이 우호적",
+    "반도체 시공 확대로 **영업이익 1260% 급증**했으나 PF 리스크가 숙제로 지적됨"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-22 16:25",
+     "source": "연합뉴스",
+     "title": "SK에코플랜트, 회사채 수요예측서 약 1조원 수요 확보",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUVkZMV3JNOGY3UjR1TzN4MmNGc1RSZ0tvZ0FGUmJaOW9TNjNwM1FiTmlLUDJzOFZwdzNWcGZGMHpIaHM5Z25laVp5dk12T3pmektPZFo3d3MwVmfSAWBBVV95cUxQUExyYVpZQzRjUzdaTWs0SDdXcnVhR1lxY0w3ZTBlQkIzMXFVaTBvN0VBczdnTFFqSW9pYUxwVFNVUE9aY0E2OUd4VHFBN2JyU3BaRTB5SXhIaE40bTZjOWQ?oc=5",
+     "summary": "SK에코플랜트가 1000억원 규모 회사채 수요예측에서 목표액의 약 10배인 9870억원(약 1조원)의 주문이 몰리며 흥행했다. 발행금리는 희망밴드 대비 '언더(-)' 두 자릿수로 형성돼 조달 여건이 우호적이었다.",
+     "more": 5
+    },
+    {
+     "ts": "2026-07-22 15:16",
+     "source": "오피니언뉴스",
+     "title": "SK에코플랜트, 반도체 제조시설 시공확대 영업익 1260% 신장...PF 리스크는 숙제",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Sd2RMV2JlV1R6d2FVNTUtUnhfQ0FkWV94RUE4bV9wWURQRS1EOWpodUNIcjAzQVFObURnYUx2dHpTZDc3Q09KYXpxVG1fSWdPM3lsbjJPMXBjZk1uV0ttQVpBOFpveC1lcXZkNTJrZkk?oc=5",
+     "summary": "SK에코플랜트가 반도체 제조시설 시공 확대에 힘입어 영업이익이 1260% 급증했으나, PF(프로젝트파이낸싱) 리스크가 여전히 과제로 남아 있다는 분석이 나왔다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-22 15:23",
+     "source": "불교신문",
+     "title": "‘산재 사망 미얀마 노동자’ SK에코플랜트 공식 사과",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sWUJEc3hHTmVseWxDMWFiVnZycU1IcnlxTTQ1RElsV0QxUldOLS1rU0Y3a2ZzQUZxRGVsR3pvQ0tNRkFCU3BoRnoxOVFhMWxuV25TaUJfNHR5VmdmXzRfZGpDNEJkSGhmV1FYdNIBbEFVX3lxTE1sWUJEc3hHTmVseWxDMWFiVnZycU1IcnlxTTQ1RElsV0QxUldOLS1rU0Y3a2ZzQUZxRGVsR3pvQ0tNRkFCU3BoRnoxOVFhMWxuV25TaUJfNHR5VmdmXzRfZGpDNEJkSGhmV1FYdA?oc=5",
+     "summary": "SK에코플랜트가 산업재해로 사망한 미얀마 노동자에 대해 공식 사과했다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-22 17:53",
+     "source": "네이트",
+     "title": "하안주공5단지 재건축 현설에 SK에코플랜트 등 3개사 참여",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ldGZrZnM5cEJFQjZ6QVpWTldDeVpoNVZuSWZ3Rk5NUlRNZUdQSndBUEJuUmpOaHlSSEhYRUhfeDROTi04OURyMUEwT1NRX192WlZDdkhrWnVvVzl0enNobk01VzROZXhQSjJpUUNNLTFKU3JyS2E5bw?oc=5",
+     "summary": "하안주공5단지 재건축 현장설명회에 SK에코플랜트 등 3개사가 참여했다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-22 12:00",
    "label": "07-22 12시",
