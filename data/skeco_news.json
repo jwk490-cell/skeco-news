@@ -1,8 +1,51 @@
 {
- "updated": "2026-07-23 06:00",
- "last_check": "2026-07-23 06:00",
- "last_new": 0,
+ "updated": "2026-07-23 12:00",
+ "last_check": "2026-07-23 12:00",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-07-23 12:00",
+   "label": "07-23 12시",
+   "digest": [
+    "**재무구조 개선이 이번 배치의 핵심** — 1천억 회사채 차환 수요예측에 10배(9870억) 몰리며 건설채 빙하기 속 조달에는 성공했으나, 낮은 수익성과 SK오션플랜트 매각 추진 등 1조원대 현금유출發 재무 부담이 동시에 부각됐다.",
+    "주택 브랜드 측면에서 '의왕역 SK VIEW'가 전 가구 1순위 마감(최고 31.5대 1)으로 분양 성과를 냈다.",
+    "충남혁신센터와의 AI·딥테크 오픈이노베이션 참여기업 모집으로 신사업·기술 협업 행보도 이어갔다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-23 08:39",
+     "source": "서울경제TV",
+     "title": "SK에코플랜트, 회사채 수요예측에 9870억원 몰려…모집액 10배",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrSlBEc0NRamFiR2tmcERHYmxWZjh3TnpiUDRycjg2MU1pUnVtQWo0OGxhME5zSV9vNmxYY0RaMTBjeEdQVDhwNVJIMDBxTlh3cmNONTNILXFmZExIOWhUTHVyeWw?oc=5",
+     "summary": "SK에코플랜트가 1천억원 규모 회사채 차환 발행을 위한 수요예측에서 모집액의 약 10배인 9870억원의 매수 주문을 받으며 흥행에 성공했다. 건설채 투자심리가 얼어붙은 상황에서도 시장의 선택을 받았으나, '이자만큼도 못 벌던' 수익성에 대한 우려 시각도 병존한다.",
+     "more": 3
+    },
+    {
+     "ts": "2026-07-23 08:26",
+     "source": "국토일보",
+     "title": "SK에코플랜트, ‘의왕역 SK VIEW’ 1순위 청약마감… 최고 31.5대 1",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhR24yN2JwYlVOSjN5UWtDVjRlWmRJX2hhVWJaSC1NWFB3RTgxQ2lUdXJOQlI0ZW5TSmtSUUtfSlgyLVFYMEx0cTZWNkNWQmdZX1ZGYXdzd0I3QWtUemVDMnBGZng?oc=5",
+     "summary": "SK에코플랜트가 시공하는 '의왕역 SK VIEW'가 384가구 모집에 2486건이 접수되며 전 주택형 1순위 청약 마감에 성공했다. 최고 경쟁률은 전용 36㎡에서 31.5대 1을 기록했다.",
+     "more": 6
+    },
+    {
+     "ts": "2026-07-23 08:40",
+     "source": "뉴스프리존",
+     "title": "‘1조 유출’로 돈맥경화···SK에코플랜트, 오션플랜트 매각 ‘사활’",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wVU1PRUxNRFBLUGo5RDJSbTdZT1g3NEhmbk5NcUh4a0tmaVhNNGF2RjRLUVJ0ck9zc2tKOFN4eFgyeTd1Z0F3TGhvaGtzanhCS0RWNElDSXkzVm5jaXFQOFZtTFQydmpqSVpBRFZhRGNJc3PSAXdBVV95cUxNRGtkZld3dUt5cGpGN21lbjB6YnU0NDl6VjJUemRBWDdOcjZzUlJmbXdFLW9CcWUwOUxfSF9NTlNaWmc3dUY5ano0UjFDb25tM3psaEF0b2MxLTRYQVI3X0R6c1JfSk1Gb212Q3pjZ0Q3OTluYmNIQQ?oc=5",
+     "summary": "약 1조원 규모의 현금 유출로 재무 부담이 커진 SK에코플랜트가 자회사 SK오션플랜트 매각에 사활을 걸고 있다는 분석이 제기됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-23 10:21",
+     "source": "전자신문",
+     "title": "충남혁신센터-SK에코플랜트, AI·딥테크 오픈이노베이션 참여기업 모집",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5IaHVDSnNHbEw2THJ3WGRsN3RlWEg1QmZpRGM2eDhkQzlBb3J5WG1Ea0FXQkVKUzBoZGhaZ0ZWVjB5cGtIcWxzMEp3dndIUQ?oc=5",
+     "summary": "충남창조경제혁신센터가 SK에코플랜트와 함께 AI·딥테크 분야 오픈이노베이션 참여 기업을 모집한다.",
+     "more": 1
+    }
+   ]
+  },
   {
    "ts": "2026-07-23 00:00",
    "label": "07-23 00시",
