@@ -1,8 +1,42 @@
 {
- "updated": "2026-07-23 12:00",
- "last_check": "2026-07-23 12:00",
- "last_new": 4,
+ "updated": "2026-07-24 07:30",
+ "last_check": "2026-07-24 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-07-24 07:30",
+   "label": "07-24 07시",
+   "digest": [
+    "이번 배치의 핵심은 **최대 2,000억원 공모 회사채 발행**으로, 반도체·AI 인프라 중심 체질 전환을 자금조달 측면에서 뒷받침하지만 **현금흐름 개선**이 숙제로 남았다.",
+    "**AI·딥테크 오픈이노베이션(충남혁신센터)**과 **SK뷰 분양** 등 신사업·주택 부문 동향이 함께 포착됐다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-23 11:57",
+     "source": "v.daum.net",
+     "title": "반도체·AI로 체질 바꾼 SK에코플랜트, 최대 2000억 공모채 발행",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uRWdhMTJzZ2dvbUtGV1pPdldqU3B2ZnFTMnM3b3RVaHB4SVdENnNaVnFsX1dwX2hBLTVhWldLWWc1WEdvUHQ5eDliSjdIUTYzVHc3RA?oc=5",
+     "summary": "SK에코플랜트가 반도체·AI 데이터센터 인프라 중심으로 사업 체질을 바꾼 가운데 최대 2,000억원 규모 공모 회사채 발행에 나섰고, 수요예측이 흥행하며 차환 부담은 줄었으나 현금흐름 개선은 여전히 과제로 지적됐다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-07-23 15:28",
+     "source": "대전일보",
+     "title": "충남혁신센터, SK에코플랜트와 AI·딥테크 오픈이노베이션",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zZS1UMU1oOFVGcGtlMHZsU2p6cVJuU2ZrQk1YbDVjS1hCei1tQ0hRM1lNSnFaSDl6UkR4MkY5blYyMXVvTXpHaFhLYWJqa3pnVFlzRnlhejdsQjFBUW1fRU1YcnZfemJHVUo0eTR6VFdWYUHSAXNBVV95cUxNc2UtVDFNaDhVRnBrZTB2bFNqenFSblNma0JNWGw1Y0tYQnotbUNIUTNZTUpxWkg5elJEeDJGOW5WMjF1b016R2hYS2Fiamt6Z1RZc0Z5YXo3bEIxQVFtX0VNWHJ2X3piR1VKNHk0elRXVmFB?oc=5",
+     "summary": "SK에코플랜트가 충남창조경제혁신센터와 손잡고 AI·딥테크 분야 오픈이노베이션을 추진, 유망 스타트업 발굴·협업에 나섰다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-23 17:39",
+     "source": "스트레이트뉴스",
+     "title": "의왕역 SK뷰 84㎡B·C, 2순위행…역대 최고 분양가 ‘후폭풍’",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpeFVGM0Y0eHhkZ0xGclU0elIwS3kyTjBXSW1STGJXalpnb2ItUDgwYnVXdWQtaVhUd01QSnpxUGxZNU1QNFViUEV6Sjkxc3dWN1pGQW5kRW5UZV9vN3l6cnFUbUNldFRVSUJDRXB5dEx2MldWYzU40gF3QVVfeXFMUGl4VUYzRjR4eGRnTEZyVTR6UjBLeTJOMFdJbVJMYldqWmdvYi1QODBidVd1ZC1pWFR3TVBKenFQbFk1TVA0VWJQRXpKOTFzd1Y3WkZBbmRFblRlX283eXpycVRtQ2V0VFVJQkNFcHl0THYyV1ZjNTg?oc=5",
+     "summary": "SK에코플랜트 아파트 브랜드 'SK뷰'의 의왕역 단지 84㎡B·C 타입이 2순위 청약으로 넘어갔으며, 역대 최고 수준 분양가에 따른 후폭풍이 거론됐다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-23 12:00",
    "label": "07-23 12시",
