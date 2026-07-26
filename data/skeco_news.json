@@ -1,8 +1,26 @@
 {
- "updated": "2026-07-26 07:30",
- "last_check": "2026-07-26 07:30",
- "last_new": 3,
+ "updated": "2026-07-27 07:30",
+ "last_check": "2026-07-27 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-07-27 07:30",
+   "label": "07-27 07시",
+   "digest": [
+    "**SK에코플랜트가 공모 회사채를 1000억→2000억원으로 증액 확정**하며 수요예측 흥행을 확인, 비우호적 시장에도 우량 계열 프리미엄이 작동했음을 보여줌.",
+    "공모채 조달이 **IPO 재추진 등 향후 자금·자본 전략과 연계**되는 흐름으로 해석됨."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-26 11:01",
+     "source": "네이트",
+     "title": "SK에코플랜트, 회사채 1000억→2000억 '증액 확정'",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5idFlySnZDald0M2lKbURwcDFFaTZKZDcwLS0zUnBPOTNUbEdBemloaGdEMmp6ZERzOHFNdDJjOUNqNUlSMmJZSF9ZNmZnRHdtRW1V?oc=5",
+     "summary": "SK에코플랜트가 공모 회사채 수요예측 흥행에 힘입어 발행 규모를 당초 1000억원에서 2000억원으로 증액 확정했다. NH투자증권 등과 함께 진행된 공모채로, 시장에서는 SK에코플랜트의 IPO 재추진 움직임과 맞물려 자금조달 행보에 주목하고 있다.",
+     "more": 1
+    }
+   ]
+  },
   {
    "ts": "2026-07-26 07:30",
    "label": "07-26 07시",
