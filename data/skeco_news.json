@@ -1,8 +1,34 @@
 {
- "updated": "2026-07-27 07:30",
- "last_check": "2026-07-27 07:30",
- "last_new": 1,
+ "updated": "2026-07-28 07:30",
+ "last_check": "2026-07-28 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-07-28 07:30",
+   "label": "07-28 07시",
+   "digest": [
+    "**본업 현금창출력**: 상반기 영업이익의 85%가 자산순환(자산 매각)에서 나와, 지속가능한 영업현금 개선이 김영식호의 최우선 과제로 부각",
+    "**도시정비 수주 확대**: 드파인 연희에 이어 천연동 89-16 등 서울권 정비사업을 잇따라 단독 수주하며 주택·정비 부문에서 존재감 강화"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-27 08:37",
+     "source": "뉴스필드",
+     "title": "SK에코플랜트, 김영식호 현금창출력 개선 과제…영업이익 85%는 ‘자산순환’서 나왔다",
+     "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxObXZHTGsxT1lxS2RBUFNlclZ6RVRvYlhpVUk0VEZteDR6MkN0UVlOeUpEcmRhS2ppZ3JhUmxPNFZWNFJ5bC1GWTRpUFdpUXVmZzZNQlJ1amZRUDFDOTNrTHlfNVRRc2hSVGMteE95Y18yM1BMakZiTXBWVVZTeWZLajQxVXdSaURWQWY4RnFFQVNteFBBTFJDWUV6enFfMjRnUDhRZVFLcHVTVVg0bjBfUVdqdUFkM2ljQVhyZXdIZkdXbm1wTWV6bldhN0xBNjR1VVVoSmhoUDFIQWVVc2UtMU5XeEY2eGR6SVVDY2dnU1lrenBLMnkyLVJhSk5ja3hzT29scDdmWGlBZDd6MFBMTVkzVm9XbUVZWUJjRkR5S2NxYVY3bFdFR2VfaWkybWhGaEluTkh3ZnZnM2JR?oc=5",
+     "summary": "SK에코플랜트 2026년 상반기 영업이익의 85%가 자산 매각 등 '자산순환'에서 발생해, 김영식 대표 체제의 본업 현금창출력 개선이 핵심 과제로 지목됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-27 16:54",
+     "source": "대한경제",
+     "title": "[도시정비시장 풍향계] ‘드파인 연희’ 이어…SK에코, 천연동 89-16번지 ‘무혈입성’ 수순",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fbkhWVkFZWFZ6SFEySnVXTkZodXFWR3RudkgyX01jMGZ4STAtZi1HREs3eFl0bWdhY0xxTVdtUlFvTkctbEVNWE1GZ3U4TXdqZVJfNmtRQXdJWGtxcERXeVZhZ1U2ZzNSeGhiNGw2bGUwbG5KOHc?oc=5",
+     "summary": "SK에코플랜트가 '드파인 연희'에 이어 서울 천연동 89-16번지 재개발(정비사업)도 경쟁자 없이 사실상 단독 수주하는 '무혈입성' 수순을 밟고 있다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-27 07:30",
    "label": "07-27 07시",
