@@ -1,8 +1,42 @@
 {
- "updated": "2026-07-28 07:30",
- "last_check": "2026-07-28 07:30",
- "last_new": 2,
+ "updated": "2026-07-29 07:30",
+ "last_check": "2026-07-29 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-07-29 07:30",
+   "label": "07-29 07시",
+   "digest": [
+    "이번 배치의 핵심은 **SK오션플랜트 매각 장기화** — 약 1조원 투자금 회수 눈높이와 지역 변수로 거래가 지연되며 SK에코플랜트의 IPO용 재무구조 개선에 부담.",
+    "**중대재해 리스크**는 국토부 제재는 피할 전망이나 형사책임 향방은 미결로 남음."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-28 16:35",
+     "source": "시사저널e",
+     "title": "1조 투자금에 지역 변수까지···SK오션플랜트 매각, 왜 길어지나",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZaTI1UzE4WjYzUEd3cU9QR3VyQXlpWTJ5bm5ScVVEVlhiZlVOM2VjRllYSWZMcFpucFJQN1UtT3p2NnZYT09FNWMwZC03ZWl3Z3BEdGd6ZkZnS1VTVGJVTHBjSXhNNEEtNS05U3pCZk5Nd9IBdkFVX3lxTFBqbFFfTzlCa0xXNThMV2RPcUozVkRBeXMtSWh4Y0p5V0pGQ1YzQ2V5ZlRydVNzdUlyTTdnSkVRNzZRYmk1UzdIZ01LNk5kajFnZ1k4ckk3ZkFyYmx1emszM2FUTmhSVXUtUlZxejNKR1hISzFaV1E?oc=5",
+     "summary": "SK에코플랜트가 자회사 SK오션플랜트 매각을 추진 중이나 약 1조원대 투자금 회수 눈높이와 지역(경남 고성) 변수 등이 겹치며 거래가 장기화되고 있다. IPO 재무구조 개선 차원의 자산 매각 지연이 부담 요인으로 지목된다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-28 14:58",
+     "source": "supple.kr",
+     "title": "SK에코플랜트 중대재해, 국토부 제재 면할 듯..형사책임 '촉각'",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51cXpHVzBTRUNhRk5oN0g3UVpKM3ZpS2owcEVRVXNrNlotMUtTczAzNGRsV2dwYVl5UmNMRFJVbWUwQjdjRW1RM3FRTF9abmpEb013d0NMMEZmV2ht?oc=5",
+     "summary": "SK에코플랜트 관련 중대재해 사안에 대해 국토부 차원의 제재는 면할 가능성이 커졌으나, 경영책임자에 대한 형사책임(중대재해처벌법 적용) 여부는 여전히 촉각을 세우는 상황이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-28 16:58",
+     "source": "v.daum.net",
+     "title": "충남중기청, SK에코플랜트 맞춤 AI 스타트업 모집",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iamN1ejBxd2ViZFluUlBCQlc2anhoOXZGV1BhNDBUMm5mdkpreW1ucnFxU2I0NWdISlJicGJCeVFuZmktZi12cUgzcFVnbk0?oc=5",
+     "summary": "충남중소벤처기업청이 SK에코플랜트와 연계해 맞춤형 AI 스타트업을 모집하는 오픈이노베이션 프로그램을 진행한다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-28 07:30",
    "label": "07-28 07시",
