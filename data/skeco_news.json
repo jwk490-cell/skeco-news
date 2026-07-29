@@ -1,8 +1,42 @@
 {
- "updated": "2026-07-29 07:30",
- "last_check": "2026-07-29 07:30",
+ "updated": "2026-07-30 07:30",
+ "last_check": "2026-07-30 07:30",
  "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-07-30 07:30",
+   "label": "07-30 07시",
+   "digest": [
+    "이번 배치의 핵심은 **네이버 200㎿ AI 데이터센터 건설 후보로 SK에코플랜트가 거론**된 점 — AI 인프라 EPC 수주 기대와 직결되는 사업적 뉴스다.",
+    "나머지는 **울산 중구 '행복두끼' 결식아동 도시락 지원 협약(ESG)**과 **주거 브랜드 SK뷰 브랜드 스토리** 등 비재무·홍보성 기사로, 실적 영향은 제한적이다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-29 10:33",
+     "source": "뉴스퀘스트",
+     "title": "SK는 ‘집안 식구’ SK에코플랜트…네이버 200㎿ AI 데이터센터는 누가 짓나?",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNZUlNazRLV0tjRXdxWllyYTY4amd2QXhRcmtDQ2U4Sk4xUTFCS0Jna2JNdWFCMUtQelBTLVFZc3d6S0ZQb2JHNU1qMWItSlpCSFdHUjhFZWhXcEtqbm5pOVVLS2RtYjU1SzBoRVR1RdIBc0FVX3lxTE9lZGlzX2RJVTNITUljdWRaWXVXRHpmVFoxZU9DaGlGVkJTckhiOGhEdlE4ajJmMHcxN2dPcS1sSHUwM0FScHhyWEloUkpkMVR4UDlETUJZbUZ6QUYwUUItVm9NWkZrX3BwZDE4UU11ZkxlbjQ?oc=5",
+     "summary": "네이버가 추진하는 200㎿급 AI 데이터센터 건설 사업자로 SK 계열사인 SK에코플랜트가 유력 후보로 거론됐다. 반도체·데이터센터 인프라 EPC 역량을 앞세운 SK에코플랜트의 AI 인프라 수주 기대를 다룬 기사다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-29 17:52",
+     "source": "koreatimenews.com",
+     "title": "중구-SK에코플랜트-행복나래㈜-행복도시락 사회적협동조합, ‘행복두끼 프로젝트’ 업무협약 체결",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GOVBHdnoyUl9iNndyTzN6eUZVNTJwTnFaNU9vV29sUzE0UUdXV1ZPU3R0MUtPRFhsN1Q2WmVRVWc1aEJhS0V4SFNBZGxJdE84WG9Md0VEMmlJdURsZXlCa3dxRXZzRTZFR2c?oc=5",
+     "summary": "울산 중구, SK에코플랜트, 행복나래㈜, 행복도시락 사회적협동조합이 결식 우려 아동에게 도시락을 지원하는 두 번째 '행복두끼 프로젝트' 업무협약을 체결했다. SK에코플랜트의 사회공헌(ESG) 활동 성격의 협약이다.",
+     "more": 3
+    },
+    {
+     "ts": "2026-07-30 07:00",
+     "source": "뷰어스",
+     "title": "[apt 브랜드스토리⑧] SK뷰, 생활의 가치를 담은 주거 브랜드",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sdDVZUXF5VzE0VnFDa0l0c2lKalBqaXZ4RTk2aF9NS3BCa29tRC00emNabGhISEJxUTVrU2ZCMG4xR3FfWnItaTY4RTRfS3lpek1YdDZibWk?oc=5",
+     "summary": "SK에코플랜트의 주거 브랜드 'SK뷰(SK VIEW)'를 소개하는 아파트 브랜드 스토리 기획 기사로, 생활 가치를 담은 주거 브랜드로서의 정체성을 조명했다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-29 07:30",
    "label": "07-29 07시",
