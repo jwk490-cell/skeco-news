@@ -1,8 +1,34 @@
 {
- "updated": "2026-07-30 07:30",
- "last_check": "2026-07-30 07:30",
- "last_new": 3,
+ "updated": "2026-07-31 07:30",
+ "last_check": "2026-07-31 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-07-31 07:30",
+   "label": "07-31 07시",
+   "digest": [
+    "**AI·반도체 인프라 수혜**가 SK에코플랜트의 실적 반등, 회사채 흥행, 시공능력평가 9위 수성(10위와 1.4조 격차)으로 가시화되며 이번 배치의 핵심 재무 스토리를 형성",
+    "나머지는 울산 중구 결식우려아동 지원 확대 **ESG·사회공헌** 협약으로, 다수 매체가 동일 사안을 보도"
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-30 17:39",
+     "source": "한국경제TV",
+     "title": "‘반도체 수혜’ SK에코플랜트, 시평 9위 수성…10위와 1.4조 격차",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwT2QtOEVFWjZpZkNuOHBpenBNZVQwUVNmZEFCRl81RmluSk4wR1ZqMkhRYmRLRGdsWm1sck5kUTZHcWZjbU16akxsMmUtZTc3UnVXVjV0OUNjTDFBbmxZYmd5TDVOQzdqcmdUMk90emNGamczQUo4?oc=5",
+     "summary": "SK에코플랜트가 AI·반도체 인프라 수주에 힘입어 국토부 시공능력평가 9위를 수성하며 10위와 약 1.4조원 격차를 벌렸고, 실적 반등과 함께 회사채 발행도 흥행하는 등 반도체 수혜 기대가 재무·순위 지표로 확인되고 있다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-07-30 09:03",
+     "source": "beyondpost.co.kr",
+     "title": "행복얼라이언스, SK에코플랜트와 울산 중구 결식우려아동 지원 확대",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KMHNyYWtpM0FIM0FMM3UtdVh5NDdZZ3dOa3FmSHdFUHNlaDRud1A3OVQzUGlxX0JrNWp4ZnEtUUk4dmdXdTByZXRoaHRqQUF5ZFRxeEphcEFSZE1CTVp1S05CY21YTkp6UVJOSXRrTHF5S0pRYXJ2bE1pVzY?oc=5",
+     "summary": "SK에코플랜트가 행복얼라이언스와 협약을 맺고 울산 중구 결식우려아동에 대한 지원을 확대하기로 했다.",
+     "more": 4
+    }
+   ]
+  },
   {
    "ts": "2026-07-30 07:30",
    "label": "07-30 07시",
