@@ -1,8 +1,67 @@
 {
- "updated": "2026-07-31 07:30",
- "last_check": "2026-07-31 07:30",
- "last_new": 2,
+ "updated": "2026-08-01 07:30",
+ "last_check": "2026-08-01 07:30",
+ "last_new": 6,
  "checks": [
+  {
+   "ts": "2026-08-01 07:30",
+   "label": "08-01 07시",
+   "digest": [
+    "이번 배치의 핵심은 **영업이익 12배 급증의 착시 뒤에 숨은 3조원대 유동성·차입금 부담**으로, SK에코플랜트의 재무 리스크가 다시 부각됐다.",
+    "자회사발 이슈가 이어졌다 — **SK오션플랜트 매각 협상 재연장**, SK테스 ITAD 서비스 도입 등 계열 구조조정·사업확대가 동시에 진행 중.",
+    "시공능력평가에서 모기업 대비 자회사(SK에코플랜트)의 순위가 흔들리며 **재무·실적 부담이 대외 평가에도 반영**되는 모습."
+   ],
+   "articles": [
+    {
+     "ts": "2026-07-31 15:09",
+     "source": "inews24.com",
+     "title": "'영업익 12배' 뒤 SK에코, 차입금 관리 '숨은 과제'",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zczRQN0JfR1d6TndDUmZkcDZybWpMTzk5clRXR0xkUEpsa0FqcTlqUC1uVmdlNFJLeG1jbHBocnpGeGtuY2d1U2NDUQ?oc=5",
+     "summary": "SK에코플랜트가 상반기 영업이익이 12배 급증했지만, 이는 착시일 뿐 3조원대에 달하는 단기 차입금·유동성 부담이 숨은 과제로 지적됐다. 차입금 관리와 재무구조 개선이 IPO 재추진의 관건으로 꼽힌다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-07-31 18:09",
+     "source": "매일일보",
+     "title": "SK오션플랜트 매각 협상 또 연장…본계약 체결 ‘안갯속’",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hbjJ4LUppejQyeTdaQzViV2xkYnB6MXhSNlpjWTBzNDZxXzBCN3N5RGk2TllpcHptR0MxeFNLNUZ1bmxKVnZxNW14U0stdjRnU1lRZTdoczBGRlBmaHp2RFRGUFA?oc=5",
+     "summary": "SK에코플랜트 자회사 SK오션플랜트 매각 협상이 또다시 연장되며 본계약 체결이 안갯속에 빠졌다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-01 06:00",
+     "source": "뉴스핌",
+     "title": "2026년 시공능력평가 양극화…'母'는 버텼지만 '子'는 흔들렸다",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BWmtKTkQzRzlZOW5oSkJSWlVGaWtSbUdFTVZEUEJ6X2piTzJTWUpWUHc4OTZfOXNINml3VUptaXBMbHhzSHJVZ1dLZW5pV19MVUhCZ1UyU2dybWRB?oc=5",
+     "summary": "2026년 시공능력평가에서 대형 건설사 간 양극화가 나타난 가운데, 모기업(SK㈜)은 버텼지만 자회사인 SK에코플랜트 등은 순위·평가가 흔들린 것으로 나타났다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-31 13:44",
+     "source": "소비자가 만드는 신문",
+     "title": "건설업계 경영 체계 전환...GS건설·SK에코플랜트-AI 활용, 현대엔지니어링·삼성E&A-사업 재편",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xS1BpUjNkR1ZrbXcxd0VvUmNqZF9OQlVPdmtPeV9DVWprc09PRW1zZWdLbU5sSzZvZ0F5dGhQV01ZSmpNWDFCTW5BT0Z3QkVCdFZpbE5KLTBSaVVsM01pOHpHemlRTm1rUjNKTkdVZlRVS28?oc=5",
+     "summary": "건설업계가 경영 체계 전환에 나선 가운데 GS건설과 SK에코플랜트는 AI 활용을, 현대엔지니어링·삼성E&A는 사업 재편을 각각 추진 중인 것으로 정리됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-31 10:07",
+     "source": "더구루",
+     "title": "SK에코플랜트 자회사 'SK테스', IT 자산 생애주기 관리 서비스 도입",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqbU9qeVMtVE44Q1pIcWh0S1AwNmdSbXgtVDBLYlY1Smw3NlY0MUVFbExZU2ZrR0ZNRU1QUWVJNkV2bG5oNDAtQVdDR0lzc3F3MVpTUFZmb3ZaUWlLTmg0V2NSQQ?oc=5",
+     "summary": "SK에코플랜트 자회사 SK테스가 IT 자산 생애주기 관리(ITAD) 서비스를 도입해 관련 사업을 확대한다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-07-31 18:44",
+     "source": "SK에코플랜트 뉴스룸",
+     "title": "테크 오픈 콜라보레이션 수상 기업들과 함께하는 ‘삼쏘 회동’",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yNEhXc2Z2VDVQR3VyT1dNakliQU5DbHlJRmtTYWVXdEYxbm54VzBkcmJHMF9UdnE5OUJTVUVSM1JMcGFlWXIyQjhna1d1cER3?oc=5",
+     "summary": "SK에코플랜트가 테크 오픈 콜라보레이션 수상 기업들과 '삼쏘 회동' 소통 행사를 진행했다는 뉴스룸 소식.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-07-31 07:30",
    "label": "07-31 07시",
