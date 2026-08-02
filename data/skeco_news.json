@@ -1,8 +1,26 @@
 {
- "updated": "2026-08-02 07:30",
- "last_check": "2026-08-02 07:30",
- "last_new": 0,
+ "updated": "2026-08-03 07:30",
+ "last_check": "2026-08-03 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-08-03 07:30",
+   "label": "08-03 07시",
+   "digest": [
+    "이번 배치에서 SK에코플랜트와 실질적으로 연관된 기사는 **건설사 '투톱 대표이사 체제'** 조명 기사 1건뿐이며, SK에코플랜트는 책임·전문경영 강화 사례로 언급됨.",
+    "반포 재건축 기사와 울산 행복두끼 프로젝트 기사는 SK에코플랜트와 실질 관련이 없어 제외."
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-03 00:00",
+     "source": "한국금융신문",
+     "title": "GS·SK에코·계룡건설 등 이유 있는 ‘투톱 체제ʼ…왜?",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nZF9kd1dWRWVpZ19LMVNuQ2JOVXRNbEt2aWE4MTVMVHZiekRwSmVFVkwzNU9QRkcxc21zU3FobFNrUzlrV0JWSDQxenFNT1lidFVzVmd2UkIxbjlzTTAyQmRUOGNOcjJUVmJTbXF2R3M1THVIX3ItbDNuNlo?oc=5",
+     "summary": "GS건설·SK에코플랜트·계룡건설 등 주요 건설사들이 대표이사 2인 '투톱 체제'를 도입·유지하는 배경과 그 이유를 분석한 기사로, 각자 전문 영역을 나눠 책임경영과 사업 다각화에 대응하려는 의도로 풀이된다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-01 07:30",
    "label": "08-01 07시",
