@@ -1,8 +1,42 @@
 {
- "updated": "2026-08-03 07:30",
- "last_check": "2026-08-03 07:30",
- "last_new": 1,
+ "updated": "2026-08-04 07:30",
+ "last_check": "2026-08-04 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-08-04 07:30",
+   "label": "08-04 07시",
+   "digest": [
+    "SK에코플랜트가 **IPO를 앞두고 비주력 자산(SK오션플랜트 매각 협상 연장, SK TNS 매각 SPA 체결)을 잇달아 정리**하며 재무구조 개선·사업 재편에 속도를 내고 있다.",
+    "동시에 **2030년까지 2000억원을 투입해 AI 인프라를 신성장 축으로 육성**하겠다고 밝혀, '군살 빼고 핵심(반도체·데이터센터 EPC)에 집중'하는 방향성이 드러났다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-03 18:20",
+     "source": "아시아투데이",
+     "title": "AI 인프라 산업 시장 선점 나선 SK에코플랜트…2030년까지 2000억 쏟아붇는다",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JTm1PNEQ1NzlYQ0M4anc0Tm95aUpuM1RiLV94VlpDMjRnQzFaSmdGSGl1V05XTTlHMWJJaEpTSkJJTUtHeWdLUDg5SFFzVFN6TGhhX0VuT3Q1ZzVNa3VUcGhuYjJsZkkyeGRILVFR?oc=5",
+     "summary": "SK에코플랜트가 AI 데이터센터 등 AI 인프라 시장 선점을 위해 2030년까지 2000억원을 투자하겠다고 밝혔다. 반도체·데이터센터 EPC 역량을 앞세워 AI 인프라 사업을 신성장 축으로 육성한다는 전략이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-03 09:44",
+     "source": "페로타임즈",
+     "title": "SK오션플랜트, 매각 우선협상 연장…8월 말까지",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WaW9KaXdLY0NMWmRuSEFiZ0k4Sk5lWTNIb1MzYWNzTWo5YXBNYkJhODg3MHllTXc5SHF6VzVvVmQ2UENoYmw1M0dONjRmVjdVVWl4STNCQjU5alBsYWxCeTlVVHpXLVNoRTQ0dA?oc=5",
+     "summary": "SK에코플랜트 자회사 SK오션플랜트(옛 삼강엠앤티) 매각 우선협상 기한이 8월 말까지 연장됐다. IPO를 앞둔 SK에코플랜트의 비주력 자산 정리 흐름의 일환이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-03 15:00",
+     "source": "Chosunbiz",
+     "title": "[단독] KCA파트너스, SK TNS 인수한다… SPA 체결 - 조선비즈",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzlMS2NRaFRnM094eUZsQno1SE14RTJMdnFwdlFvWmFvSDlobjJBSS1CNUl2VWw5aXhkM3NZMXhWRXUzNk92WEt2RWxfY2tLSXp6bHNhMTktendxR0VEaGtvZm02WEtISWRjb294VDRqYjRFdUF5NjIwYVljNjRPUEY3YkFxNXPSAZsBQVVfeXFMUGY5aU9SRUpsRnRRNnhSY0JLd3hITlFoQmNWVGtOdlNrZTBONHAxZGtnc3YxYVU4bF81bXZsbnhtQzZHTnMtRnRTc012aTZDemZHSjdIUVRvM2oxQXN1U012NnlqN3V1QjB4MWpFNml1QnRQM05aenQzd05uRFhTQ01yZ1d0MzVfQnZDNTJSNndSMEIzWTRsRnVtaG8?oc=5",
+     "summary": "KCA파트너스가 SK에코플랜트 자회사 SK TNS를 인수하는 주식매매계약(SPA)을 체결했다. 재무구조 개선 및 상장 전 사업 재편 차원의 자산 매각으로 풀이된다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-03 07:30",
    "label": "08-03 07시",
