@@ -1,8 +1,25 @@
 {
- "updated": "2026-08-04 07:30",
- "last_check": "2026-08-04 07:30",
- "last_new": 3,
+ "updated": "2026-08-05 07:30",
+ "last_check": "2026-08-05 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-08-05 07:30",
+   "label": "08-05 07시",
+   "digest": [
+    "7월 회사채 수요예측에서 SK에코플랜트 보증채가 **미달(언더)**을 기록해 조달 여건이 우호적이지 않았음을 시사한다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-05 06:00",
+     "source": "fntimes.com",
+     "title": "[DCM] 7월 회사채 시장…보증채 롯데케미칼 오버·SK에코플랜트 언더 [7월 리뷰①]",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hT3pNWjUxUGxQWnp2TnFfZ2kxU2djcWw0cXJqbDVBakwzSUxKbWZkVTN2aVVBT1gxQThzamxTUkhWZFVCN0RPaG0zVDJkaC10OVRoaTJNRFJjYnNCN1Jodzd5UFJ6OFN5cHpuRHc3TG0wUGZvbjJlQWs1QXM?oc=5",
+     "summary": "7월 회사채 시장 리뷰에서 SK에코플랜트가 발행한 보증채가 수요예측에서 **미달(언더)**된 것으로 나타났다. 같은 보증채인 롯데케미칼이 오버(초과) 흥행한 것과 대비된다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-04 07:30",
    "label": "08-04 07시",
