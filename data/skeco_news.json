@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
  "updated": "2026-08-05 07:30",
  "last_check": "2026-08-05 07:30",
  "last_new": 1,
@@ -247,6 +248,55 @@
      "title": "[도시정비시장 풍향계] ‘드파인 연희’ 이어…SK에코, 천연동 89-16번지 ‘무혈입성’ 수순",
      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fbkhWVkFZWFZ6SFEySnVXTkZodXFWR3RudkgyX01jMGZ4STAtZi1HREs3eFl0bWdhY0xxTVdtUlFvTkctbEVNWE1GZ3U4TXdqZVJfNmtRQXdJWGtxcERXeVZhZ1U2ZzNSeGhiNGw2bGUwbG5KOHc?oc=5",
      "summary": "SK에코플랜트가 '드파인 연희'에 이어 서울 천연동 89-16번지 재개발(정비사업)도 경쟁자 없이 사실상 단독 수주하는 '무혈입성' 수순을 밟고 있다.",
+=======
+ "updated": "2026-08-06 07:30",
+ "last_check": "2026-08-06 07:30",
+ "last_new": 5,
+ "checks": [
+  {
+   "ts": "2026-08-06 07:30",
+   "label": "08-06 07시",
+   "digest": [],
+   "articles": [
+    {
+     "ts": "2026-08-05 20:15",
+     "source": "newstapa.org",
+     "title": "\"비상줄 달아 달라\" 묵살된 KTX 공사현장...4남매 아빠가 죽었다",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjamZNR3g2NzdZVVNWTU04QVpkSTRadUkwbHY3ZUY4NXlXWWN0d3I2QnJYMXZXcGJhMm5Ha0JJUjBhcnpvel8zcjVjdnhzUjA?oc=5",
+     "summary": "",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-05 10:46",
+     "source": "it.chosun.com",
+     "title": "삼성물산 ‘홈닉’, 생활편의서비스 4종 선봬",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12YkVWaEVRX0tUZmRnc3NKMXJ2NUtVdTlabHVQakd0VUlqNTlWVDVweFBlQlFvVWo1Ujc5MFByMHpiTm9fZ1prMXR4WUxvc1NmbDdxRTgyTzNUQWVIT2gzSlhMQmZHeXVlM2ppemUzWEfSAXRBVV95cUxOVWtIZDlFMmx2cllkVlNwdU92QUJIX1FmV0c5RkgzMkFELVROcVRGR3hnR0VTRTRkMGE1RW9DbHhEUUhKa0UyOUlJM1BoaDVITG5GYndja2s0dDN1TzRGeU1CTGppUWxPWTY1b0NJYkZnbjJMVg?oc=5",
+     "summary": "",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-05 09:38",
+     "source": "연합뉴스",
+     "title": "삼성물산 '홈닉', 청소·세차·펫케어 등 생활서비스 4종 출시",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iQzVxVjRpbmpabmFFeDZLcWVGUUdkOVhFb1NwT0w4clRONGpWRXpOZFBpWUdrdHR4Nm9NUE1YQm1RbmNpNV9rdUszRTJkSU82N2FDQzRYU2JLakowb0RQddIBYEFVX3lxTE9iQzVxVjRpbmpabmFFeDZLcWVGUUdkOVhFb1NwT0w4clRONGpWRXpOZFBpWUdrdHR4Nm9NUE1YQm1RbmNpNV9rdUszRTJkSU82N2FDQzRYU2JLakowb0RQdQ?oc=5",
+     "summary": "",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-05 09:00",
+     "source": "스마트투데이",
+     "title": "[SK에코플랜트 피벗의 그림자] ①SK하이닉스 관련주 변신, 발목 잡는 위험은?",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TZDljMVRSeE5HN082RTgzRGFBNDFDNVRyVXN1YjZaQVczQkFjVzJpVC1RSS0tamh2RmstZHJTM0RNLTBCRU5HVF9SSkd4VUVweGlqc3EybFNtaHIyWjI0?oc=5",
+     "summary": "",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-05 08:47",
+     "source": "뉴시스",
+     "title": "\"청소·세차·옷 수거·펫케어\" 삼성물산 홈닉 새 서비스",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zLTMxUXdJc0l5SzVVRG5kRk0tbHN6Z0R3Q29jalJLRFZIeUdYZmhIVmxzVG1oc2RuaWM4aEozYVRzS3VCY2xFbDFtdHRGcE93Ry1VdHByVEZab0ZNOGVNclBPbnNwOFphSmZNbDZIazZkbkFPX0JLTNIBeEFVX3lxTE9zLTMxUXdJc0l5SzVVRG5kRk0tbHN6Z0R3Q29jalJLRFZIeUdYZmhIVmxzVG1oc2RuaWM4aEozYVRzS3VCY2xFbDFtdHRGcE93Ry1VdHByVEZab0ZNOGVNclBPbnNwOFphSmZNbDZIazZkbkFPX0JLTA?oc=5",
+     "summary": "",
+>>>>>>> 10d0f90 (skeco news 2026-08-06 07:30)
      "more": 0
     }
    ]
