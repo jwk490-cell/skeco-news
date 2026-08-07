@@ -1,8 +1,43 @@
 {
- "updated": "2026-08-07 07:30",
- "last_check": "2026-08-07 07:30",
- "last_new": 4,
+ "updated": "2026-08-08 07:30",
+ "last_check": "2026-08-08 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-08-08 07:30",
+   "label": "08-08 07시",
+   "digest": [
+    "**송도 럭스 오션 SK뷰 외벽 테라스 추락**이 이번 배치의 압도적 이슈로, 7건의 기사가 집중되며 **부실시공 논란**과 전수조사·보상 협의로 번지는 국면",
+    "준공·입주 단계 주택 브랜드 리스크가 부각된 반면, 회사는 **반도체·데이터센터 인프라 중심 전략**을 내세우고 있어 메시지와 현장 이슈가 엇갈리는 상황",
+    "안전·품질 후속 조치(전수조사 결과, 보상안, 국토부·지자체 점검 여부)가 향후 며칠간 추가 보도의 최대 변수"
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-07 15:48",
+     "source": "파이낸셜리뷰",
+     "title": "SK에코플랜트, ‘송도 럭스 오션 SK뷰’ 외벽 테라스 추락… 부실시공 논란",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QWmNNSWZJWDRNX0xFeElFVDVDdHdDX20zY0VYN044REFHM0M0R3o5ZUJ5MGZyY1BXV3FINHNjWHpUT1Bzb0I1TFhjbTFMOEhIclYzNE9KT2htemtnQnBaZDB3Y1dJTTNzU0lSOXJQTjJnZ3pS?oc=5",
+     "summary": "SK에코플랜트가 시공한 인천 송도 '럭스 오션 SK뷰' 신축 아파트에서 외벽 테라스 구조물이 추락하는 사고가 발생해 부실시공 논란이 확산됐다. 회사는 \"원인 파악 중\"이라며 단지 전체 전수조사와 입주민 보상 방안 협의에 나섰고, 전문가들은 아파트 전반에 대한 구조 점검 필요성을 제기했다.",
+     "more": 6
+    },
+    {
+     "ts": "2026-08-07 21:49",
+     "source": "polinews.co.kr",
+     "title": "SK에코플랜트, 반도체·데이터센터 인프라 확대 전략 제시",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1OGxjNnFXaGQxZTBGbEpHNG1jaEJ2UWZvVVVaMXZrdmVBUnpvTTR5NjhkVEtWODJKaUV6cFFTTXowa1pjXzl0YlVuTVBSUUFsckN0TmlKNTlDdWtaUDhFVkdnb3V0RkcxY3JfY0Rn0gFyQVVfeXFMTzRtaDRDWGN6N0NiX3N4XzY1UVBKa0RmemlEVjVLcGFJMlBCeUIxckhObDhrRWZPREMzU2hBLW5yUWowR05MM2wyVWhwMmNpOXAycHU5SnFBS3k0SzNHVnRKZDBGSjNETERjbmFLNm9aTDh3?oc=5",
+     "summary": "SK에코플랜트가 반도체·데이터센터 인프라 사업 확대 전략을 제시하며 그룹 내 하이테크 EPC 중심의 사업 재편 방향을 강조했다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-07 15:11",
+     "source": "울산종합일보",
+     "title": "울산 남구보건소, SK에코플랜트 라엘에스 건설현장 ‘혹서기 절주 캠페인’ 실시",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJd0NjdWZYUjJXTUlXbXJ3bDRFa09PdTA2Z1FSX19OZWVxMWhxeWE2dFdRX3ZLSnV5eE9uT3RzVHh0RUFOaG8xcmRKcFV3M05WRHdGTzNCX25lNUI2VHJxVEZ4bmlNeldkS0lDTERzczJ1clU?oc=5",
+     "summary": "울산 남구보건소가 SK에코플랜트의 '라엘에스' 건설현장에서 혹서기 근로자 대상 절주 캠페인을 실시했다.",
+     "more": 1
+    }
+   ]
+  },
   {
    "ts": "2026-08-07 07:30",
    "label": "08-07 07시",
