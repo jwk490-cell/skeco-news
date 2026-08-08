@@ -1,8 +1,34 @@
 {
- "updated": "2026-08-08 07:30",
- "last_check": "2026-08-08 07:30",
- "last_new": 3,
+ "updated": "2026-08-09 07:30",
+ "last_check": "2026-08-09 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-08-09 07:30",
+   "label": "08-09 07시",
+   "digest": [
+    "**송도 럭스오션SK뷰 테라스 붕괴**가 이번 배치의 최대 이슈로, 전수조사 발표에도 원인 규명·책임 소재를 둘러싼 언론 비판이 이어지며 **주택 시공 품질 리스크**가 부각됨",
+    "같은 기간 회사가 내세운 **AX 전환·사회적 가치 7640억원** 성과 홍보와 시공 현장 사고가 맞물리며 메시지 상충 구도가 형성됨"
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-08 13:18",
+     "source": "스페셜타임스",
+     "title": "인천 송도 럭스오션SK뷰 아파트 테라스 붕괴…SK에코플랜트 전수조사",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QUjIwWGN4SEs0UTRERnNkNU1WSzFsZjRjT09ZQzZIUHdWNVB1TGotNjJMYTRJMm9EUlNNdFd2YklndjRrcFdLb1l0RHF5VUUyMnZnbHZxam13LURfbV81V1psN0hmaHFXOG9qT0d5TV9yUlU?oc=5",
+     "summary": "인천 송도 '럭스오션SK뷰' 아파트에서 세대 테라스가 붕괴하는 사고가 발생해 시공사인 SK에코플랜트가 단지 전수조사를 실시하기로 했다. 다만 언론에서는 사고 원인·책임 규명과 재발 방지 대책이 전수조사 약속보다 먼저 제시돼야 한다는 비판이 제기됐다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-08-08 08:46",
+     "source": "AI라이프경제",
+     "title": "[AI 산업] AI 전환에 속도 내는 SK에코플랜트, “7640억 사회적 가치로 증명했다”",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42N0NSTTBnTGpBVmhYb3QxbUdtdGhpRk1uZVhZeVFBWGt4Y0syS0hTeG9aa2ktSGhkelE1czE0LXVLNjlNSFY0bWNvblgyZm1tZm81cWhIU3BoSUZrMlkzbHdWT1kzY2VCei1r0gFvQVVfeXFMUGF3REhFd3hINzNMbERONEVNSUcwNl9MS3RZZGZQbFhXb3U1RWYtcHBtNHhOWFM4RnJkM3hFSWJ6VnVqWFRONlU4YmZ2bGVQMTRnREpCUXZ1UGVaajdkOHVtR1NzaDktVGNrSWZIRnhF?oc=5",
+     "summary": "SK에코플랜트가 AI 전환(AX)에 속도를 내면서 지난해 창출한 사회적 가치가 7640억원 규모라고 밝혔다. 환경·에너지 사업과 AI 기반 운영 효율화를 성과의 근거로 내세웠다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-08 07:30",
    "label": "08-08 07시",
