@@ -1,8 +1,34 @@
 {
- "updated": "2026-08-09 07:30",
- "last_check": "2026-08-09 07:30",
+ "updated": "2026-08-10 07:30",
+ "last_check": "2026-08-10 07:30",
  "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-08-10 07:30",
+   "label": "08-10 07시",
+   "digest": [
+    "**지속가능경영 보고서 발간**으로 반도체·데이터센터 인프라 중심의 사업 재편과 ESG 성과를 대외에 공식화한 배치",
+    "같은 날 **송도 SK뷰 발코니 붕괴** 이슈가 겹치며, 브랜드 신뢰도·시공 품질 리스크가 ESG 메시지와 상충하는 구도"
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-09 11:08",
+     "source": "이코노뉴스",
+     "title": "SK에코플랜트, 지속가능경영 보고서 발간…반도체·데이터센터 등 사업 성과",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtRVR2M2JoVWtIMFp4ZldJdjRSSXk5NHVIS2NCcVl6blA3RW9CbFFGa0NhQWpkM0ZnS2hoUHpKZlpWMk5XOTFZUk9Nc1JKWnRXSE5qbHNwRHJRODV4WVlLQXE3Zlk3LXprcmx1QnpYSQ?oc=5",
+     "summary": "SK에코플랜트가 2025년 지속가능경영 보고서를 발간해 반도체·데이터센터 인프라, 환경·에너지 등 주요 사업 성과와 ESG 경영 방향성을 공개했다. 현대건설도 같은 시기 지속가능보고서를 내놓으며 건설업계 ESG 공시 흐름이 이어졌다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-08-09 11:13",
+     "source": "땅집고",
+     "title": "송도 2년차 신축 SK뷰 아파트 발코니 무너져…주민들 추가 붕괴 우려",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UbWhwWEMxTlRxRmNtRTRVd21TSUJESkhiVnphd3p4a1J3R1Zqb2FtdXBKNWxJYWtZbEd5MVl0amowOHU3MEk0N2JXNEJBUlhXd1NseENYdGh1S1dIQ25UVEdnZUhsT3gzSG5EcXg1bHduUjh5QnV2X0JjNXVIRUHSAXNBVV95cUxNUjJMOFNLNlZUa210NUJsNHJYMERNMkkxc1R3aXoyWm96aG5OMll5WDRNUk1nNlhrX2ttbjhRZFdvZTNRTFZSa2d5R1hQMDlrUDNaZjVucDJ0dWlNcEM4ak1WSm83anVCbmxNWGNHN29KeF9j?oc=5",
+     "summary": "인천 송도의 준공 2년차 신축 SK뷰 아파트에서 발코니가 무너지는 사고가 발생해 입주민들이 추가 붕괴를 우려하고 있다. SK뷰는 SK에코플랜트의 주택 브랜드로, 시공 품질·하자 논란으로 번질 소지가 있다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-09 07:30",
    "label": "08-09 07시",
