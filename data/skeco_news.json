@@ -1,8 +1,59 @@
 {
- "updated": "2026-08-10 07:30",
- "last_check": "2026-08-10 07:30",
- "last_new": 2,
+ "updated": "2026-08-11 07:30",
+ "last_check": "2026-08-11 07:30",
+ "last_new": 5,
  "checks": [
+  {
+   "ts": "2026-08-11 07:30",
+   "label": "08-11 07시",
+   "digest": [
+    "**송도 SK뷰 테라스 붕괴**가 이번 배치 기사 7건 중 3건을 차지하며, 분양 특화상품이었던 오픈 발코니가 오히려 품질관리·하자보수 리스크로 부각됐다.",
+    "포트폴리오 측면에서는 **AI 인프라 중심 사업재편**이 일관된 서사로, 지속가능경영 메시지와 그룹 리밸런싱 평가 모두 같은 축에서 다뤄졌다.",
+    "자금조달에서는 7월 회사채가 **수요예측 '핫딜'**로 평가돼, 주택 부문 악재에도 크레딧 시장 평가는 양호한 대조를 보였다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-10 16:52",
+     "source": "IT조선",
+     "title": "‘테라스 붕괴’ SK에코플랜트, 고객불만에 하자보수비도 상승",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tbWFmaDZabGcwdUhBUlR5OUNQeW9sV0JzdTNlZURTXzJKVGFCWWVwUFEyRDVYMlFhX3BBY29TZ2RjM3Y4QmhKa0VOTDg3VVYySjd6MzdJRG1iUEhCbnZkaThEakFEd0VfU1lWV0YzM0x6eWFE0gF0QVVfeXFMTm1tYWZoNlpsZzB1SEFSVHk5Q1B5b2xXQnN1M2VlRFNfMkpUYUJZZXBQUTJENVgyUWFfcEFjb1NnZGMzdjhCaEprRU5MODdVVjJKN3ozN0lEbWJQSEJudmRpOERqQUR3RV9TWVZXRjMzTHp5YUQ?oc=5",
+     "summary": "입주 1년 반 된 송도 SK뷰 아파트에서 분양 당시 특화상품으로 내세운 오픈 발코니(테라스)가 붕괴·추락하는 사고가 발생해 SK에코플랜트의 시공 품질관리가 도마에 올랐다. 입주민·계약자 불안이 확산되고 하자보수비 부담도 늘어나는 등 주택사업 브랜드 리스크로 번지는 양상이다.",
+     "more": 2
+    },
+    {
+     "ts": "2026-08-10 14:41",
+     "source": "조세금융신문",
+     "title": "[분석] SK에코플랜트가 다시 그린 사업지도…AI 인프라 중심 재구성",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KSFhNdXZ6U2xObkJqc1FfWDhGYkVXWVNsZE1vUFBVRTAyN2dKcGhLazJkMENibkRJeG9qZVdEdHY4RDBqck9CWnVYVHRFeGJ3QUN4dGM2U0pFWklZbHNIT3IwUQ?oc=5",
+     "summary": "SK에코플랜트가 환경·에너지 중심이던 사업 포트폴리오를 AI 데이터센터 등 AI 인프라 중심으로 재편하고 있다는 분석 기사다. 반도체 인프라·전력·데이터센터 밸류체인을 축으로 사업지도를 다시 그리고 있다는 평가.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-10 10:33",
+     "source": "블로터",
+     "title": "[월간 DCM] 삼성증권 '빅딜' SK에코플랜트 '핫딜'…한진 '미매각'",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ub05QMUZOU1hvMUVtUkcxd0swX3lkbzFPRG10aVV0SGh5NlQwOGlXM2NSMGxrQW9xZWJrcWZjbXlPNl9qazhyRDFzMEVOUnptUDZ6bjRjdDlhRmw4Nml4emd6SWFuZzVGSHZqOdIBbEFVX3lxTE5Ub05QMUZOU1hvMUVtUkcxd0swX3lkbzFPRG10aVV0SGh5NlQwOGlXM2NSMGxrQW9xZWJrcWZjbXlPNl9qazhyRDFzMEVOUnptUDZ6bjRjdDlhRmw4Nml4emd6SWFuZzVGSHZqOQ?oc=5",
+     "summary": "7월 회사채 발행시장(DCM) 결산에서 SK에코플랜트 회사채가 수요예측 흥행에 성공한 '핫딜'로 꼽혔다. 같은 기간 한진은 미매각을 기록해 비우량 건설·물류 크레딧 간 온도차가 뚜렷했다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-10 10:54",
+     "source": "파이낸셜투데이",
+     "title": "SK에코플랜트, “AI 인프라 그 이상의 가치”로 쓰는 지속가능경영의 다음 장",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lOGc2OV81cDEwTUNQOEdsZldTZ2lqV0IwZHdqODBxdjQ4SllRSTRxcC14ZjlmYVlMWXV1MXNiT1NXRG1YUHUzbUZfR1hjWk5QZW5WMnh2NUVNWVVlTVY5aVRVY3hZbEZDSUHSAW5BVV95cUxPUE9sdk13dk5KTE9hTzRrN0tLcDVkMmg4SUtpcF9sZ3pWQ1ZGQkdTUnRzM3pLcGpiM0J1WjhTLW5XTW84aFAxM3Y1eFR4VFdmajN5SnR1TDN0YXdHV0NLQ3g0aVYzYUp6bk5VN3d3Zw?oc=5",
+     "summary": "SK에코플랜트가 'AI 인프라 그 이상의 가치'를 내세우며 지속가능경영 전략의 다음 단계를 제시했다. AI 인프라 확장과 환경·에너지 기반 ESG 성과를 연결하는 방향성을 강조했다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-10 16:00",
+     "source": "ppss.kr",
+     "title": "[기업해부 SK⑤] 리밸런싱은 어디까지 왔나…SK 사업재편의 성적표",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aYXRBZmJCSzJPZ2JhV0J4QXlvYUVRRjlOUVM1dDFuRVpTTU9EQ0dFckNDYVB4SGFJdDN4NXpMWEFkZnJ6WkpKSTRxNzJwM0VLdmF3SG9DUG1Tazh0N3pielZNbG0?oc=5",
+     "summary": "SK그룹 리밸런싱 진행 상황을 점검하는 기획 기사로, SK에코플랜트의 사업재편(자회사 편입·포트폴리오 조정)이 그룹 구조조정 성적표의 주요 항목으로 다뤄졌다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-10 07:30",
    "label": "08-10 07시",
