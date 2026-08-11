@@ -1,8 +1,67 @@
 {
- "updated": "2026-08-11 07:30",
- "last_check": "2026-08-11 07:30",
- "last_new": 5,
+ "updated": "2026-08-12 07:30",
+ "last_check": "2026-08-12 07:30",
+ "last_new": 6,
  "checks": [
+  {
+   "ts": "2026-08-12 07:30",
+   "label": "08-12 07시",
+   "digest": [
+    "이번 배치는 사실상 **송도 럭스오션SK뷰 테라스 붕괴** 단일 이슈가 지배 — 정치권(정일영 의원)의 국토부 조사 요구, 1114가구 전수점검, **하자 5만7000건** 논란까지 시공 품질 리스크가 전방위로 확산됐다.",
+    "대표이사가 **사고 3일 뒤** 현장에 나타난 점이 초기 대응 지연으로 별도 비판 포인트가 되고 있어, 브랜드·주택사업 신뢰 훼손이 단기 리스크의 핵심이다.",
+    "반면 사업 측면 기사들은 **반도체·AI 인프라 피벗**과 친환경 매출 비중 19% 하락을 짚으며, 건설 리스크와 무관하게 시장은 인프라 성장 스토리에 무게를 두는 온도차를 보였다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-11 10:19",
+     "source": "뉴시스",
+     "title": "'입주 1년' 송도 럭스오션SK뷰 테라스 붕괴…정일영 \"정부 차원 조사해야\"",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tLUtCZzhJYTM3YUhUY1pYUVhyZ3VCa0hQRHRCWFFxWGtzazBhZGlzSVdibUpvMDd1Tm45Y2dIYl8yYWVGdUtmRW1wbjNLRlpyWjlUY2V1Y3lzcXpNNnJGQ9IBeEFVX3lxTFBxLXRRY1c2dlJ5SW82T0pFb2V1MTN6RzlldzctNXB1ajExQ2hBQmRxV3g3RU5lOFpsc2tZOXNaS2stTnlUZU1VN2lLeDlwWnFPOHR3cXB1OUVtYWxQSEwzS0NBbldxY3I1dktmSG9SUmFSYzlvc2k0UQ?oc=5",
+     "summary": "SK에코플랜트가 시공한 인천 송도 '럭스오션SK뷰'에서 입주 1년여 만에 세대 테라스 구조물이 떨어져 나가는 사고가 발생해, 정일영 의원이 현장을 찾아 국토부 차원의 전면 조사와 책임 규명을 요구했다. SK에코플랜트는 단지 1114가구 전수점검과 외부 전문가 정밀안전진단 추진을 밝혔다.",
+     "more": 9
+    },
+    {
+     "ts": "2026-08-11 12:01",
+     "source": "v.daum.net",
+     "title": "신축 외벽 추락에…SK에코 김영식 대표까지 나섰다",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TZjg1R1FHbkFtZ1JJT0hLNXN6aDJ6ZUdzSDU4ZFBsNUVyeDN3MnR4alNWWG5wU1ZNajBzblZzbUVNMXg5Y3VZUTJlUmJPWkU?oc=5",
+     "summary": "김영식 SK에코플랜트 대표가 사고 발생 사흘 만에 직접 현장을 찾아 입주민 설명회와 수습에 나섰으나, 최고경영진의 대응이 늦었다는 지적이 함께 제기됐다.",
+     "more": 2
+    },
+    {
+     "ts": "2026-08-11 11:14",
+     "source": "헤럴드경제",
+     "title": "‘입주 1년 만에 와르르’ 인천 송도 SK에코플랜트 아파트, 하자만 무려 5만7000건… 입주민들 “내 집이 무섭다”",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3eFRITFRaSXhMOVpIaGk3MDJZWTRya0k4UEJWczByZDE3ODRVRXNhQXhNa1U4dlRTQlNFSGZ0a2ZWbkxfWDBaMWZhX3Ytd3dSTXlKUnd3?oc=5",
+     "summary": "해당 단지에서 접수된 하자가 5만7000건에 달하는 것으로 알려지며 부실시공 논란이 확산됐고, 입주민들은 구조 안전 자체에 대한 불안을 호소하고 있다.",
+     "more": 2
+    },
+    {
+     "ts": "2026-08-12 05:43",
+     "source": "파이낸셜포스트",
+     "title": "정일영 '정색'해도 시장은 '힘숨찐'편...발코니 붕괴 SK에코플랜트, 주가 뛰는 '웃픈 사연'",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aZ3lZc3hRdGg3aUFiQ3FfbVVvRFpVSDMtZEw2MTlxSEpTVU1rUVQ2S2tRWjl0TGxyRHlCOUVoVkJndE5FNEV3N0xqN1BIWmx2dWVodWpPSWRKcWFnQ2VvQ2FGbkVXbkhmMExVb0hvYTItUFlU?oc=5",
+     "summary": "붕괴 사고와 정치권 압박에도 시장 반응은 오히려 우호적이어서, 반도체·AI 인프라 사업 기대가 건설 리스크를 상쇄하고 있다는 '웃픈' 온도차가 지적됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-11 13:42",
+     "source": "위키리크스한국",
+     "title": "SK에코플랜트, 반도체·AI에 밀린 ‘친환경’ 입지…매출 비중 19%로 뚝",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yVmpNUjhSVHpwb3B1UVFBTWdFNzN1c0hRYk0xZGZ3SS0yVzcycS1PTGMtd2FGM2VrNUFwMGk5RlZyQjZSWWYxWW9tWEVWbVhQSFFmV3UzRVJycEJUOURDOWVBUzlKLUE4MmRRZk1OQzU?oc=5",
+     "summary": "반도체·AI 인프라로 사업 중심이 이동하면서 SK에코플랜트의 간판이던 친환경 부문 매출 비중이 19%까지 떨어진 것으로 나타났다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-11 08:00",
+     "source": "스마트투데이",
+     "title": "[SK에코플랜트 피벗의 그림자] ③반도체 연결 강조하면서 SKC와 분산, 지배구조 득실 다르다",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PdkgyRW5yWk9RdGUtY0JDTkZNZncwblZHNDJFWndYTHVHTmRSUFpOUE1MdDNqWk5QdkhYZ0kxY3JIMXBIalpZbnVUVDZwVFo2Y3NEVDhQTXkwNFBNdDdN?oc=5",
+     "summary": "반도체 밸류체인 연결을 강조하면서도 SKC와 사업을 분산하는 구조여서, 지배구조 관점에서 계열사별 득실이 엇갈린다는 분석이 제기됐다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-11 07:30",
    "label": "08-11 07시",
