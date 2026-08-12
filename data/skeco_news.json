@@ -1,8 +1,35 @@
 {
- "updated": "2026-08-12 07:30",
- "last_check": "2026-08-12 07:30",
- "last_new": 6,
+ "updated": "2026-08-13 07:30",
+ "last_check": "2026-08-13 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-08-13 07:30",
+   "label": "08-13 07시",
+   "digest": [
+    "이번 배치는 전량 **안전·시공 관리 리스크** 관련 부정 이슈로, 사업 수주·실적 뉴스는 없음",
+    "**의왕역 SK뷰 토사 반출 허위 처리 의혹**에 대해 의왕시가 조사에 착수해 지자체 행정 제재로 번질 가능성 주시 필요",
+    "사망사고·중대 하자·토사 반출 의혹이 겹치며 **현장 관리 신뢰도 문제로 프레임이 확대**되는 흐름"
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-12 18:37",
+     "source": "경인미래신문",
+     "title": "SK에코플랜트 ‘의왕역 SK뷰’ 토사 반출 의혹… 다른 현장 토사로 둔갑",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KeXNQcFR2amdXdzVSamI2bC1zdi1ZQTFGQWhVMC1MR1lCSDhuTk5oMlhKMlBMRGFfUlZuQjZlLXFfb2t3ajB1bVgyOFNRVmdOc1BvV21ER2laREJyYzRvSXdn?oc=5",
+     "summary": "SK에코플랜트가 시공 중인 '의왕역 SK뷰' 현장에서 반출된 토사가 다른 현장 토사로 둔갑해 처리됐다는 의혹이 제기됐다. 의왕시는 토사 반출지 '허위 처리' 의혹에 대해 조사에 착수했다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-08-12 16:55",
+     "source": "인사이트코리아",
+     "title": "현장 사망사고 이어 중대 하자까지…SK에코플랜트 안전관리 '불안'",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Va2FqTThNeV9YLUlCYW5mYTdBblNIaGh4T0xPbjZrYjllbHBXLV9nM2p3eFdFU0pWcDlueV93ZVFlQlFfRUw2QXJCVmxCWHV6WS1GeFN1VjF5MmZKV0Y4aV9nMDQ2NWNEYzhXYkhkMUZvMUHSAXdBVV95cUxONDdRZ2ltODZCQjFMNE11X2xLbm9Wa002T29SNVcwT1JnWThnUTVlNTR6V0xjT1ZzWFNLaC01NWF6WHRnNXFIeEk4Tlg2eUlPY2JqNHozM1pwb0w3ZHhOWW93Tm9mRG1SY0VFRHNqeUtVWC1YM2xaRQ?oc=5",
+     "summary": "SK에코플랜트가 현장 사망사고에 이어 시공 현장의 중대 하자까지 드러나며 안전·품질 관리 체계에 대한 지적을 받고 있다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-12 07:30",
    "label": "08-12 07시",
