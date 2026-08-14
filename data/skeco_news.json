@@ -1,8 +1,51 @@
 {
- "updated": "2026-08-14 07:30",
- "last_check": "2026-08-14 07:30",
- "last_new": 2,
+ "updated": "2026-08-15 07:30",
+ "last_check": "2026-08-15 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-08-15 07:30",
+   "label": "08-15 07시",
+   "digest": [
+    "**2분기 영업이익 5,336억원(+266%)·상반기 매출 10조 돌파** — 반도체·AI 데이터센터 인프라와 산업가스·환경 자회사가 실적을 끌어올리며 체질 전환이 숫자로 확인됐다.",
+    "**AI DC 사업단 신설**로 데이터센터 관련 조직·기능을 통합, 첨단산업 인프라 수주 확대에 사업 구조를 정렬하는 움직임이 실적 발표와 같은 날 부각됐다.",
+    "호실적 이면에 **순차입금 재증가와 부채성 자본 관리 부담**, 그리고 **시공 아파트 테라스 붕괴 사고조사위 구성**이라는 재무·안전 리스크가 병존한다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-14 16:30",
+     "source": "비즈니스포스트",
+     "title": "SK에코플랜트 2분기 영업이익 5336억 266% 증가, 반도체·AI 인프라 호조",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wZzk1eXJUdXJQbUh0SWJCSWNOUGszTFpZQ2wydFZtNnVTV0RxeFBGVHpueHNpZWZSd25qY3A2QV9KM3laNUxSN3RKb0tScmtTSjJRSkVYZmlVQy1pT2YwcFpiQlNkZUtSRGpwMXd6d2xQQUU?oc=5",
+     "summary": "SK에코플랜트가 2분기 영업이익 5,336억원으로 전년 동기 대비 266% 급증했고, 상반기 매출은 10조원을 넘어섰다. 반도체·AI 데이터센터 등 첨단산업 인프라 프로젝트 확대와 산업가스·환경 자회사 실적 개선이 성장을 견인하며 '건설사'에서 'AI 인프라 기업'으로의 전환을 실적으로 입증했다는 평가다.",
+     "more": 9
+    },
+    {
+     "ts": "2026-08-14 08:39",
+     "source": "주간한국",
+     "title": "SK에코플랜트, AI DC 사업단 신설…관련 조직·기능 통합",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OZ08tNTdDUjBrTzNfVnR1Ui1UaThjU1Q2Sk5pdnY0R1hlNWR6VlhlTkVpUzdjZkRVejhZbEp4elU3U29oeXFjWV9mSU1aZl91MzlibXFndEEyOG5wanp6UHJBekNyLV9tYm1LZWZhd3cwbGIz0gF0QVVfeXFMT05nTy01N0NSMGtPM19WdHVSLVRpOGNTVDZKTml2djRHWGU1ZHpWWGVORWlTN2NmRFV6OFlsSnh6VTdTb2h5cWNZX2ZJTVpmX3UzOWJtcWd0QTI4bnBqenpQckF6Q3ItX21ibUtlZmF3dzBsYjM?oc=5",
+     "summary": "SK에코플랜트가 흩어져 있던 데이터센터 관련 조직과 기능을 통합해 'AI DC 사업단'을 신설했다. 반도체·AI 데이터센터 등 첨단산업 인프라 수주 확대에 대응하기 위한 조직 개편으로, 설계·시공부터 에너지 솔루션까지 아우르는 일괄 수행 체계를 갖추려는 포석이다.",
+     "more": 3
+    },
+    {
+     "ts": "2026-08-14 20:06",
+     "source": "MBC 뉴스",
+     "title": "'테라스 붕괴' SK에코플랜트 시공 아파트 사고조사위 꾸린다",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyeWZYUm92N3F0LVhWZWR0dnJ0UkhtWFQwbGZhQlZOcW5maU4tbmZsdUR5bUtXbHAzQ3lsRDkzRHBCRUVWdDZ5MDI3M0N5UmVZdzE4bnpDalJkRGFPdks5WnlKRGJXVHdLZXAzREZaYVp2RVJmOUc40gF3QVVfeXFMUDJ5ZlhSb3Y3cXQtWFZlZHR2cnRSSG1YVDBsZmFCVk5xbmZpTi1uZmx1RHltS1dscDNDeWxEOTNEcEJFRVZ0NnkwMjczQ3lSZVl3MThuekNqUmREYU92SzlaeUpEYldUd0tlcDNERlphWnZFUmY5Rzg?oc=5",
+     "summary": "SK에코플랜트가 시공한 아파트에서 테라스 붕괴 사고가 발생해 사고조사위원회가 구성된다. 실적 호조 국면에서 시공 품질·안전 관리 리스크가 부각되는 사안이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-14 09:33",
+     "source": "DealSite경제TV",
+     "title": "[핀포인트] [SK에코플랜트] 순차입금 다시 늘어…부채성 자본 관리 ‘과제’",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtclFLMjlVclQ5TkJsQ1ktV1FGR0t3ZUJBOHhrTWZUX0N5U1I0dGVfX3BfYlNCYnBVTHRzTGkyQnRaNGZra05jREVEZkNxUmpqRHVLUk9B?oc=5",
+     "summary": "실적 개선에도 SK에코플랜트의 순차입금이 다시 증가하며 재무 부담이 지속되고 있다는 분석이 제기됐다. 상환전환우선주 등 부채성 자본 관리가 향후 재무구조 개선과 IPO 추진의 핵심 과제로 지목됐다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-14 07:30",
    "label": "08-14 07시",
