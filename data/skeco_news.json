@@ -1,8 +1,23 @@
 {
- "updated": "2026-08-15 07:30",
- "last_check": "2026-08-15 07:30",
- "last_new": 4,
+ "updated": "2026-08-16 07:30",
+ "last_check": "2026-08-16 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-08-16 07:30",
+   "label": "08-16 07시",
+   "digest": [],
+   "articles": [
+    {
+     "ts": "2026-08-15 12:17",
+     "source": "파이낸셜포스트",
+     "title": "[2Q실적] '송도 테라스 붕괴' SK에코플랜트, 영업익 5336억원 '깜짝 실적'",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xWEk0MlA4LTRiX1lHaUNJcE8xMWpYU1I4QjJXQzVZUkdYU0xGZDB2T01IbWdPcU9TVFBYVFR3NzQzRVpVWXhGT0V1eUpqbTd2UFpwQzNRTVk0bklSczUzNTYwZWk2cGRsVDkwSmZNVXQxOElR?oc=5",
+     "summary": "",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-15 07:30",
    "label": "08-15 07시",
