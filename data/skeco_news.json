@@ -1,8 +1,35 @@
 {
- "updated": "2026-08-19 07:30",
- "last_check": "2026-08-19 07:30",
- "last_new": 6,
+ "updated": "2026-08-20 07:30",
+ "last_check": "2026-08-20 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-08-20 07:30",
+   "label": "08-20 07시",
+   "digest": [
+    "이번 배치의 축은 **상반기 역대 최대 실적**으로, 매출 10조원·영업이익 1조4650억원(영업이익률 14.6%)을 기록하며 **반도체 팹·AI 데이터센터 등 AI 인프라가 실적 견인축**임이 재확인됐다.",
+    "다만 2분기 영업이익(5336억원)이 1분기(9314억원) 대비 줄어 **외형 성장 대비 이익 모멘텀 둔화**라는 시각이 병존하며, 건설 빅10 내에서는 삼성물산과 함께 반도체 수혜주로 분류된다.",
+    "실적 외 이슈로는 **현업 주도 AI 에이전트 생산 체계 구축** 등 조직 차원의 AI 내재화 행보가 언론에 노출되며 '체질 개선' 서사를 뒷받침하고 있다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-19 07:55",
+     "source": "비즈워치",
+     "title": "'역대 최대' 매출 찍은 SK에코, 영업익은 아쉽지만…",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DTVNpT21CRk4tN2MzTkl0MTBZNjFJX0QxNkVKdW1URFZEVGRQWnYxcy1QNDNyUnNSakt4OHFadnp6ck85RlhUU3RwSmJxTGszc0hyVkVnUG9NYXdTSU54RHMzQl83U183alNuUUM3UUI?oc=5",
+     "summary": "SK에코플랜트가 2026년 상반기 매출 10조504억원(2분기 5조1507억원, 전년비 +68%)으로 역대 최대를 기록했고 상반기 영업이익 1조4650억원·영업이익률 14.6%를 달성했다. 반도체 팹·AI 데이터센터 등 AI 인프라 수주가 성장을 견인했으나 2분기 영업이익 5336억원은 1분기(9314억원) 대비 감소해 아쉬움이 남았고, 시공능력 상위 10개사 중에서는 삼성물산과 함께 '반도체 훈풍' 수혜 상위권에 올랐다.",
+     "more": 2
+    },
+    {
+     "ts": "2026-08-20 04:40",
+     "source": "네이트",
+     "title": "\"필요한 AI, 직접 만든다\"…건설사 직원들이 바꾼 일하는 법",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FYk5ENnVTZmFwUDFPQUhOVXE5Nl8xOTFKUnVBMkhtT2R0VkVjNm4zTVN5TzVLa2RTdTRGUzNLaEJKQ01NSXltdFNBQ05WekFmaldj?oc=5",
+     "summary": "SK에코플랜트가 현업 구성원이 직접 업무용 AI 에이전트를 기획·개발하는 3단계 체계(AI Delivery·AI Capa. Belt·AI FAB)를 구축해 전사 AI 내재화를 추진 중이라는 사례가 건설사 AI 전환 기사에서 소개됐다. 실제로 한 직원이 '바이브 코딩'으로 1600페이지 지반조사 보고서를 자동 요약·3D 시각화하는 에이전트를 개발했다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-19 07:30",
    "label": "08-19 07시",
