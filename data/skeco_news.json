@@ -1,8 +1,59 @@
 {
- "updated": "2026-08-20 07:30",
- "last_check": "2026-08-20 07:30",
- "last_new": 2,
+ "updated": "2026-08-21 07:30",
+ "last_check": "2026-08-21 07:30",
+ "last_new": 5,
  "checks": [
+  {
+   "ts": "2026-08-21 07:30",
+   "label": "08-21 07시",
+   "digest": [
+    "**반도체 인프라 수주 훈풍**으로 외형은 업계 최상위권까지 커졌지만, 도시정비 일감 확보는 여전히 과제로 남아 있다.",
+    "송도 SK뷰 **테라스 낙하·1,114가구 전수조사**와 의왕역 현장 **토사 임의 반출 인정**이 같은 날 겹치며 주택·현장 관리 리스크가 동시에 부각됐다.",
+    "고려아연·스미토모와의 **미국 전자폐기물 공급망 선점 경쟁**이 본격화되며 환경·순환경제 부문의 북미 확장이 시험대에 올랐다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-20 09:11",
+     "source": "뉴스스페이스",
+     "title": "[영상] “사람 있었으면 아찔” 49층 송도 SK뷰 테라스 낙하에 1114가구 전수조사…SK에코플랜트, 신축 아파트 품질 '논란'",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RTGNjUnl2OVliTDZfVThDam5ReTBrTXJZSzY5NjNHRFNMWnlsVjNQRld4OWZSdEw2M2FsVDc5R19KWWtXTGlWRTc2ODNWTzg0UFBONm5xQ1MxM25GTDEtXw?oc=5",
+     "summary": "인천 송도 '럭스오션 SK뷰'(49층) 고층 세대 테라스 구조물이 떨어지는 사고가 발생해 SK에코플랜트가 1,114가구 전수조사에 들어갔다. 입주 초기부터 이어진 하자 민원이 낙하 사고로 이어졌다는 지적이 나오며 신축 아파트 품질 관리 논란으로 번지고 있다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-08-20 15:24",
+     "source": "비즈니스포스트",
+     "title": "SK에코플랜트 '반도체발 훈풍'에 업계 최상위권 벌크업, 김영식 도시정비 일감 확보는 고심",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvdzVESDNoYXhDVGJBQmlFSS00Q0FlZ2I3VWZIZlcxSXZ6bkdkdzJHdjhqU2tBV1o3eDlMSXlGSmQ4OWtiRDhDeGZnWWRQS3Zpd0F4TlZBVUF3UlBaMXZzMHpjQVNENG9RRm1WWE9DRWFqNk0?oc=5",
+     "summary": "반도체 인프라 발주 확대로 SK에코플랜트의 수주·외형이 건설업계 최상위권 수준으로 커지고 있다는 분석이다. 다만 김영식 대표는 상대적으로 부진한 도시정비(재건축·재개발) 일감 확보를 과제로 안고 있다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-20 20:52",
+     "source": "경인미래신문",
+     "title": "SK에코플랜트, 의왕역 SK VIEW 토사 반출 논란 '재발 방지계획안' 제출",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PeUFQYUIxbVZOaGs3eGFaQmZQYXhsMGE0YkFVSGFOWWU5RExEc0MxV3RqWTVES1hJMlFTSEkyMlYzZURYaWVfMk90b3BrWFNGV3J1YWJ4NHgxQVZHRzNRSklB?oc=5",
+     "summary": "SK에코플랜트가 의왕역 SK VIEW 현장에서 토사를 임의 반출한 사실을 인정하고 관할 지자체에 재발 방지계획안을 제출했다. 현장 관리·환경 준수 측면에서 감독 강화가 예상된다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-08-20 08:34",
+     "source": "글로벌이코노믹",
+     "title": "고려아연·SK에코플랜트·日 스미토모, 美 전자폐기물 공급망 '선점 경쟁'",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTktGY3BqRG5VSDYyRlJWWG4xd2EzZzE0Mk9SOTdZMFRRVEpySUlSQjBqeGpodXE3ZjJCM3BFZGtweHZGMXhDU0RrZ0ZSWVJuV2h2M3ZYS1I5WjdSeWl1ZS15Qi1USzNnR1JCZjU5VTN6RGQyX3F4XzhFUk5yOVdrSWZwRE1MaTA?oc=5",
+     "summary": "고려아연, SK에코플랜트, 일본 스미토모상사가 미국 전자폐기물(E-waste) 리사이클 공급망 선점을 두고 경쟁 구도를 형성했다는 분석이다. SK에코플랜트는 인수한 전자폐기물 처리 자회사를 축으로 북미 거점과 처리 물량 확보에 나서고 있다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-08-20 19:08",
+     "source": "프리스탁뉴스",
+     "title": "[종목 리포트] SK에코플랜트, 4만7천원대 안착 시험",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSTjFzSW5kTWUtQXJ2SXFNQjdNNWxBTWNEbmpfdEJULUpDVXhZeXFLTndUQThMd2ZWVEEzZmNmUkVVZzQ4ZWVlRWN1d0s2bFZjbVhsMFBnVTlVamFpNm9fTG1sM1FpT0gxQmlmY25OZw?oc=5",
+     "summary": "비상장 장외시장에서 SK에코플랜트 주가가 4만7,000원대에서 안착 여부를 시험받고 있다는 시황 리포트다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-20 07:30",
    "label": "08-20 07시",
