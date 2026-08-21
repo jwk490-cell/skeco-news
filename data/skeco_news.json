@@ -1,8 +1,26 @@
 {
- "updated": "2026-08-21 07:30",
- "last_check": "2026-08-21 07:30",
- "last_new": 5,
+ "updated": "2026-08-22 07:30",
+ "last_check": "2026-08-22 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-08-22 07:30",
+   "label": "08-22 07시",
+   "digest": [
+    "이번 배치의 유일한 실질 이슈는 **탑선 매각 무산**으로, 트러스톤의 인수 철회에 따라 SK에코플랜트의 **비주력 자산 정리·재무구조 개선 일정**에 부담이 생겼다.",
+    "나머지 기사(1~4)는 유안타증권의 **SK㈜ 목표주가 83만원** 리포트 관련 중복 보도로, 반도체·AI 자회사 가치와 주주환원에 초점이 맞춰져 있어 SK에코플랜트 직접 이슈로는 보기 어렵다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-21 18:43",
+     "source": "프리스탁뉴스",
+     "title": "SK에코플랜트, 탑선 매각 무산… 트러스톤, 인수 철회",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1COXN5Znpsa3lGekJYd09HbF9QVjlwTTAyT0F5RnNGcmFrX3BmZ3U0MGg5UnBwQ3ZSdkpJd1V0YUZrYm5taHlwWDJzYlJJeVNkeFdGWlltNWR6OUxGLXh5Z3g4Q0lXMTUyLXFOUnFjdw?oc=5",
+     "summary": "SK에코플랜트가 추진하던 태양광 EPC 업체 탑선 지분 매각이 무산됐다. 인수 협상을 진행하던 트러스톤자산운용이 인수를 철회하면서, 상장 전 재무구조 개선을 위한 비주력 자산 정리 작업에 차질이 생겼다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-21 07:30",
    "label": "08-21 07시",
