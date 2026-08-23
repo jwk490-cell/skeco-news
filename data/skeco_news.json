@@ -1,8 +1,27 @@
 {
- "updated": "2026-08-23 07:30",
- "last_check": "2026-08-23 07:30",
- "last_new": 2,
+ "updated": "2026-08-24 07:30",
+ "last_check": "2026-08-24 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-08-24 07:30",
+   "label": "08-24 07시",
+   "digest": [
+    "**송도 럭스오션SK뷰 테라스 붕괴** 이슈가 단일 현장 하자를 넘어 SK에코플랜트의 시공 신뢰도 전반에 대한 문제 제기로 확산",
+    "비판의 화살이 **SK하이닉스 반도체 인프라 EPC 수행 역량**으로 옮겨붙는 프레임이 등장 — 그룹 핵심 수주 기반에 대한 평판 리스크로 번질 소지",
+    "**인천시·국토부 합동 사고조사위** 결과 발표가 향후 대응의 분수령"
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-24 05:46",
+     "source": "ABC뉴스",
+     "title": "[ABC뉴스 칼럼] 테라스도 붕괴됐는데 SK하이닉스 어쩌나",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tNVdwM1V5cV9QT2ZDMlBfSG02MHZ6bmJxNDJpWU9GSEVYaGVVYUN0T3dpSlFwYUF5RDMwa0ViSWFNSG1rbEx6TUdRdFhtTUd0czFsTkQzV3cwcWJ0b1ZkUGxteHdEUDjSAWdBVV95cUxPbTVXcDNVeXFfUE9mQzJQX0htNjB2em5icTQyaVlPRkhFWGhlVWFDdE93aUpRcGFBeUQzMGtFYklhTUhta2xMek1HUXRYbU1HdHMxbE5EM1d3MHFidG9WZFBsbXh3RFA4?oc=5",
+     "summary": "인천 송도 '럭스오션SK뷰' 테라스 붕괴·대규모 하자 사태를 계기로 SK에코플랜트의 시공 품질을 문제 삼으며, 같은 회사가 EPC를 맡고 있는 SK하이닉스 반도체 팹 공사의 안전·품질까지 괜찮겠느냐고 지적한 칼럼. 인천시·국토부 합동 사고조사위 구성과 5만7000여 건 하자 접수가 논란의 배경이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-23 07:30",
    "label": "08-23 07시",
