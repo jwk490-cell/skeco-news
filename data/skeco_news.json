@@ -1,8 +1,43 @@
 {
- "updated": "2026-08-24 07:30",
- "last_check": "2026-08-24 07:30",
- "last_new": 1,
+ "updated": "2026-08-25 07:30",
+ "last_check": "2026-08-25 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-08-25 07:30",
+   "label": "08-25 07시",
+   "digest": [
+    "**송도 럭스오션SK뷰 테라스 붕괴** 사고조사위가 8월 24일 첫 현장조사에 착수 — 11월 20일까지 설계·시공·감리 전반을 들여다보는 만큼 시공사 SK에코플랜트에 대한 **3개월간의 리스크 노출**이 이번 배치 최대 이슈다.",
+    "기사 15건 중 13건이 **자회사 SK에코플랜트 머티리얼즈의 영명보육원 7000만 원 후원** 보도자료 확산분으로, 실질 신규 정보량은 사고조사·기술홍보 2건에 그친다.",
+    "붕괴 사고 대응과 **CSRO 수처리 기술 홍보**가 같은 날 나란히 노출되며, 건설 시공 신뢰 회복과 환경·인프라 기술 브랜딩이 병행되는 구도다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-24 17:00",
+     "source": "파이낸셜포스트",
+     "title": "송도 럭스오션 SK뷰 붕괴현장, 사고조사위 첫 방문조사했더니…",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qQ0NFZ18tbDRkUE9VVVBSTm5nWHRKeXU4MnJDSU5sQndYa2dlZmdObC1ZelN0ZzNOazZiTXYwYi1DOEE1S0xGVUZ2enBOeDQxNnItZWhMS2hoMzNTR05kd2FGWlZ5eDhoRS1vWUpEdmpPMUdl?oc=5",
+     "summary": "인천시·국토부가 구성한 시설물사고조사위원회(위원장 홍건호 호서대 교수, 전문가 10명)가 8월 24일 SK에코플랜트 시공 송도 럭스오션SK뷰 테라스 붕괴 현장을 처음 방문 조사해 무너진 발코니 구조물의 철근 상태·콘크리트 두께·벽체를 집중 확인했다. 사조위는 11월 20일까지 3개월간 설계·시공·감리·인허가 전반을 조사할 예정이며, 조사 전 하자 축소 의혹과 입주민의 전액환불·재시공 요구도 함께 제기되고 있다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-24 14:00",
+     "source": "충청일보",
+     "title": "SK에코플랜트 머티리얼즈 영명보육원 아이들 자립에 7000만원",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrdjFZRks1TmEzaVdNdXpXLUhadENXUEFFNHZxVjBfSjBNcmVkZ19UdTh5alc3TU83Tnp6Y3hlbDF6Vl9mZVh4NjZ4dmlBS3c0c25JV3BLb05XWDQ5QnR3VHRXamZqbGdiY1c5ZDNjVW0?oc=5",
+     "summary": "SK에코플랜트 머티리얼즈가 세종시 아동양육시설 영명보육원에 자립 지원 후원금 7000만 원을 전달했다. 세종시와 연계해 보호아동의 자립 준비를 돕는 지역 사회공헌 활동으로, 다수 지역·통신 매체가 보도자료 기반으로 일제히 보도했다.",
+     "more": 12
+    },
+    {
+     "ts": "2026-08-24 14:08",
+     "source": "SK에코플랜트 뉴스룸",
+     "title": "Circle-Sequence Reverse Osmosis (CSRO) 기술 소개 영상",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VTXNYaUdtVFJfQXFvRjFpc3JfbEpwOWlzZ0gyWnI3MERhNXVLS2lKbzlHaThsUk5WT0lsM1ZOQjRaOU0tamRLT3hNbmJxWjBZ?oc=5",
+     "summary": "SK에코플랜트 뉴스룸이 자체 수처리 기술인 CSRO(Circle-Sequence Reverse Osmosis, 순환식 역삼투) 기술을 소개하는 영상을 공개했다. 반도체·산업용 용수 및 환경 사업 경쟁력을 뒷받침하는 기술 홍보 콘텐츠다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-24 07:30",
    "label": "08-24 07시",
