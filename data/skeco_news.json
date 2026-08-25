@@ -1,8 +1,51 @@
 {
- "updated": "2026-08-25 07:30",
- "last_check": "2026-08-25 07:30",
- "last_new": 3,
+ "updated": "2026-08-26 07:30",
+ "last_check": "2026-08-26 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-08-26 07:30",
+   "label": "08-26 07시",
+   "digest": [
+    "**자본준비금 2.5조원의 이익잉여금 전입**으로 배당가능이익을 확보 — SK㈜향 배당 및 IPO 준비를 염두에 둔 재무구조 정비 신호",
+    "주택 부문에서는 **송도 하자 은폐 의혹**이라는 품질·평판 리스크가, 성장축에서는 **반도체·AI 데이터센터 EPC 다각화**가 동시에 부각되는 대조적 흐름",
+    "산본 금강주공9단지 재건축 설명회 참석 등 정비사업 수주 활동은 계속되나, 사업 중심축은 주택보다 첨단 인프라 쪽으로 이동 중"
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-25 20:05",
+     "source": "아시아투데이",
+     "title": "SK에코플랜트, 자본준비금→이익잉여금 2.5조 전입…SK㈜에 대규모 배당 발판 마련",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vLUhraWlFQ3J6dHdGUWNiMlcxcTV5bjJNTW1xUzlQeERKZndhY2k5bFhrWU1QTFRpQjJBU0hPYy1VQUJ0NFlyZHdhSXplTW0wLWlXNWc4NzZmbjlOQVNFWnlOLWh3NmlYVmFmNA?oc=5",
+     "summary": "SK에코플랜트가 자본준비금 약 2.5조원을 이익잉여금으로 전입해 결손금을 해소하고 배당가능이익을 확보했다. 모회사 SK㈜에 대한 대규모 배당 재원 마련 포석으로, IPO 추진과 그룹 리밸런싱 맥락에서 주목된다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-26 06:13",
+     "source": "IT조선",
+     "title": "삼성·GS·SK에코, 아파트 넘어 '반도체·AI 시설'로 사업 다각화",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yZTlIVnVqTjhaRTQ2dlg5LVhYSlFOY29zd0tFNURKWmtFVmRxcUtfaTEzZjN2RXo2QUN0Q1hXNnFIQ3hiUGw3dGwzSm5GaWM3Vmg2c3RaUTV1SkpYWUh0YXpWUkRDSkRBQlhRSXJCS3l1dldl0gF0QVVfeXFMTTJlOUhWdWpOOFpFNDZ2WDktWFhKUU5jb3N3S0U1REpaa0VWZHFxS19pMTNmM3ZFejZBQ3RDWFc2cUhDeGJQbDd0bDNKbkZpYzdWaDZzdFpRNXVKSlhZSHRhelZSRENKREFCWFFJckJLeXV2V2U?oc=5",
+     "summary": "삼성물산·GS건설·SK에코플랜트 등 대형 건설사들이 주택 경기 침체 속에 반도체 팹·AI 데이터센터 등 첨단 산업시설 EPC로 포트폴리오를 옮기고 있다는 분석 기사로, SK에코플랜트의 반도체 인프라·데이터센터 사업 확대가 사례로 제시됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-25 11:37",
+     "source": "인천투데이",
+     "title": "SK에코플랜트, 테라스 붕괴 송도 아파트 하자 은폐 의혹",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83V3diOUxIM3RjSmJpZzJzQV93dmZYTDVoZ1diRGlZU3YtNWpKRWJ5T2lYUnpBazgyNmxhQWl6aDZpZnFnTU9uRm9WRDVhUjVzd0lqakRGQmZnRlJqRk1JSXl6OFNqenVPSE5DMEZpSFE?oc=5",
+     "summary": "인천 송도 SK에코플랜트 시공 아파트에서 테라스 붕괴 사고가 발생했는데, 시공사가 하자를 은폐했다는 의혹이 제기됐다. 입주민 반발과 함께 시공 품질·안전관리 리스크로 번질 소지가 있다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-25 15:20",
+     "source": "땅집고",
+     "title": "산본 금강주공9단지 2차, 재건축 설명회 열어…용적률 800% 기대감에 SK에코플랜트도 참석",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xa3RFc3l1dnVJbk1fQ20xU3ZUelAwOUVzYVBXVm5ibnJyZEhkNzZLTjZWV2dMUE5FQUVQXzlPdFM3R1g0Wk5fT3ZoQ2JlSnJrVVpaa2Vpa1pLZjBKN01XbXpnWW5fZ013MUR2SnR3eGYyYzBaby1oajh4MlNXamfSAXNBVV95cUxQc2ZlTDJKaDZ4VEpPNnVnTm9SYjdFZ0k2VFV3NWVvUDd0dWU2MTA5LVdycHloWWZyQmlHVFBpVnBsMVlJMXhXcjl4UVk0ek5HWGJQZzBOUHFXSGNHc1BMR1dZaXZPenNxRVo3ak5mekU4ZEdR?oc=5",
+     "summary": "군포 산본 금강주공9단지 2차가 재건축 사업설명회를 열었고 SK에코플랜트가 참석했다. 용적률 800% 상향 기대감이 부각되며 시공권 경쟁 참여 가능성이 거론된다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-25 07:30",
    "label": "08-25 07시",
