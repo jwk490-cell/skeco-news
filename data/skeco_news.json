@@ -1,8 +1,43 @@
 {
- "updated": "2026-08-26 07:30",
- "last_check": "2026-08-26 07:30",
- "last_new": 4,
+ "updated": "2026-08-27 07:30",
+ "last_check": "2026-08-27 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-08-27 07:30",
+   "label": "08-27 07시",
+   "digest": [
+    "**송도 테라스 붕괴 하자 논란이 이번 배치의 최대 이슈** — 3개 매체가 동시 보도하며 \"하자보수 93% 완료\"라는 회사 해명과 실제 뒤늦은 처리 정황이 충돌, 브랜드·품질 리스크로 확대되는 국면",
+    "**반도체 인프라 EPC를 앞세운 건설업 영업이익 1위 달성**이 기획 시리즈로 조명되며, 실적 호조(반도체 전환)와 평판 리스크(주택 하자)가 동시에 부각되는 대비 구도",
+    "큐캐피탈의 SK에코플랜트 관련 **투자 회수에 따른 지분법이익 증가** — FI 엑시트 흐름이 재무 이벤트로 확인"
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-26 09:48",
+     "source": "ABC뉴스",
+     "title": "[ABC뉴스 칼럼] 테라스 붕괴됐는데...SK에코플랜트 \"하자보수 93% 완료\" |",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FWmVfb2xHLWs0WlR2T2pKWHRhc0lINVB6VUxmb3R0LUdIeVlsYngtbGVLV3NaN19hWUtta21VVk5EME9rMklMTHNjWnhVSFAxQVFBOUoyZ0lCRWN0OGtHV05GamhVQ00?oc=5",
+     "summary": "인천 송도 아파트에서 테라스가 붕괴된 이후 SK에코플랜트가 \"하자보수 93% 완료\"라고 밝혔으나, 실제로는 조사가 시작되자 1년 넘게 방치된 하자를 뒤늦게 처리했다는 지적이 제기됐다. 입주민과의 하자 처리 갈등이 확산되며 시공 품질·사후관리 신뢰 문제로 번지고 있다.",
+     "more": 2
+    },
+    {
+     "ts": "2026-08-27 07:00",
+     "source": "fetv.co.kr",
+     "title": "[SK에코플랜트 전환기] ①반도체로 달성한 건설업 영업이익 1위",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZbUNzdE5BVnVLZTZ0QnpDQVNPVExKbTRDWUxRTWstdnZHVmU0UFNvWmlpRHRQLVJkaEpmTFVyMm9PUm9VM0lJQWFnRnJ1dEw4TnlRVzJQUlFvMHdWdVYyeTNRQzlGUWpY?oc=5",
+     "summary": "FETV가 'SK에코플랜트 전환기' 기획 1편에서 반도체 인프라 EPC 사업을 앞세워 건설업계 영업이익 1위를 달성한 배경을 조명했다. 주택·토목 중심 전통 건설에서 반도체·산업 인프라로 포트폴리오를 전환한 전략이 실적으로 확인됐다는 평가다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-26 16:05",
+     "source": "톱데일리",
+     "title": "큐캐피탈, SK에코플랜트 회수 효과…지분법이익 ‘쑥’",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vRlBPS3JQaWVFLXRfeWhJc0x4cExybW1FVmZtbXVqZm5jRklaSkN0RWJFNE5BNXFjOE5nUW03cFBaSmdMQzlhWWt1SHdZTzVt?oc=5",
+     "summary": "큐캐피탈파트너스가 SK에코플랜트 관련 투자분을 회수하면서 지분법이익이 크게 증가한 것으로 나타났다. 재무적 투자자(FI) 측면에서 SK에코플랜트 관련 엑시트가 진행되고 있음을 보여주는 사례다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-26 07:30",
    "label": "08-26 07시",
