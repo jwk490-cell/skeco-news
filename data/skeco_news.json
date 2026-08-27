@@ -1,8 +1,51 @@
 {
- "updated": "2026-08-27 07:30",
- "last_check": "2026-08-27 07:30",
- "last_new": 3,
+ "updated": "2026-08-28 07:30",
+ "last_check": "2026-08-28 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-08-28 07:30",
+   "label": "08-28 07시",
+   "digest": [
+    "**SK에코엔지니어링 흡수합병(12월 완료 목표)**이 이번 배치의 압도적 단일 이슈 — 2022년 분할한 플랜트 부문을 4년 만에 되돌려 설계·시공을 한 몸으로 묶는 구조 개편",
+    "합병 명분과 실적이 같은 방향 — **상반기 매출 2배·영업이익 7배** 증가가 반도체·AI 인프라 전환의 성과로 제시되며, 조직도에서도 환경·에너지가 뒤로 밀리는 재편이 진행 중",
+    "리스크 요인으로 **송도 아파트 균열 '도색 은폐' 의혹**이 제기돼, 하이테크 전환 서사와 별개로 주택·시공 품질 이슈가 남아 있음"
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-27 16:32",
+     "source": "머니투데이",
+     "title": "[단독]SK에코플랜트, SK에코엔지니어링 흡수합병…반도체·AI 하이테크 집중 - 머니투데이",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RVDAybll0Szd3eWtJeWFyM29XWWJkanpNdnduQ3FIV2RaSXFrVXBqWFBEY3lQNFVsV0MzZWlldnlVdThoeThqcXo1c01uOHc0SUFHMExqYkxEb0VPRDMwWnJmeW83dm9XemfSAW9BVV95cUxPRkMwOU1KMkY0ZGdzeDRvUHBPUVU3eGkyQzRPeTJxLUxOQWt1SlcydHR6TTEzNk1vblZrTllSclhRYi14aGYzX205dXhVUWtyNUlFSVVIV1hHT3NIaE1OYWtuWmtjQTlvdWlVQVlGaUU?oc=5",
+     "summary": "SK에코플랜트가 이사회를 열고 100% 자회사 SK에코엔지니어링을 흡수합병하기로 결정했으며, 12월 합병 완료를 목표로 한다. 2022년 분할해 떼어냈던 플랜트 부문을 4년 만에 재흡수하는 것으로, 설계·시공을 일원화해 반도체·AI 데이터센터 등 하이테크 인프라 수주 경쟁력과 수익성을 동시에 끌어올리겠다는 취지다.",
+     "more": 46
+    },
+    {
+     "ts": "2026-08-27 08:35",
+     "source": "데이터뉴스",
+     "title": "SK에코플랜트, 반도체 체질전환…매출 2배·영업익 7배↑",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ndE1DRUt2YWlYeTQ5QXBILUltVXZUTkh6RjZGTE9rNjBYdTFTNnIxTFF5U2Z1YXhMT1RFWFVVTjRBY2lQQnBTZ1VOa2twTndzc2ZuRUZZRXV2SVNIcmd2c1dvdHA?oc=5",
+     "summary": "SK에코플랜트가 반도체·AI 인프라 중심으로 체질을 전환하면서 상반기 매출이 약 2배, 영업이익은 7배가량 급증했다. 환경·에너지 중심이던 포트폴리오가 하이테크 EPC로 옮겨가며 실적 개선을 견인했다는 평가다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-08-28 07:00",
+     "source": "fetv.co.kr",
+     "title": "[SK에코플랜트 전환기] ②조직도서 사라진 '환경·에너지', 반도체로 이동",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NV2tmWmUyZ09TV2pWWXJ1Y2xRRFlHX2h4Wmw1UWptNTBheXhQZnpfTlRXVXZleVNpNVdCbVZ5MWlhRGFmR3B0ZW1MNFpfOFVEUjh2TjJ4UEZFT2FoWlhJSnNuOFBwNDVO?oc=5",
+     "summary": "FETV의 'SK에코플랜트 전환기' 기획 2편은 조직도에서 '환경·에너지' 명칭이 사라지고 인력·자원이 반도체 부문으로 이동한 점을 짚었다. 회사의 사업 정체성이 환경기업에서 반도체 인프라 EPC로 사실상 재편되고 있음을 보여준다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-27 10:08",
+     "source": "메디컬투데이",
+     "title": "SK에코플랜트, 송도 아파트 균열 ‘도색 은폐’ 의혹",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYS3hrQm1MMy1WeERzWnJJcTZhektXanduX0hWajROT3JSNU9oTUxsY0I2bjMtcl9fSDJNdTVDcXdHRkgxRm8tNEE5Wk1HNDM2aFZhdHloUk9hYXZtSGVueXZHakhPZ0tmZl9Bdw?oc=5",
+     "summary": "SK에코플랜트가 시공한 인천 송도 아파트에서 발생한 균열을 보수 없이 도색으로 덮어 은폐했다는 의혹이 제기됐다. 입주민 민원과 부실시공 논란으로 번질 수 있는 사안이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-27 07:30",
    "label": "08-27 07시",
