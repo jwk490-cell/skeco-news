@@ -1,8 +1,67 @@
 {
- "updated": "2026-08-28 07:30",
- "last_check": "2026-08-28 07:30",
- "last_new": 4,
+ "updated": "2026-08-29 07:30",
+ "last_check": "2026-08-29 07:30",
+ "last_new": 6,
  "checks": [
+  {
+   "ts": "2026-08-29 07:30",
+   "label": "08-29 07시",
+   "digest": [
+    "이번 배치는 사실상 **SK에코엔지니어링 흡수합병(합병기일 12월 1일)** 단일 이슈로, 20건 이상이 같은 발표를 다뤘다.",
+    "합병의 명분은 **설계-조달-시공 통합을 통한 반도체 FAB·AI 데이터센터 EPC 경쟁력 강화**이며, SKT와의 AI DC 인프라 컴퍼니 'SK호라이즌' 추진과 같은 맥락으로 읽힌다.",
+    "리스크 관점에서는 **피합병사의 자본잠식과 전통 건설부문 손실**이 지적됐으나, 한신평은 **신용도 영향은 제한적**이라고 평가했다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-28 08:00",
+     "source": "자본시장뉴스",
+     "title": "SK에코플랜트, 에코엔지니어링 흡수합병…12월 1일 기일",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNMWFCb1FTZUVQZU5TVnBSRTJTT3AtYTF2UEZPWkk4cUt6VjhreEhyMkxCSTBwRXEzc2hwZlV0bkJIVDJCWlBaMW9UQzdKbzN6SlZEa2JXQVNKd2xtaGp0ejdXN3pXYk0?oc=5",
+     "summary": "SK에코플랜트가 100% 자회사 SK에코엔지니어링을 흡수합병하기로 결정했으며 합병기일은 12월 1일이다. 설계(E)부터 시공까지 EPC 밸류체인을 한 몸으로 묶어 반도체 FAB·AI 데이터센터 인프라 수주 경쟁력과 조직 효율을 끌어올린다는 취지다.",
+     "more": 16
+    },
+    {
+     "ts": "2026-08-28 10:59",
+     "source": "v.daum.net",
+     "title": "SK에코플랜트, 4년 만에 엔지니어링 다시 품었다…'AI 전환' 수익성 승부",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUMGU0VF91WGdLNUJMdV85QlUwbDdFUnM4eVFWemJCekgzUTdzMkw1LUlUV0ZNNUlCOWhuT0FCQVhGVllEaS1Tb2p4SUxoc0U?oc=5",
+     "summary": "2021년 플랜트 사업 분할 이후 4년 만에 엔지니어링 조직을 다시 품는 것으로, 합병 대상이 자본잠식 상태인 점이 부담 요인으로 지적된다. 배터리(SK온) 리밸런싱 이후 흔들린 성장축을 반도체·AI 인프라로 재편해 수익성 승부를 걸겠다는 의도로 해석된다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-08-28 14:59",
+     "source": "연합인포맥스",
+     "title": "한신평 \"SK에코, 엔지니어링과의 합병 중 자금 소요 대응 가능\" |",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ET214TVpQMkNlTy1LTlFSRFV0NWhVM1pqbHFJcFJiMFVuUVAzLW9jRXpCRzkwc2Z1YjF4MlRfd1FJdjBOdUZKMDNERWVHNFZHcDNOWHcydE84YXYyNXNDYmNLeVhySkEwMWRzMVlQUHRJdTVV?oc=5",
+     "summary": "한국신용평가는 이번 합병에 따른 SK에코플랜트의 신용도 영향이 제한적이며 합병 과정의 자금 소요도 대응 가능한 수준이라고 평가했다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-08-28 08:12",
+     "source": "여성소비자신문",
+     "title": "SKT-SK에코플랜트, AI DC 인프라 컴퍼니 'SK호라이즌' 추진...SK에코엔지니어링 합병",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14Nm1mR0tJWURha2NtZ1MyYlQxdVI2eldKMTNQc0RNLUhqRmVncjJvMFdKd2JyaXJoWnBjT2NVU1ZocmxveUgtUFpST1lWVkt5Q1VQMmxHcGt5SlVzbklDOEVvZWJkdw?oc=5",
+     "summary": "SK텔레콤과 SK에코플랜트가 AI 데이터센터 인프라 전문회사 'SK호라이즌' 설립을 추진하는 흐름 속에서 이번 에코엔지니어링 합병이 함께 거론됐다. AI DC 밸류체인을 그룹 차원에서 재정렬하는 작업의 일부라는 시각이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-28 14:09",
+     "source": "한국금융신문",
+     "title": "'반도체 기업 변신' SK에코플랜트, 건설 전통사업은 ‘손실’…향후 과제는?",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ub0xWRTFwckJ2XzZJdHZyOE55aWNRZWFnMGNjdWVXcmUzOHEza19tUWtjUl9XQkdwTC1hVlFOcmx5SkFTYS1ocXpqNUJkVF9zckFVMjZsR0lpaFhWNHpRVjM1NmtOUnlTRm1lVU5FRU9YVGR2MG9QX09Idw?oc=5",
+     "summary": "반도체·AI 기업으로의 변신을 내세우고 있으나 주택·건축 등 전통 건설 부문은 여전히 손실을 내고 있어, 합병 이후 기존 사업 구조조정과 수익성 회복이 과제로 남는다는 분석이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-29 01:59",
+     "source": "비즈니스포스트",
+     "title": "SK에코플랜트 배터리발 리밸런싱에 '플랜트' 다시 품에, 김영식 새 성장전략 어떻게 짜나",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95RTVHMHNsMTJSM2l3M0w0TFhacjZyWVEyWVh6bHZzcmRBZ0pNN0pCOXBqN1c2TWFXenAyeHNuTThJc1ZLSFpSdFhvcnJEWUZ5bnpHemsxMjRyZTZkcVRQb3dJTE9zck9ZTXZ2V1NOXzhIdGs?oc=5",
+     "summary": "배터리발 그룹 리밸런싱 과정에서 플랜트 사업을 다시 품게 된 김영식 대표가 어떤 새 성장전략을 짜는지에 관심이 쏠린다는 내용이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-28 07:30",
    "label": "08-28 07시",
