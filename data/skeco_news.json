@@ -1,8 +1,59 @@
 {
- "updated": "2026-08-30 07:30",
- "last_check": "2026-08-30 07:30",
- "last_new": 0,
+ "updated": "2026-08-31 07:30",
+ "last_check": "2026-08-31 07:30",
+ "last_new": 5,
  "checks": [
+  {
+   "ts": "2026-08-31 07:30",
+   "label": "08-31 07시",
+   "digest": [
+    "**AI·반도체 인프라가 실적을 완전히 바꿨다** — 상반기 영업이익 1조4650억원으로 사상 최대, 용인·청주·울산 프로젝트가 성장의 축.",
+    "**구조 재편이 동시 진행 중** — SK에코엔지니어링 흡수합병(12/1 출범)으로 설계·시공 일원화, SK㈜ 지분 확대와 배당정책 논의까지 상장 전 체질 정비 성격.",
+    "**호실적 이면의 리스크 두 가지** — 어센드 파산에 따른 SKS PE 수익 보전 부담과 용인 7.5조 현장의 공기 단축 비용 분담 문제."
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-31 06:00",
+     "source": "Chosunbiz",
+     "title": "美 어센드 파산에 SK에코플랜트 ‘불똥’… SKS PE에 수익 보전해줘야 - 조선비즈",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3g4QW9WMkJHOU84Y2lfT0ZiRVFxT1p1Z2ZtZmI4RkluSENYVjV2S1dudWZyZGRndUNFWE82MTI1LW1JQzJwRFh2bmJ2UkpzazlBTVh6dndSblkzMzZHSzFDWC1iYjExYTJheElkYlJoTl9PWTZ6YzlnN1BvcW5lRnpmc3lhYTTSAZsBQVVfeXFMUGh0SkQ2clhVdEhPMzFjalgwRk0wcnlLR3NqYXRzY0EzR3ZYdVM5Z1piRlBWYTRMcnNON3pXbUZ4UUNmNWxkaWR4YlFSeHMyNmxZU1hBd3RhVG1SakF2dzVDY0g3Z2t1WVdkN3FVMzZ4Qy1fVGF2ZjB4eFAwVWdpelhwancyTmhveFM3dWJNQlNsZThVWlZXcGNrV1k?oc=5",
+     "summary": "SK에코플랜트가 2024년 9월 미국 배터리 리사이클링사 어센드 엘리먼츠 지분(약 1316억원)을 SKS PE에 매각하면서 목표 수익률 미달 시 차액을 현금 보전하는 조건을 걸었는데, 어센드가 챕터11 파산을 신청해 지분이 사실상 휴지조각이 되면서 보전 부담이 SK에코플랜트로 되돌아올 처지가 됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-31 06:41",
+     "source": "코리아리포트",
+     "title": "SK에코플랜트, 상반기 영업익 1.4조…AI·반도체가 견인",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wZWJTWkg0bW9ZdG0zVGpMQUloYkRlQXVRSVVINVF1SzRtMy1zaXI0RkVsNWtfOFdBX1hwU2hIZFBVWE9ibUZhckJZUkFHOTdwTGRUdTJPR2NXWFl0d2VEdnoyYzV6ZjZIR3drWnJfWjA?oc=5",
+     "summary": "SK에코플랜트가 2026년 상반기 매출 약 10조원, 영업이익 약 1조4650억원(1분기 9314억원+2분기 5336억원)을 기록하며 사상 최대 실적을 냈다. 용인 반도체 클러스터, 청주 M15X, 울산 AI 데이터센터 등 AI·반도체 인프라 대형 프로젝트 매출이 본격 반영된 결과다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-31 05:00",
+     "source": "오늘경제",
+     "title": "[이슈] SK에코플랜트, 100% 자회사 SK에코엔지니어링 흡수합병…12월1일 출범",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TQnhOQlZjRXlaTVBrNGZxSnFna1NWZklMZDRiZHhNNTMtdzRaYjFJa0RPcy1nT3A2RFJTSVhIeUdudnZ1SFhBMkVYeHNLM3c2VVNJNnVORXZ3Z29DUGNoRVI5eC1uZV9jV1d3TDhmR0hrNjQ?oc=5",
+     "summary": "SK에코플랜트가 100% 자회사인 SK에코엔지니어링을 흡수합병해 12월 1일 통합법인으로 출범한다. 설계와 시공을 한 몸으로 묶어 반도체·AI 인프라 EPC 수주 경쟁력을 강화하려는 포석이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-31 07:00",
+     "source": "뉴스토마토",
+     "title": "[IB토마토]SK에코플랜트 7.5조 용인 반도체, 공기 단축 비용 '누구 몫'",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MZFdKRzlUU1Y5M1FnT0VpcFZxbVQwV3NoNHlZRUNXdlBDTzNmLXV2c1NuR3h6bk1CdzFxSzhabDVPVmRLNXBlRnNPTGRvU09rRHpJckItWXdjTmFqdm5aMQ?oc=5",
+     "summary": "7조5000억원 규모 용인 반도체 클러스터 공사에서 발주처가 요구하는 공기 단축에 따른 추가 비용을 누가 부담하느냐가 쟁점으로 부각됐다. 비용 분담 결과에 따라 대형 프로젝트가 끌어올린 최근 실적의 지속성이 좌우될 수 있다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-08-31 07:00",
+     "source": "fetv.co.kr",
+     "title": "[SK에코플랜트 전환기] ③지분 늘린 SK㈜…배당정책 시행하나",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13alc3WXdTeWsxTGNRYmVrSG5VNVhsYUJla0tsNFRzSm9YeEItQ3VYUWhnbHgtUUZZcktZTnpka3F0NEF1a1FDcmx0YTE2dnZvelNtUUFobW1ldVplZ2NCNjd2TTZ6TEpR?oc=5",
+     "summary": "SK㈜가 SK에코플랜트 지분을 늘리면서 향후 배당정책 도입 여부에 관심이 쏠린다. 실적 개선과 지배구조 정비가 맞물리며 모회사로의 현금 환원 가능성이 거론되는 국면이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-29 07:30",
    "label": "08-29 07시",
