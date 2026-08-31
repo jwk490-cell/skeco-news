@@ -1,8 +1,43 @@
 {
- "updated": "2026-08-31 07:30",
- "last_check": "2026-08-31 07:30",
- "last_new": 5,
+ "updated": "2026-09-01 07:30",
+ "last_check": "2026-09-01 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-09-01 07:30",
+   "label": "09-01 07시",
+   "digest": [
+    "**포트폴리오 재편이 하루에 두 건 동시 확인** — 해상풍력(SK오션플랜트) 매각으로 비핵심 자산을 털고, SK에코엔지니어링 흡수합병으로 EPC 역량을 재결집하는 **반도체·AI 인프라 집중 전략**이 명확해졌다.",
+    "**4,100억원 현금 유입**은 IPO 전 재무구조 개선과 AI 데이터센터·반도체 인프라 투자 재원으로 해석되나, 흡수합병 대상의 수익성이 아직 초기 회복 단계라 **합병 후 재무 건전성 관리가 과제**로 지적된다.",
+    "수주잔고 **25조원**이 모회사 SK㈜의 밸류에이션 재평가 논거로 인용되며, SK에코플랜트 실적이 그룹 지주사 주가 스토리와 직결되는 흐름이 이어지고 있다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-08-31 17:32",
+     "source": "연합인포맥스",
+     "title": "SK에코플랜트, '4천100억' SK오션플랜트 지분 전량 매각…\"반도체·AI 집중\" |",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CclYxZVlTT0M1YVFEMlNtWTEyQWhPQWVQLWxGRmNhLUdvNFZYY3JSTnQzekU3RTJOZzVHWGxzSFVoRUIyUV9zd1BqUFcxVGhuOW9KUnA0cDE5SzZDRUpHandZUGIxdjNXZFdva1VFUE5YZmJ0?oc=5",
+     "summary": "SK에코플랜트가 해상풍력 구조물 자회사 SK오션플랜트 보유지분 전량을 디오션 컨소시엄에 4,100억원 규모로 매각하는 주식매매계약(SPA)을 체결했다. 지난해 우선협상대상자 선정 이후 1년 만의 본계약으로, 회사는 확보한 자금을 반도체·AI 인프라 사업에 집중 투입하는 포트폴리오 재편에 활용할 방침이다.",
+     "more": 17
+    },
+    {
+     "ts": "2026-08-31 15:17",
+     "source": "뉴스워치",
+     "title": "[초점] SK에코플랜트, 4년 만에 엔지니어링 재흡수…'AI 인프라' 승부수",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wMlA1YUdQajRQb0I0ODBjTU1Bb1lBSE0xSm90UE51S1VteFJIbmJ4MVpGbkZQcF9MSDY5QVlBd1RSWlMtcWR6SXlkTDZFWjlwWHBSclVaaHMwTGstTERYWWtnRGZaSHJCLWc?oc=5",
+     "summary": "SK에코플랜트가 2021년 분할했던 SK에코엔지니어링을 4년 만에 흡수합병하기로 하며 AI·반도체 인프라 EPC 역량 결집에 나섰다. 에코엔지니어링이 최근 적자에서 벗어난 상태지만, 합병 이후 재무 건전성 관리와 수익성 지속 여부가 성패의 관건으로 지목된다.",
+     "more": 2
+    },
+    {
+     "ts": "2026-08-31 09:00",
+     "source": "newspim.com",
+     "title": "[모닝 리포트] SK, 에코플랜트 수주잔고 25조…\"자사주 소각·특별배당 재평가\"",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4UW9RZHFuZHdlSTZRRmEycGh4UDVYZXJtTTdBZE93VG4xNFBmV0JEOUVkMGRyY1BWRGFtNUlpXzUzMW1TM3JFRUlxQk5SVER5ak5ISmlhYjJwWkZM?oc=5",
+     "summary": "증권가 모닝 리포트는 SK에코플랜트 수주잔고가 25조원 규모에 달한다는 점을 지주사 SK㈜의 주요 투자포인트로 제시했다. 자사주 소각·특별배당 등 주주환원 정책과 맞물린 지주사 재평가 논리의 근거로 활용됐다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-08-31 07:30",
    "label": "08-31 07시",
