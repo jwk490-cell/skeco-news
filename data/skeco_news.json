@@ -1,8 +1,51 @@
 {
- "updated": "2026-09-01 07:30",
- "last_check": "2026-09-01 07:30",
- "last_new": 3,
+ "updated": "2026-09-02 07:30",
+ "last_check": "2026-09-02 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-09-02 07:30",
+   "label": "09-02 07시",
+   "digest": [
+    "**SK오션플랜트 지분 전량 4,100억원 매각**이 이번 배치의 단일 최대 이슈로, 대부분의 기사가 이 건을 다뤘다.",
+    "매각의 방향성은 **친환경·해상풍력 축소 → 반도체·AI 인프라 및 그룹 캡티브 집중**으로, 지난 5년 M&A 확장 전략의 사실상 전환으로 해석된다.",
+    "재무 측면에서는 **순차입금 감소(한신평)**라는 긍정 평가와 **해운대 부지 3,200억원 인수**라는 신규 자금 소요가 동시에 부각됐다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-01 09:48",
+     "source": "에너지신문",
+     "title": "SK에코플랜트, SK오션플랜트 4100억원에 매각…반도체·AI 집중",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BRVV1Ny1ZNlZ5b3d6WFZtY3BXeXZObXpPVGxqbFNEeUw2aVE0czlaMVhsVVVJVGFucjRZbk14RzQtNGZEN2t0NmpoUXdtbkhMU2MzaElfSUlRLVB6TzVVb0pjUjBPYTRWMWVwVkxNdkVpdw?oc=5",
+     "summary": "SK에코플랜트가 보유 중이던 SK오션플랜트 지분 전량을 약 4,100억원에 사모펀드 계열 디오션에 매각하기로 했다. 회사는 매각 대금을 반도체·AI 인프라 등 핵심 사업에 재투입해 사업 포트폴리오를 재편하고 재무구조를 개선한다는 방침이다.",
+     "more": 5
+    },
+    {
+     "ts": "2026-09-01 11:27",
+     "source": "머니투데이",
+     "title": "돌고 돌아 다시 플랜트로…SK에코플랜, 친환경 접고 반도체로 - 머니투데이",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZbF8xb3B6ZGJwMmx5SGxaYWxhUzdSb1NaSG5wMS1FZTdTVFpjMXFyOUtrQktkQ21MWEg0b2pIamtPUVowRVNKR2Q0X2FkMWxYNW5KQ21HMnBlU3piaFhyLW5rcnkxZ2tBNDdJYUtoONIBb0FVX3lxTFBZbF8xb3B6ZGJwMmx5SGxaYWxhUzdSb1NaSG5wMS1FZTdTVFpjMXFyOUtrQktkQ21MWEg0b2pIamtPUVowRVNKR2Q0X2FkMWxYNW5KQ21HMnBlU3piaFhyLW5rcnkxZ2tBNDdJYUtoOA?oc=5",
+     "summary": "이번 매각은 지난 5년간 환경·신재생 M&A로 확장했던 포트폴리오를 접고 반도체 인프라·산업가스 등 그룹 캡티브 중심으로 회귀하는 흐름으로 해석된다. 다만 해상풍력 등 친환경 사업 축소를 두고 내부·업계의 반발과 전략 일관성 논란도 제기됐다.",
+     "more": 2
+    },
+    {
+     "ts": "2026-09-01 17:51",
+     "source": "연합인포맥스",
+     "title": "한신평 \"SK에코플랜트, 오션플랜트 지분 매각에 순차입금 감소 전망\"",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByTW1KZG9GVGY5eC1jcWdndTJHRUNUaVBCSjNkakUzV0wyRDVCT0VqempFa2hudEItUDBkSFBMSHpFM3k1Z19VSXkxT01ORjEwam8yRkdBbWIzbmJqQndoVmdGdUYtTkI4TzRUREFpSHU?oc=5",
+     "summary": "한국신용평가는 SK오션플랜트 지분 매각으로 SK에코플랜트의 순차입금이 감소하고 재무 부담이 완화될 것으로 전망했다. 매각 대금 유입이 차입금 상환 여력을 높이는 요인으로 평가됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-01 14:43",
+     "source": "비즈한국",
+     "title": "‘PF부실 후폭풍’ SK에코플랜트, 해운대 홈플러스 부지 3200억에 인수",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSnJ0ZGpyRXA4cW0zWmxGeHQxQkoxZzgwZk5jcVFMcThpVHRkNmdpbmg2SzI1OHY3VzA3SFZHVjM2NGdRdG5ma3BxVXBHOGEySl9oaFVsN2lkVVY2cGpBRlg3S2I5MENlaWZXNkQwZktjcUF3eXZjaU1DYTVEbE5KbWxn?oc=5",
+     "summary": "SK에코플랜트가 부산 해운대 홈플러스 부지를 약 3,200억원에 인수한 것으로 확인됐다. PF 부실 후폭풍이 이어지는 상황에서 대규모 부동산 투자를 단행한 배경과 자금 부담에 관심이 쏠린다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-01 07:30",
    "label": "09-01 07시",
