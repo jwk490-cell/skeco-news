@@ -1,8 +1,26 @@
 {
- "updated": "2026-09-02 07:30",
- "last_check": "2026-09-02 07:30",
- "last_new": 4,
+ "updated": "2026-09-03 07:30",
+ "last_check": "2026-09-03 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-09-03 07:30",
+   "label": "09-03 07시",
+   "digest": [
+    "SK에코플랜트가 **SK오션플랜트 지분을 디오션 컨소시엄에 매각**하며 계열사 지분 정리에 나섰다.",
+    "비주력 자산 매각을 통한 **재무구조 개선·포트폴리오 재편** 흐름이 이번 배치의 핵심."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-02 09:52",
+     "source": "철강금속신문",
+     "title": "SK에코플랜트, SK오션플랜트 지분 디오션 컨소시엄에 매각",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9POFlidFJjeDZnb250M2hUVG8xWWJoamNnb0dQN3NndFg0NGZSUFN5VU8zLVY4bGlfd1ZKSHA3dks1MGhJd0tLRjRQaHpnZVJDSGJVbi05WmhYTjZ1UmwzRzJPcUs?oc=5",
+     "summary": "SK에코플랜트가 보유한 SK오션플랜트 지분을 디오션 컨소시엄에 매각하기로 했다. 비주력 자산 정리를 통한 재무구조 개선 및 사업 포트폴리오 재편 차원의 결정으로 풀이된다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-02 07:30",
    "label": "09-02 07시",
