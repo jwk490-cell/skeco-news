@@ -1,8 +1,42 @@
 {
- "updated": "2026-09-03 07:30",
- "last_check": "2026-09-03 07:30",
- "last_new": 1,
+ "updated": "2026-09-04 07:30",
+ "last_check": "2026-09-04 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-09-04 07:30",
+   "label": "09-04 07시",
+   "digest": [
+    "**SK오션플랜트 지분 4,100억원 매각 완료**가 이번 배치의 핵심 — 유동성은 확보했으나 1년 이상 지연된 협상 끝 기대 이하 가격으로, 신용도 개선 효과는 제한적이라는 평가가 지배적",
+    "비주력 자산(조선·해양) 정리와 **AI 인프라·데이터센터 중심 포트폴리오 재편** 메시지가 같은 날 병행되며, 사업 구조조정 방향성이 뚜렷해지는 흐름"
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-03 16:24",
+     "source": "리드경제",
+     "title": "SK에코플랜트, SK오션플랜트 지분 4100억 매각…신용도 영향 제한적",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HNXNPSXJaQlFzbzNCMUp0SGxCZlJwVXpiSTFBSkJmWEMtQTBZbGxwRnBOZHRvY1V1RTIwT0lFTnBMcF9NLVNRanNhMVhkeU56YTVPUVJ1ZldOZGhUNDUyS21IeVFoYXAtdmpCT1hTMA?oc=5",
+     "summary": "SK에코플랜트가 SK오션플랜트 지분을 약 4,100억원에 매각했으며, 유동성 확보에 도움이 되나 매각 규모가 크지 않아 신용도 개선 효과는 제한적이라는 평가다. 1년 넘게 끌어온 매각 협상 끝에 당초 기대했던 몸값에는 못 미치는 가격에 거래가 마무리됐다는 지적도 함께 제기됐다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-09-03 17:04",
+     "source": "news.skecoplant.com",
+     "title": "[딱 알려드림] AI 인프라 밸류체인, 한 번에 딱 정리해드림!",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TeEptRDhqbWNxWlRidS1MellWTmR6c2s1QnB4T2o1V0dLcWpmaWVVS2xrc1BFYXd2V3A2WDNfM2tweUxoRUlxNXNDMEdTbWo1?oc=5",
+     "summary": "SK에코플랜트가 자사 뉴스룸을 통해 AI 인프라 밸류체인을 단계별로 정리한 콘텐츠를 게재했다. 데이터센터·전력·냉각 등 AI 인프라 사업을 회사의 핵심 성장축으로 부각하려는 커뮤니케이션으로 읽힌다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-03 09:56",
+     "source": "한국금융신문",
+     "title": "중흥토건·SK에코플랜트, 광주 '송암공원 중흥S-클래스 SK VIEW' 선착순 계약",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FV21MbGFuaWkzbGtiNlVlU1hDb291YlFuZGxkSUVEWGRGQ2RpbTB3Q01CMHFGZDk4NDZQTmJfaVg2c1RMcUoya1ZxTEF0OXNYYVdvTUhkUi0zTWRnOG54RDdqYXczY3JtRi1IWkZacFZzeVVrRXJmY1JTdw?oc=5",
+     "summary": "중흥토건·SK에코플랜트 컨소시엄이 시공하는 광주 '송암공원 중흥S-클래스 SK VIEW'가 선착순 계약에 돌입했다. 지방 분양 시장 침체 속 잔여 물량 소진을 위한 판촉 단계로 볼 수 있다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-03 07:30",
    "label": "09-03 07시",
