@@ -1,8 +1,27 @@
 {
- "updated": "2026-09-04 07:30",
- "last_check": "2026-09-04 07:30",
- "last_new": 3,
+ "updated": "2026-09-05 07:30",
+ "last_check": "2026-09-05 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-09-05 07:30",
+   "label": "09-05 07시",
+   "digest": [
+    "이번 배치는 사실상 **단일 이슈** — 해상풍력 자회사 지분 매각 + 계열사 합병으로 대표되는 **사업 리밸런싱의 막바지 단계** 보도",
+    "방향성은 명확: 비주력 재생에너지·환경 자산 축소 → **AI·반도체 인프라 중심 포트폴리오 전환**, 상장 전 체질 개선 성격",
+    "나머지 6건은 홍보실 임직원 부고 기사로 기업 이슈와 무관해 제외"
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-05 07:00",
+     "source": "연합인포맥스",
+     "title": "'자회사 지분 매각에 합병도'…리밸런싱 막바지 접어든 SK에코플랜트",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TN1lybkNpZ1lEdzlkb1gtQlpqLVlPZUQweG5ySFVlTjlUWmpzb25CUHpOZE9iM2ZwY0dTcHVvNDRYRTRuUWttYmlDTjhlZzhEbWRJUXBnUkplQ1dleXgySGVVUEE5MVMxMHcyUE1YT2E?oc=5",
+     "summary": "SK에코플랜트가 해상풍력 자회사 지분 매각과 계열사 합병을 잇달아 단행하며 사업 리밸런싱이 막바지 국면에 접어들었다. 비주력 환경·재생에너지 자산을 정리하고 AI·반도체 인프라 중심으로 포트폴리오를 재편하는 흐름이다.",
+     "more": 2
+    }
+   ]
+  },
   {
    "ts": "2026-09-04 07:30",
    "label": "09-04 07시",
