@@ -1,8 +1,25 @@
 {
- "updated": "2026-09-06 07:30",
- "last_check": "2026-09-06 07:30",
- "last_new": 2,
+ "updated": "2026-09-07 07:30",
+ "last_check": "2026-09-07 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-09-07 07:30",
+   "label": "09-07 07시",
+   "digest": [
+    "이번 배치에는 SK에코플랜트 관련 유의미한 뉴스가 없습니다(수집 기사 1건은 임직원 **부고**로 회사 사업·실적과 무관)."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-06 13:48",
+     "source": "라이센스뉴스",
+     "title": "[부고] 진민수(SK에코플랜트 홍보실 프로)씨 빙부상",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VQm9YSnBWczlJRGNGUXJVNnRnS21LajQxVDRzejR5akRlYUw3Q3VMQkN6VktuSGdySlFNRHByLVNDNVlUSVIyUkNIUkZnRFpaR2hxd1hlQWZ2YXcxX3Z0T0lydnkyRFN3RWNr?oc=5",
+     "summary": "",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-06 07:30",
    "label": "09-06 07시",
