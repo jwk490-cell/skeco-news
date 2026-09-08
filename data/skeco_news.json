@@ -1,8 +1,51 @@
 {
- "updated": "2026-09-08 07:30",
- "last_check": "2026-09-08 07:30",
- "last_new": 5,
+ "updated": "2026-09-09 07:30",
+ "last_check": "2026-09-09 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-09-09 07:30",
+   "label": "09-09 07시",
+   "digest": [
+    "이번 배치는 **AI 데이터센터·반도체 팹 등 산업 인프라 EPC로의 체질 전환**이 일관된 축으로, 기술 확보(공모전)·수행 속도(표준화)·인력 증원(576명)이 같은 방향을 가리킨다.",
+    "데이터센터 경쟁의 차별화 포인트가 **전원 공급과 열관리, 그리고 공기 단축**으로 좁혀지는 흐름이며, SK에코플랜트는 모듈러 대신 **설계·시공 표준화** 노선을 택했다.",
+    "주택·재개발(면목7구역)은 여전히 진행되나 뉴스 비중은 낮고, 성장 서사는 사실상 비주택 인프라 쪽에 실려 있다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-08 09:46",
+     "source": "칸 kharn",
+     "title": "SK에코플랜트, AI DC 혁신기술·솔루션 발굴",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yMGlLc0RvWmNlaF9yeC1Yd3Y5YVdRcFhfUGVXanpoWmZWSm5jRkhLbGdFczhudG05YkhrRHB0REpNYjZVYlpBeXV5U3pTMnJONmxraXN3?oc=5",
+     "summary": "SK에코플랜트가 오픈이노베이션 공모전 '2026 콘테크 미트업 데이'를 열고 AI 데이터센터(전력·냉각·설계·운영 효율화), OSC, 설계·구매·시공 AI, 로봇·자동화, 자원순환·안전 등 22개 분야 혁신기술을 9월 30일까지 모집한다. 수상기업과는 공동기술개발·기술사업화를 추진하고 기술개발자금 및 투자유치도 연계 지원해, 전원 공급·열관리 중심의 차세대 데이터센터 EPC 역량을 외부 기술로 보강하려는 포석이다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-09-09 07:00",
+     "source": "fetv.co.kr",
+     "title": "[건설 인당 생산성] SK에코플랜트, '팹 건설'로 외형 키운다…576명 충원",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lMjB2dzJCM0o4VVM4WmlQbk5wQ2RQTEVhSmFLaFhwZVpsenNSbVQ5Ulh4QUw0YXdlc0tPMHdZOG5MNjZKdGhtT3VwdUNDMWNOZjVWRGNhNmdRZXYwQ0lMdFdDQUtoRjF1?oc=5",
+     "summary": "건설사 인당 생산성 비교 기사에서 SK에코플랜트는 반도체 '팹 건설'을 축으로 외형을 키우며 인력을 576명 순증한 것으로 집계됐다. 주택 축소 기조 속에 반도체 인프라 EPC로 매출 기반을 옮기는 체질 전환이 인력 구조에도 반영되고 있다는 분석이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-08 18:47",
+     "source": "서울경제TV",
+     "title": "GS건설 모듈러·SK에코 표준화…AI 데이터센터 ‘속도전’",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sNU1tXzhtbHBTZGhraWpzeDAwTkdaN3JNeWN0UDFHeWs3VXY3aC1yQWVfa1l4aXdYQUdSZ0R4dzEzR1BRUnFBYVBpd1FWMk5lYkxqbngzUWNSUXIyWnVDOGI5ZXE?oc=5",
+     "summary": "AI 데이터센터 공기 단축 경쟁에서 GS건설은 모듈러 공법, SK에코플랜트는 설계·시공 표준화를 각각 무기로 내세우고 있다는 비교 기사다. 발주처가 요구하는 '속도'가 수주 경쟁의 핵심 변수로 부상했다는 점을 짚었다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-08 08:28",
+     "source": "아시아경제",
+     "title": "중랑구, 면목7구역 재개발 통합심의 통과…SK에코플랜트·현대건설 시공",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sQnZLU1Y4VnFVd2JGeHNTcndMb183b0dKWVVHakdveUNPVHZjUzJ1ZGZFYkhjNjVPM0c3WGxBbGpQUU42ZlRyYzZuWGgyQUlMR0FDbW1aS3h2c2s5S2liUlJXREVPQzV4c1E?oc=5",
+     "summary": "서울 중랑구 면목7구역 재개발이 통합심의를 통과했으며 시공은 SK에코플랜트·현대건설 컨소시엄이 맡는다. 사업 절차가 한 단계 진전되며 착공 일정에 가까워졌다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-08 07:30",
    "label": "09-08 07시",
