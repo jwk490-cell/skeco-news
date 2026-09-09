@@ -1,8 +1,43 @@
 {
- "updated": "2026-09-09 07:30",
- "last_check": "2026-09-09 07:30",
- "last_new": 4,
+ "updated": "2026-09-10 07:30",
+ "last_check": "2026-09-10 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-09-10 07:30",
+   "label": "09-10 07시",
+   "digest": [
+    "**친환경 철수·반도체 집중이 완결 국면** — 이집트 그린수소 중단으로 수소·환경·해상풍력 라인이 사실상 전량 정리되고, 반도체 인프라·소재·모듈·리사이클링 축만 남았다.",
+    "**AI 데이터센터가 신규 성장축의 전면에** — 콘테크 공모전 수요기술이 AIDC 전력·냉각에 집중되며, 사업 재편 방향이 R&D·기술 소싱 단계까지 일관되게 반영되고 있다.",
+    "**그룹 리밸런싱의 대표 사례로 부각** — 자산 매각으로 재무 체력을 확보한 만큼 **IPO 재추진 관측**이 다시 거론되나, PF 부담은 잔존 리스크로 지적된다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-09 15:34",
+     "source": "뉴스웨이",
+     "title": "SK에코플랜트, 이집트 그린수소 사업 결국 접었다···친환경서 반도체로 선회",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pc044cWFsVi1zd3pBa1ZoQkZYYkNwRFF3ZWd3MUR4QXFMRldqVlBsQnlCaUY3cU9xcnNMLXpFVzMzRFVEMzljalR1N2oxUUVfRm5TTThoTmxhZElHRGUzOUV5TnRfMTZQZEE?oc=5",
+     "summary": "SK에코플랜트가 이집트 그린수소 생산 프로젝트를 사실상 접으며 친환경·수소 포트폴리오 축소를 마무리했다. 환경 자회사 3곳(약 1.78조원)과 SK오션플랜트 지분(4,100억원) 매각에 이어 SK머티리얼즈 소재 자회사 4곳을 편입, 반도체·AI 인프라 중심으로 사업 축을 완전히 옮기는 흐름의 연장선이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-09 16:13",
+     "source": "DealSite경제TV",
+     "title": "[건설플러스] SK에코플랜트, AI 데이터센터 혁신기술 발굴 外",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BN2NiMVEzX3RiTGJGQndqLXV6NnlCN2lfcUh2OFpfcW9QN1JmZVh0SHZoRF9zLUFjTnlDdXA4OEd1YUlpM0FTMUNkRVNFNk1OMV9yWW53?oc=5",
+     "summary": "SK에코플랜트가 오픈이노베이션 공모전 '2026 콘테크 미트업 데이'를 열고 AI 데이터센터(전력·냉각·설계 운영 효율화), OSC, 설계·구매·시공 AI, 로봇·자동화 등 22개 수요기술을 공모한다. 올해 7회째로 연구개발특구진흥재단·호서대·SK증권 등 17개 기관이 공동주최하며, 2023~2025년 공모로 31개 기업을 발굴한 바 있다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-09 08:40",
+     "source": "주간한국",
+     "title": "군살 빼고 ‘미래’에 올인…SK 최태원호 ‘제4 퀀텀점프’ 준비 착착",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiZTVDOTIzTGRQMF8yODZ5TkJCdnc2UXh4b09LcFFfWUdtaEV2dlFLZTVKNkcyckpVUHpwalItWi1nak9KMGRXRF9hM3NqOEZNNFJtczkycG14Nnptd0hJdDhRSVJnS1pwT1JXTXdjUzhwZlZn0gF0QVVfeXFMUGJlNUM5MjNMZFAwXzI4NnlOQkJ2dzZReHhvT0twUV9ZR21oRXZ2UUtlNUo2RzJySlVQenBqUi1aLWdqT0owZFdEX2Ezc2o4Rk00Um1zOTJwbXg2em13SEl0OFFJUmdLWnBPUldNd2NTOHBmVmc?oc=5",
+     "summary": "최태원 회장의 SK그룹 리밸런싱을 조명한 기사로, 비주력 자산 매각과 AI·반도체 집중 기조를 '제4 퀀텀점프'로 규정했다. SK에코플랜트의 환경·해상풍력 자산 정리와 반도체 소재 자회사 편입이 그룹 차원 사업재편의 대표 사례로 다뤄졌다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-09 07:30",
    "label": "09-09 07시",
