@@ -1,8 +1,51 @@
 {
- "updated": "2026-09-10 07:30",
- "last_check": "2026-09-10 07:30",
- "last_new": 3,
+ "updated": "2026-09-11 07:30",
+ "last_check": "2026-09-11 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-09-11 07:30",
+   "label": "09-11 07시",
+   "digest": [
+    "**엔이씨파워의 기술탈취 신고**로 지식재산처 분쟁이 공식화되며 이번 배치 최대 리스크 이슈로 부상",
+    "**SK오션플랜트 33% 경영권 프리미엄 매각**과 사업 체질 개선 시도가 동시에 진행 — 자산 재편을 통한 재무구조 개선 흐름",
+    "다만 **건설 PF 우발채무**는 미해소 상태로, 지주사 SK㈜ 실적 턴어라운드 스토리의 잔여 변수로 남아 있음"
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-10 16:09",
+     "source": "한국경제",
+     "title": "엔이씨파워-SK에코플랜트 ‘기술탈취’ 분쟁…지식재산처 신고로 2라운드",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4YXNjNHUwUklZdHdjNFEyTXpSalNvT1Z4cExpeU4zcDJTXzdsblZGMW9vYWtsR0Ewc3ZjcE0xTlFCNmNJOEZTOXFRdDdKNmdYOWVlVkVKQWNPQQ?oc=5",
+     "summary": "엔이씨파워가 SK에코플랜트를 상대로 핵심 기술·사업 아이디어 탈취 의혹을 제기하며 지식재산처에 신고, 양측 분쟁이 2라운드로 확대됐다. SK에코플랜트는 독자 개발·정당한 협의 과정이었다는 취지로 맞서는 구도다.",
+     "more": 3
+    },
+    {
+     "ts": "2026-09-10 11:21",
+     "source": "블로터",
+     "title": "SK 떠나는 SK오션플랜트…시세보다 33% '경영권 프리미엄'",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSZGFkcmRrRHZuSGFXVGZBUFhsT29uVmVfWG9zbFVyVk9SX1hGSjI5RTJmVE52dy1nQ3g2ZXdpMmh1R2c3Z1FUT3FjbGtGTWlRamJ2YUVUcmxDWEw3M0xHa3lUY1lrR0dZbXBQdNIBbEFVX3lxTFBSZGFkcmRrRHZuSGFXVGZBUFhsT29uVmVfWG9zbFVyVk9SX1hGSjI5RTJmVE52dy1nQ3g2ZXdpMmh1R2c3Z1FUT3FjbGtGTWlRamJ2YUVUcmxDWEw3M0xHa3lUY1lrR0dZbXBQdA?oc=5",
+     "summary": "SK에코플랜트가 자회사 SK오션플랜트 경영권 지분을 시세 대비 약 33% 프리미엄을 붙여 매각하는 것으로 나타났다. 해상풍력 하부구조물 자회사를 넘기며 재무구조 개선·사업 재편에 속도를 내는 거래로 해석된다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-10 09:45",
+     "source": "팝콘뉴스",
+     "title": "체질 개선 나선 SK에코플랜트...여전히 남은 PF 걸림돌",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSdVZOdGlZQU5IQS1VS2pXcVVhVVlGUEFIOWlWRWhEYno0N1A0S0hkOUg2am5PWGJKX01tMms2azQzQ0xWM0JkYXFLQVg5dzF1U08zQloydjJNMmZoM0RiQm9lRWprWHc5djBBX2NnY9IBckFVX3lxTFBOWTUxMHI3NGxhT3RUUC1ubHA1THN5VWdaaW1ZZ0J4WHpMM3d6V0JzYmdiOE11dXREU1R1U2JJcVc5bGdXRTRFYjh5UkcyQTRnZlVibFlzbVlCWkl4cVBYaUEzUVhkMm9rZkNoMXgxUlFDQQ?oc=5",
+     "summary": "SK에코플랜트가 반도체 인프라·산업가스 중심으로 사업 체질 개선을 추진 중이나, 건설 부문에 남아 있는 PF 우발채무가 여전히 재무 부담 요인으로 지목됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-10 08:11",
+     "source": "edaily.co.kr",
+     "title": "SK, 올해 영업익 18.3조 전망…\"실적 턴어라운드 본격화\"-흥국",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTnR2a3lLSGJMdzgxZ0xPUlJEMmxJcXh1dFNYdEVRRjM2RTBjMjFXd2ZMcVo2VThFU2VZLW4zV3pCaV9DZjFubGVfTDhqbTdEQnB1d2VQS2RsRWdxWTNzNHdvb214VmM5Ykd0c05tTTFWVUNWc1o2eUFPYUVvWnBJQg?oc=5",
+     "summary": "흥국증권은 SK㈜의 올해 영업이익을 18.3조원으로 전망하며 자회사 실적 턴어라운드 본격화를 근거로 목표주가 84만원을 유지했고, SK에코플랜트도 실적 개선 자회사군에 포함됐다.",
+     "more": 1
+    }
+   ]
+  },
   {
    "ts": "2026-09-10 07:30",
    "label": "09-10 07시",
