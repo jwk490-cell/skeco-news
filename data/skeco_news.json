@@ -1,8 +1,59 @@
 {
- "updated": "2026-09-11 07:30",
- "last_check": "2026-09-11 07:30",
- "last_new": 4,
+ "updated": "2026-09-12 07:30",
+ "last_check": "2026-09-12 07:30",
+ "last_new": 5,
  "checks": [
+  {
+   "ts": "2026-09-12 07:30",
+   "label": "09-12 07시",
+   "digest": [
+    "**리밸런싱 종료 선언** — SK오션플랜트 매각을 마지막으로 환경·에너지 확장 전략을 접고 반도체·AI 인프라 중심 체질 전환이 완료 단계에 진입, 하이테크 매출 비중 41%→66.8%",
+    "**반도체 EPC가 실적 엔진** — 반도체 관련 수주·매출 9.4조원으로 삼성물산(3.8조원)을 크게 앞서며 건설업계 최대 규모, 사업 재편의 성과가 숫자로 확인",
+    "**기술탈취 분쟁 2라운드** — 엔이씨파워의 지식재산처 신고로 소각발전 솔루션 기술 분쟁이 재점화, 회사는 사실무근 입장이나 축소 중인 환경사업 관련 평판 리스크로 모니터링 필요"
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-11 11:28",
+     "source": "v.daum.net",
+     "title": "SK에코플랜트, 리밸런싱 마무리…환경·에너지 접고 반도체·AI로",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BOGVFZHdCOXVMQkVja18wMHlReUNSSm5wNGNGWUZhQnhfbHZhR2ZfWEhRRWlNQ0pCc1JFbjlOTjBNaXJSdzJIc3RrbXNVR1pWa1ZrWQ?oc=5",
+     "summary": "SK에코플랜트가 SK오션플랜트(4,100억원) 매각을 끝으로 2021년부터 추진한 친환경·에너지 외형 확장 리밸런싱을 사실상 마무리하고, 반도체 제조시설·AI 데이터센터·산업용 가스/소재 등 AI 인프라 중심으로 사업구조를 재편한다. 하이테크 매출은 2025년 5조1,586억원(+84.1%)으로 전사 비중이 41%→66.8%까지 확대됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-11 17:07",
+     "source": "인사이트코리아",
+     "title": "건설 현장에도 반도체 ‘바람’…삼성물산 3.8조·SK에코 9.4조 벌었다",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZMDlyUU5oNkQ0YzNRNGllcFNJaXE2bWp0T3NNUVJKWTJoUFZsNldXY3FzbWIxOUxTV0FZenZjUW8wVHBHaFl6LWZVVjUwNzlOOUVEYnhWY3JfaDFGYktoQXNzOTBldnl2bDdIODcwVW9hTVltQnVB0gF3QVVfeXFMUFkwOXJRTmg2RDRjM1E0aWVwU0lpcTZtanRPc01RUkpZMmhQVmw2V1djcXNtYjE5TFNXQVl6dmNRbzBUcEdoWXotZlVWNTA3OU45RURieFZjcl9oMUZiS2hBc3M5MGV2eXZsN0g4NzBVb2FNWW1CdUE?oc=5",
+     "summary": "반도체·AI 인프라 투자 확대로 건설사들의 반도체 관련 수주·매출이 급증했으며, SK에코플랜트는 이 분야에서 9.4조원(삼성물산 3.8조원)을 기록해 업계 최대 규모로 집계됐다. 주택 경기 부진 속 반도체 EPC가 건설사 실적의 핵심 축으로 자리잡았다는 분석이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-11 11:02",
+     "source": "newsworker.co.kr",
+     "title": "엔이씨파워, SK에코플랜트 기술 탈취 의혹으로 지재처 신고…SK \"탈취 사실무근\"",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzejZjMmlwMzg0aUxpbFNEenpLYU5wVjA1LXNUY3pRTjdKUEVITmdQbWl5Mi14MWstOUlFMk1pRGpiVUhLN2xZN2Jsckp3ZEROZms3QkZXOFRsMkEzZjBxblZtNjJ3ZGg3OVZ2RVRXVjZzLVVm0gF0QVVfeXFMUDN6NmMyaXAzODRpTGlsU0R6ekthTnBWMDUtc1RjelFON0pQRUhOZ1BtaXkyLXgxay05SUUyTWlEamJVSEs3bFk3YmxySndkRE5mazdCRlc4VGwyQTNmMHFuVm02MndkaDc5VnZFVFdWNnMtVWY?oc=5",
+     "summary": "소각발전 운영 솔루션 중소기업 엔이씨파워가 SK에코플랜트를 부정경쟁방지·영업비밀보호법 위반 혐의로 지식재산처에 신고했다. 2021년 2~5월 거래 교섭 중 핵심 기술 아이디어를 받은 뒤 거래를 끊고 자체 솔루션 개발·특허 출원을 했다는 주장이며, SK에코플랜트는 기술 탈취를 전면 부인했다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-11 12:22",
+     "source": "충청비즈",
+     "title": "충청권 유망 창업기업 10개사 대상 SK에코플랜트 수요기술 기반 1:1 밋업 진행",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFcHJBSFBIeE5vV3Y3ckhNLUdSZlVNMVp5M3N5Vm85VVVMRHRwaXBNQ1lQLWRSSDZBUjI5OERpb2lYc2ExYm1LUVdINHQ3UVN5emxyM0pIaVE2WFRkMlJGd1JB?oc=5",
+     "summary": "SK에코플랜트가 충청권 유망 창업기업 10개사를 대상으로 자사 수요기술 기반 1:1 밋업을 열고 오픈이노베이션 협력 기회를 모색했다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-11 09:01",
+     "source": "푸드투데이",
+     "title": "롯데칠성, SK에코플랜트와 건설현장 온열질환 예방 캠페인 진행",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NS3hpQkJncWlmcC1ydDdlMzFmdkZ0bkFNMmw5TGc2VC1aVmhmaXRIV2dlQjV1UzZod1I2VEZaTE50VDJ6SDZNZDA2ZjNnTkUydFFHcjk0aEUtcTJ0ZzZaMnpiM2U?oc=5",
+     "summary": "롯데칠성음료가 SK에코플랜트 청주 건설현장 등에서 근로자 약 1,000명에게 음료·냉각용품을 지원하는 온열질환 예방 캠페인을 진행했다. 롯데칠성은 SK에코플랜트를 포함한 7개 건설사와 협력해 하절기 안전보건 ESG 활동을 전개했다.",
+     "more": 19
+    }
+   ]
+  },
   {
    "ts": "2026-09-11 07:30",
    "label": "09-11 07시",
