@@ -1,8 +1,26 @@
 {
- "updated": "2026-09-13 07:30",
- "last_check": "2026-09-13 07:30",
- "last_new": 0,
+ "updated": "2026-09-14 07:30",
+ "last_check": "2026-09-14 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-09-14 07:30",
+   "label": "09-14 07시",
+   "digest": [
+    "이번 배치는 실질 뉴스가 **1건**으로, 롯데칠성음료와 협업한 건설현장 **온열질환 예방 캠페인**(안전보건·ESG 홍보성)이 전부다.",
+    "1번 기사는 SK에코플랜트와 무관한 스팸성 콘텐츠로 제외했다. 사업·수주·재무 관련 유의미한 보도는 없었다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-13 10:00",
+     "source": "미래경제",
+     "title": "롯데칠성, SK에코플랜트 건설현장서 온열질환 예방 캠페인 진행",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11QmI2REo3MURrd3EwcmxpTmVIeEU1T1VwbENXTVFFdDlUajRpNmgtdmVMdnRfRVZBemZkYllMdWcyM0ZmZ3Q1ZmZXTHhmNnU3blZKeEZJYWtDbndnblFscktPVGNHU3dfeFpJ?oc=5",
+     "summary": "롯데칠성음료가 SK에코플랜트 건설현장에서 온열질환 예방 캠페인을 진행하며 현장 근로자에게 음료 등을 지원했다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-12 07:30",
    "label": "09-12 07시",
