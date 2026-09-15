@@ -1,8 +1,51 @@
 {
- "updated": "2026-09-15 07:30",
- "last_check": "2026-09-15 07:30",
- "last_new": 2,
+ "updated": "2026-09-16 07:30",
+ "last_check": "2026-09-16 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-09-16 07:30",
+   "label": "09-16 07시",
+   "digest": [
+    "**SK오션플랜트 4,100억 매각**으로 해상풍력을 정리하고 반도체·AI 인프라로 포트폴리오를 재편, 재무구조 개선에 나선 것이 이번 배치의 최대 이슈(투자원금 대비 약 495억 손실 감수).",
+    "송도 테라스 붕괴·**하자 판정 비율 10대 건설사 1위**·재해율 기준 초과가 동시에 부각되며, 회사는 2030년 재해율 1/3 감축·안전 가이드 27→66종 확대로 대응 중.",
+    "사업 재편 진행에 따라 비상장 SK에코플랜트의 가치가 모회사 SK㈜ 밸류에이션 논의에서 차지하는 비중이 커지는 중."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-15 15:25",
+     "source": "파이낸셜리뷰",
+     "title": "'아픈 손가락' 내다 판 SK에코플랜트…4100억 확보 나선 속사정은",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53UnRKeHhZbTNDNzk1V1ktTlZ6ckdHSnZObnZidVZrcGlhWkw4MmpLSFhXeHNpOG5XVHhJS3dxMmxmRlFGRUN0RWN5WEd6Q3F6WjN1QzNvVzBmQTZibVNpd1R4RklvX1Q0U1p4YXM5cy04dWFz?oc=5",
+     "summary": "SK에코플랜트가 해상풍력 자회사 SK오션플랜트 지분 35.62% 전량을 디오션 컨소시엄에 4,100억원 규모로 매각하기로 하며 연내 거래 종결을 추진한다. 총 투자원금(약 4,595억원)보다 약 495억원 적은 회수로, 해상풍력을 덜어내고 반도체·AI 인프라 중심으로 포트폴리오를 재편하며 재무구조 개선에 속도를 내려는 결정이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-15 16:19",
+     "source": "1코노미뉴스",
+     "title": "SK에코플랜트, 하자·붕괴·매각 논란 계속",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6YWs0WFlnMjFZRDl5Ql9JSTk5MG9LVVB5bDhXZEgwcHlfbDVqTy1qMGVsU3UyYzNVUGRBZnhHUzF2bXoxZ3RiLWFwczBJSHZmc1Z3Y3JHQ3RxT0FQTm9FMEtMMDJNR0loemZXaHlsSG8?oc=5",
+     "summary": "송도 오피스텔 테라스 붕괴 사고에 이어 SK에코플랜트가 10대 건설사 중 하자 판정 비율 1위로 지목되며 시공 품질 논란이 이어지고 있다. 자회사 매각 등 사업 재편 이슈까지 겹치며 안전·품질·매각을 둘러싼 부정적 여론이 누적되는 양상이다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-09-16 06:00",
+     "source": "아시아투데이",
+     "title": "기준 넘긴 재해율에 움찔한 SK에코 “2030년까지 1/3로 개선…가이드 27→66종 확대”",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TUlFVMm5OYzAzaHRFRnpuTk00b3JsdEtLUmFuU3BPOHYyS1B4c2pUd19Mdk5PV0RocGZsUHRSTUZ4QkVsbkpWNTYtN2hFdXpNSFhsZXFTMWY3bWNBMGc0U3dvY2MyMEEtWEcxSTNn?oc=5",
+     "summary": "SK에코플랜트가 재해율이 업계 기준을 넘어선 데 대해 2030년까지 재해율을 현재의 1/3 수준으로 낮추겠다는 목표를 제시했다. 안전작업 가이드를 27종에서 66종으로 확대하는 등 현장 안전관리 체계를 보강하겠다는 방침이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-15 10:18",
+     "source": "금융소비자뉴스",
+     "title": "SK, 존재감 커지는 ‘자체사업(SK AX)’과 ‘비상장 SK에코플랜트’",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rOU9aYjVIVGQ4d194bHVHZDVfUmUwdXZpMDVyR3hqNUotR1Vua3dPeVdBTW55aE9EdnJ6WXVENlNobUFyb0l4UzBjYk52WmF1ZWZnbFdnRWx0SjVhWXl3ZjI1ZjVhMWZwc0E?oc=5",
+     "summary": "SK㈜ 기업가치 논의에서 SK AX 등 자체사업과 함께 비상장 자회사인 SK에코플랜트의 존재감이 커지고 있다는 분석이다. 사업 재편 진행 중인 SK에코플랜트의 가치가 지주사 밸류에이션의 변수로 부각되는 국면이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-15 07:30",
    "label": "09-15 07시",
