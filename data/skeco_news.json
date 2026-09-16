@@ -1,8 +1,59 @@
 {
- "updated": "2026-09-16 07:30",
- "last_check": "2026-09-16 07:30",
- "last_new": 4,
+ "updated": "2026-09-17 07:30",
+ "last_check": "2026-09-17 07:30",
+ "last_new": 5,
  "checks": [
+  {
+   "ts": "2026-09-17 07:30",
+   "label": "09-17 07시",
+   "digest": [
+    "**송도 발코니 붕괴가 개별 현장 사고에서 공법 단위 규제 이슈로 확대**됐다. 국토부의 동일 공법 아파트 전수조사와 11월 말까지의 사고조사위 일정은 주택 부문 품질·안전 리스크가 연내 지속될 변수임을 시사한다.",
+    "**해운대 6,500억 PF는 셀프 인수로 봉합됐지만 회수는 미완**이며, 본리동 등 잔여 PF 우발채무가 남아 재무 부담의 꼬리가 이어진다.",
+    "비핵심 자산 정리(SK오션플랜트 매각 후속)와 **AI·데이터센터 관련 정책 채널 접촉(산자위원장 면담)**이 동시에 나타나며, 포트폴리오 재편 방향이 재확인된다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-16 10:24",
+     "source": "newsis.com",
+     "title": "송도 발코니 붕괴에 국토부, 동일 공법 SK에코 아파트 전수조사",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1NkFtdUs3WjZCeDhTb0JfXzhIQ3JJWVVPUU9WbVF4d3dvWG5hYk1jb1dzZWh2Q1hON2p0LVBFTWRENUdLbWQtd0lIOThnSkxNSWc0dk9Rc2pxdXRMdDhia9IBeEFVX3lxTE1ENTE0Q2lQLTVHZzI1QVEtZDBfV2YtLWJPVG9ndkg4S0FlaVcxd0NHQko0TWFxZEpPNjFUZHNQNWc3c2NPR2I4emM3ZlIyMThBU0hoVGs5YXJwNk91b0k0QUIxY2VCOXJvLXNSN0lZQUk1QWI1SXY5Rg?oc=5",
+     "summary": "지난해 2월 준공한 인천 송도 럭스오션SK뷰 아파트의 외벽 돌출 발코니 붕괴(9월 7일) 이후, 국토교통부가 SK에코플랜트가 시공한 동일 공법(돌출 발코니) 적용 아파트에 대한 전수조사에 착수했다. 국토부·인천시 합동 사고조사위원회가 11월 30일까지 설계·시공 전반을 조사 중이며, 시공사는 접합부 결함을 붕괴 원인으로 추정한다고 밝힌 상태다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-16 08:43",
+     "source": "thedailyeconomy.kr",
+     "title": "[현장탐방 - PF현장 57] 6500억 대신 갚고 땅까지 인수…해운대 홈플러스 PF, 공매 이후에도 남은 회수 과제",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjeHJrTVczU2tWZ1J3a1h5RWNTRUU5LUtPaUpjaW4xcWZQUjl6MGp0c1dMdmZjbW9Jb3ZObmxXZEVDNEFVVFJHQkNpc1htcjl5UU9IeDd1TWFSNjFiajNuQmdTdDFfM0FsSlRRWVZybnI?oc=5",
+     "summary": "SK에코플랜트가 본PF 전환 실패로 6,500억원 브릿지론을 전액 대위변제한 부산 해운대 옛 홈플러스 부지(인스피어 마린시티)가 다섯 차례 유찰 끝에 SK에코플랜트의 '셀프 인수'로 마무리됐으나, 대위변제금 회수 과제는 여전히 남았다. 해운대 건을 털어낸 뒤에도 대구 본리동 등 추가 PF 우발채무가 부담 요인으로 지적된다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-16 16:01",
+     "source": "연합뉴스",
+     "title": "SK오션플랜트 매각 이후 경영은…강덕수 전 STX 회장 역할 관심",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lWG43clQwaEo2ZDgtSWVVcndsUW5GQmZsVmFJbGhGNmtwYjNJdXNpTUdxS3JIaVhnLVBfYXhESWdlalBHTDcwVmhwaXRRY3BTQzRtX3F5QmJsMTTSAWBBVV95cUxOczFBc3ZzVl9LdWlBSGFoT2JIVUVOSEtacEJ0TXBJdWRqN042dmI5eUVBNUl1b2lVQ2ZBZUZLWS0xN09oN05ldzFYWTRLMlg4UHNpdkJzZ2dVZ2hlcXdLU2s?oc=5",
+     "summary": "SK에코플랜트가 매각한 SK오션플랜트의 매각 이후 경영 체제에 관심이 모이며, 특히 강덕수 전 STX 회장의 역할 여부가 관전 포인트로 거론된다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-16 16:20",
+     "source": "뉴스핌",
+     "title": "김성원 산자위원장, 네이버·SK에코플랜트 면담...\"AI 시대 경쟁력 지원 논의\"",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TdG5TU1d1WjVvelhVQUhNNEhxVDBHUklwSGtFX3pHS3VoTEdHbTFIS09JM0JIRDFiUXlFcHVvSktfbUxtTWpvRUdOc0VlTGxka1RTS1FlUXAxUktL?oc=5",
+     "summary": "김성원 국회 산업통상자원위원장이 네이버와 SK에코플랜트 경영진을 잇달아 면담하고 AI 시대 산업 경쟁력 강화를 위한 지원 방안을 논의했다. SK에코플랜트의 AI 데이터센터·반도체 인프라 사업이 정책 논의 대상으로 다뤄진 것으로 보인다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-16 16:16",
+     "source": "한스경제",
+     "title": "[공시]행복나래, SK에코플랜트 수의계약 504억 변경",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wb0lnbWg2V25pTDFsMkhwNE1ISDBRRzhzQ1h5Z2FEOXR0eS1iR01Hc2l1Xy0tZWxxU0l1MXViZVdmaTlaRF80VUtZT1RwRUFhVldIeFZaTmFGV3IzbGUzYk1PV0phZHRXaUZV0gFvQVVfeXFMTzB0c0lkaUJucWZwUU1RTS1iOHNZVXJWXzBySENEcDk0cXZyVnJtR182ak5YNldRZTQ0UWxTWkpTcThuN1IwQnRWcmxjWjcxb21TTUdUZU1jU2k2N0V0NjAyamhyNFRqVGxYelBOdHJv?oc=5",
+     "summary": "SK 계열 사회적기업 행복나래가 SK에코플랜트와의 수의계약 금액을 504억원 규모로 변경 공시했다. 계열사 간 거래 규모 조정에 해당하는 정기 공시성 이벤트다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-16 07:30",
    "label": "09-16 07시",
