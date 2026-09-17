@@ -1,8 +1,43 @@
 {
- "updated": "2026-09-17 07:30",
- "last_check": "2026-09-17 07:30",
- "last_new": 5,
+ "updated": "2026-09-18 07:30",
+ "last_check": "2026-09-18 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-09-18 07:30",
+   "label": "09-18 07시",
+   "digest": [
+    "이번 배치의 중심은 **품질(하자) 리스크**다 — 하자 판정 절대 건수는 중위권이지만 **접수 대비 인정률 31.1%로 10대 건설사 중 1위**라는 점이 반복 인용되며 주택 브랜드 신뢰도에 부담으로 작용한다.",
+    "**반도체 인프라 EPC 성장 스토리의 이면 리스크**가 드러났다. 용인 SK하이닉스 클러스터 현장에서 지역 상권 붕괴·상생 간담회 불참 논란이 제기돼, 그룹 내 핵심 수주처에서의 사회적 마찰이 공사 진행 변수로 부상할 수 있다.",
+    "건설 부문에서는 **미아11구역 통합심의 통과**라는 긍정 재료가 나왔다 — 2,151억원 규모 수주 현장이 인허가 리스크를 해소하고 착공 단계로 진입했다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-17 11:26",
+     "source": "뉴시스",
+     "title": "10대 건설사 하자 판정 321건…대우 최다·SK 비율 최고",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mOG1iejU5WnVzcm9QYTVUXzJHMDFZaEFTbjlyd3RBNFJod19qanRLZ193YkVmRzVTclZCTnJUekUtTDh3YkZiY2lGYjRVNW9PUWR4TUhQZFZNMnROT3BDS9IBeEFVX3lxTE1SZzl6NHQyTDBRWUpJM2JIb09OaVNONnlkbnRwajdmZlZTTjZtRklxQ0xXWHoyMlEwcXM3RTVNX2h1aHlpUGVjS181Vk9WbWFMNHFIb2loOTZobzFVRGJGamlXUDhCYnI2WGlIZkp0YXZJTjQtOWRUZg?oc=5",
+     "summary": "2022년 1월~2025년 6월 시공능력 상위 10대 건설사 대상 하자심사 5,279건 중 321건이 실제 하자로 판정됐는데, 건수로는 대우건설(87건)이 최다였고 SK에코플랜트는 32건으로 4위였다. 다만 접수 대비 하자 인정 비율은 SK에코플랜트가 103건 중 32건으로 31.1%를 기록해 10개사 중 가장 높아 시공 품질 관리가 도마에 올랐다.",
+     "more": 3
+    },
+    {
+     "ts": "2026-09-17 10:03",
+     "source": "경기경제신문",
+     "title": "【상생협력 1】 SK하이닉스, 천문학적 대규모 투자 뒤에 가려진 그늘… 소상공인들 \"말사(抹殺) 단계 이르렀다\" 울분",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhaGVaTnpjbzNyNDNtRHZsc2tObEttUkZTNWQ4a1Y2SC1wTHNGVG5ObFNpY00wYWtrZzBJNG9TamxvaHpHU3ZjRTEySUdoS05BeGJfbnZXY2gzVG8?oc=5",
+     "summary": "용인 처인구 원삼면 SK하이닉스 반도체 클러스터 공사 현장 주변 소상공인들이 현장 내 대형 근로자 식당·편의시설로 외부 상권이 차단돼 연쇄 폐업 위기라며 반발했고, 시공을 맡은 SK에코플랜트 실무 책임자들이 사전 통보 없이 상생 간담회에 불참한 점이 집중 비판받았다. 반도체 인프라 EPC 최대 현장에서 지역 상생 리스크가 표면화된 사안이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-17 10:30",
+     "source": "데일리하우징",
+     "title": "15년 멈췄던 미아11구역, 재개발 통합심의 통과...26층 656세대 본궤도",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2Nk9ydlVoOUF0MmdNYUN1ejVfSlQ0Y0wxRlk2X1Q3WkhUMWNXOTNCeG9PQUxIcGZFZkZSbUc4bFRRRFZUQmZrQlpPTG4xVXV2WEJkRWdSNk9qbVhGRzJpT29qbEF6dXQwbHpj?oc=5",
+     "summary": "SK에코플랜트가 2024년 1월 시공사로 선정한 서울 강북구 미아11구역 재개발이 서울시 통합심의(건축·경관·교통·재해·교육·공원·환경)를 조건부 통과하며 15년 표류를 끝내고 최고 26층 10개동 656세대(임대 108세대) 규모로 확정됐다. 향후 사업시행인가·관리처분인가를 거쳐 착공에 들어간다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-17 07:30",
    "label": "09-17 07시",
