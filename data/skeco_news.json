@@ -1,8 +1,51 @@
 {
- "updated": "2026-09-18 07:30",
- "last_check": "2026-09-18 07:30",
- "last_new": 3,
+ "updated": "2026-09-19 07:30",
+ "last_check": "2026-09-19 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-09-19 07:30",
+   "label": "09-19 07시",
+   "digest": [
+    "**에너지·풍력에서의 전면 후퇴가 확인되는 배치** — SK오션플랜트 지분 35.62%(약 4,100억원) 매각 SPA에 이어 풍력산업협회 회장사 사임·탈퇴 수순까지, 환경·에너지 포트폴리오 축소가 대외 단체 활동 단절로 이어지고 있다.",
+    "**그룹 자원 배분의 축은 반도체** — 전문경영인 부회장 3인이 SK하이닉스로 집결하면서 장동현 부회장이 계열사에 남은 유일한 전문경영인 부회장이 됐고, 연말 인사에서 SK에코플랜트 경영진·사업구조 변동 가능성이 변수로 남는다.",
+    "매각 진행 중인 SK오션플랜트를 둘러싼 고성군의회와의 마찰 등 지역사회 리스크가 병행 관리 대상이다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-18 16:12",
+     "source": "아이뉴스24",
+     "title": "'그린' 걷어낸 SK에코플랜트…풍력협회도 탈퇴수순 밟나",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YOFFjOWNWX2hhVEN4RWF1cHFaU3piWmdSZVVGQ3gxRkw1Wm1aUUdkdVFYOUQ3ZTBZaXZKWEJrd29uSzlXUVJBZ0MzdVc?oc=5",
+     "summary": "SK에코플랜트가 한국풍력산업협회 회장사직을 내려놓으며 협회 탈퇴 수순까지 거론되고 있다. SK오션플랜트 지분 35.62% 전량을 디오션 컨소시엄에 약 4,100억원에 매각하는 SPA를 체결하는 등 사실상 에너지·풍력 사업에서 발을 빼는 흐름의 연장선으로 해석된다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-18 14:25",
+     "source": "뉴스1",
+     "title": "고성군의회, SK오션플랜트 행정감사 불출석에 유감 표명",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BMkdiODl4dVpvMDk4TWtnQUtXS3ZqZlR0THFFMXQ0enkxbFUyQzdxeklfQU5sOFlyTnVFRllmb3RCRmg2aXZhckItdlJBYW5BYjFzRU8wczhJUXNiSDBnNFJGTUXSAWRBVV95cUxNQTJHYjg5eHVabzA5OE1rZ0FLV0t2amZUdExxRTF0NHp5MWxVMkM3cXpJX0FObDhZck51RUZZZm90QkZoNml2YXJCLXZSQWFuQWIxc0VPMHM4SVFzYkgwZzRSRk1F?oc=5",
+     "summary": "고성군의회가 SK오션플랜트의 행정감사 불출석에 유감을 표명했다. 매각 절차가 진행 중인 SK오션플랜트와 지역사회 간 마찰이 드러난 사안이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-18 10:27",
+     "source": "뉴시스",
+     "title": "\"부회장단까지 하이닉스로\"…SK그룹, 최태원표 'AI 풀스택' 역량 총결집",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iTWgtWWlyQko5akRBTnF3VG5BY2Z0ODg5Y1JKQmFUZ1JZc2xEWG8tbGNOOXQ4VEpqQ3UwRlVFNDNyZEpoUnJTT0dDYjRpUmNjOGJ0eDBkb0xrYWhDLUtOQTFSZUQxZ0RkTFUtQXpPMUd1WkVVM19iZNIBeEFVX3lxTE9iTWgtWWlyQko5akRBTnF3VG5BY2Z0ODg5Y1JKQmFUZ1JZc2xEWG8tbGNOOXQ4VEpqQ3UwRlVFNDNyZEpoUnJTT0dDYjRpUmNjOGJ0eDBkb0xrYWhDLUtOQTFSZUQxZ0RkTFUtQXpPMUd1WkVVM19iZA?oc=5",
+     "summary": "유정준·서진우·이형희 부회장 3인이 9월 15일자로 SK하이닉스에 합류하며 그룹 역량이 AI·반도체로 집중됐고, 오너 일가를 제외한 전문경영인 부회장 4명 중 장동현 SK에코플랜트 부회장만 계열사에 남게 됐다. 연말 사장단 인사에서 비(非)반도체 계열 재편 가능성이 거론된다.",
+     "more": 5
+    },
+    {
+     "ts": "2026-09-18 13:34",
+     "source": "국제신문",
+     "title": "SK에코플랜트 영호남고객센터, 부산 금정구 홀로 어르신 주거 환경 개선 지원",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVFlUNjc4UGRMbFZFQzhpM05KNnlST2tzZWJma1YtbWlHaFpKSnVlRU1jSnluRGJpd3dveGZTdjI3dmlGSGtTMG9Ka3Nwbm4xczRYamNUZVM3LVM0WHhyM09rdHFucXRMd3RKOGN2cEJKcUdJVnRoUnNyZTZreFlCQXo1SV94Wmd2VWNr?oc=5",
+     "summary": "SK에코플랜트 영호남고객센터가 부산 금정구 홀로 사는 어르신 가구의 주거 환경 개선을 지원했다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-18 07:30",
    "label": "09-18 07시",
