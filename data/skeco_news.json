@@ -1,8 +1,26 @@
 {
- "updated": "2026-09-19 07:30",
- "last_check": "2026-09-19 07:30",
- "last_new": 4,
+ "updated": "2026-09-20 07:30",
+ "last_check": "2026-09-20 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-09-20 07:30",
+   "label": "09-20 07시",
+   "digest": [
+    "이번 배치에서 SK에코플랜트 본사 관련 유의미한 보도는 없었고, 자회사 **SK오션플랜트의 고성군의회 행정사무감사 불출석** 건 1건만 확인됨",
+    "해당 사안은 실적·수주 영향은 없으나 **사업장 소재 지자체와의 관계 리스크**로 후속 대응 여부를 지켜볼 필요가 있음"
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-19 15:07",
+     "source": "연합뉴스",
+     "title": "고성군의회, SK오션플랜트 행정사무감사 불출석에 '유감' 표명",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jU3JUelFyRWs3eWFGaFBsQVIwYnQ3Y2JNWncyUWc2ZTJaMkx3T2s1d1F0U0t2Yml5TC10VlA3YlBERjRVTHdsU3gycFFnOUhScGVmYmswSU5qMWPSAWBBVV95cUxQX1EyUTFSZUxHRkJGeGgzZmthVUsxY0pHV292VWFEUWdZcUd0cGZlTmxlQzMzdHJqcWo0c0lsZ3NacmRSUHI5a2tKV3FscGRjcElpXzg0a3JURWJCUmxMOWI?oc=5",
+     "summary": "고성군의회가 행정사무감사에 SK오션플랜트 측이 출석하지 않은 데 대해 공식적으로 유감을 표명했다. SK에코플랜트 자회사인 SK오션플랜트와 사업장 소재 지자체 간 관계 관리 이슈로, 사업 실적보다는 지역사회·거버넌스 리스크 성격의 사안이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-19 07:30",
    "label": "09-19 07시",
