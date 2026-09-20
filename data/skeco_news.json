@@ -1,8 +1,25 @@
 {
- "updated": "2026-09-20 07:30",
- "last_check": "2026-09-20 07:30",
+ "updated": "2026-09-21 07:30",
+ "last_check": "2026-09-21 07:30",
  "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-09-21 07:30",
+   "label": "09-21 07시",
+   "digest": [
+    "이번 배치에서 SK에코플랜트와 실질적으로 관련된 기사는 없습니다. 유일한 수집 기사(매일일보 데이터센터 기획)는 전기·냉각 설비 경쟁을 다룬 업계 일반 기획물로, **SK에코플랜트 관련 내용은 지나가는 언급 수준**으로 판단해 제외했습니다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-20 09:00",
+     "source": "매일일보",
+     "title": "[기획] 데이터센터는 ‘건물’ 아닌 ‘설비’…전기·냉각 기술 경쟁 격화",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tNExLekpqNjN3OVo4YnVvbmVhVEJ2WThVZDdZa1piYThMUzF4NGZxYWVQdE9oTGh1ejk2TllNc0NndzFGbXNUNTctOWNjZW9CakhVd3U3cy1UVlY3WU1YdUt0ZELSAWhBVV95cUxNZTVURzI5UGd6N1RvaG1nY2ZrUm5CRk95NWY2Ync4ZTM4TGFkWjBIcHlFWjREdHprZ1FoTnFXUlRvN1NzVDVPN0xId0d0Zko4OC1yUmRNR0JRQjBiUTk0dm5FZ0RfaEJmdA?oc=5",
+     "summary": "",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-20 07:30",
    "label": "09-20 07시",
