@@ -1,8 +1,35 @@
 {
- "updated": "2026-09-21 07:30",
- "last_check": "2026-09-21 07:30",
- "last_new": 1,
+ "updated": "2026-09-22 07:30",
+ "last_check": "2026-09-22 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-09-22 07:30",
+   "label": "09-22 07시",
+   "digest": [
+    "이번 배치의 유일한 실질 이슈는 **2026 국정감사 하자판정 자료**로, SK에코플랜트가 10대 건설사 하자판정률 비교(1.05~30.48%, 29배 격차) 대상에 포함돼 **시공 품질 리스크가 정무 이슈화**될 수 있는 국면이다.",
+    "국감 시즌 동안 건설사별 하자·안전 자료 요구가 이어질 가능성이 높아, **SK에코플랜트 개별 수치가 특정되는 후속 보도**를 모니터링할 필요가 있다.",
+    "나머지는 '강동역 SK 리더스뷰' 분양 홍보성 기사로, **펀더멘털·수주 측면의 신규 정보는 없음**."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-21 18:39",
+     "source": "straightnews.co.kr",
+     "title": "[2026국감] 같은 10대 건설사인데…하자판정률 1.05~30.48% '29배 격차'",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FQ1BxMENCSVlEODI0YXJxV1VweThOVWhPcG9CSWNzM0hXYktkdHJ4QXpISm5zOE9aa1BQcm92Y2NIcHFkeVhhQ0dzSXFmQnRicHBhcHRRa3Z3TmRhUTRGSy0yMlpqN1V0Wlp0TjJLUG5GT2JYbW0w0gF3QVVfeXFMT0VDUHEwQ0JJWUQ4MjRhcnFXVXB5OE5VaE9wb0JJY3MzSFdiS2R0cnhBekhKbnM4T1prUFByb3ZjY0hwcWR5WGFDR3NJcWZCdGJwcGFwdFFrdndOZGFRNEZLLTIyWmo3VXRaWnROMktQbkZPYlhtbTA?oc=5",
+     "summary": "김미애 의원이 국토교통부·하자심사분쟁조정위원회 자료를 인용해 2026 국정감사에서 10대 건설사 하자 접수 4,983건 중 323건이 하자로 판정됐고, 업체별 하자판정률이 1.05%~30.48%로 최대 29배 벌어졌다고 지적했다. SK에코플랜트를 포함한 10대 건설사가 비교 대상에 올라 시공 품질 관리가 국감 쟁점으로 부상했다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-09-21 14:22",
+     "source": "sentv.co.kr",
+     "title": "SK에코플랜트, ‘강동역 SK 리더스뷰’ 공급 중",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EMVhhOWxWWXExS1NyRGJ5dTJSSjlyTUNDXzhuS2xzWE94WjJFYjVIVkhGYzB3RlppRnNQRnQtSl9pLWRiLUVMY2dHOHI2VnlTWVlEVEU4VHVqNlNsWS1yVjBmTGI?oc=5",
+     "summary": "SK에코플랜트가 시공하는 서울 강동역 인근 주거시설 '강동역 SK 리더스뷰'가 분양 공급 중이라는 분양 소식 기사다. 사업 실적이나 수주와 직접 연결되는 신규 정보는 없는 홍보성 보도에 가깝다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-21 07:30",
    "label": "09-21 07시",
