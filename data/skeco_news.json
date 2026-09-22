@@ -1,8 +1,43 @@
 {
- "updated": "2026-09-22 07:30",
- "last_check": "2026-09-22 07:30",
- "last_new": 2,
+ "updated": "2026-09-23 07:30",
+ "last_check": "2026-09-23 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-09-23 07:30",
+   "label": "09-23 07시",
+   "digest": [
+    "신입 68명 **전원 하이테크(반도체·AI) 배치** — 인력 배분 자체가 건설사에서 반도체 인프라 기업으로의 체질 전환을 보여주는 신호",
+    "전환의 이면: 전통 건설인 **솔루션 부문 상반기 영업손실 2,230억원(적자전환)**, 지식산업센터 미수금 충당금 등 손실 선제 반영",
+    "국감 시즌 리스크로 **하자판정률 30.48% 10대 건설사 1위** 이슈가 다수 매체에 확산 — 주택 브랜드 신뢰도 측면의 부담"
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-22 13:44",
+     "source": "뉴스1",
+     "title": "반도체·AI로 체질 전환…SK에코플랜트, 핵심 인재 키운다",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vY1ZDMy1fQWtFVFFCanFoMER4OW9TcUZaMmt2WVg5eUtGNDBuZ0U1MmxvYTNUdzF4UElQdzc0Wm4tQTBHM25wZXdSNFV3YVRHdlcydC1lb2tXd25hM0lobdIBYEFVX3lxTE9vY1ZDMy1fQWtFVFFCanFoMER4OW9TcUZaMmt2WVg5eUtGNDBuZ0U1MmxvYTNUdzF4UElQdzc0Wm4tQTBHM25wZXdSNFV3YVRHdlcydC1lb2tXd25hM0lobQ?oc=5",
+     "summary": "SK에코플랜트가 올해 신입 구성원 68명 전원을 반도체·AI 등 하이테크 사업부문에 배치하고 온보딩·현장 밀착 교육(용인 반도체 현장 방문, CEO 직접 소통 포함)을 진행했다. 건설에서 반도체·AI 인프라로의 체질 전환을 인력 구조에서부터 못박는 성격의 행보다.",
+     "more": 33
+    },
+    {
+     "ts": "2026-09-23 07:00",
+     "source": "CEO스코어데일리",
+     "title": "SK에코플랜트, 솔루션 부문 적자전환…손실 선제 반영 영향",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qckpzVTFxcGthTVhUN2F2TE5FUzVVUmoyVWhXNk4ycm80b1hmRWxVZlUwbW9PYzNVMC1TNTlEMFZXMDJ0clllQ0lxNjlVdWYtSUYwVHBJS2lfOHJ1VUF2NVpwRUFOMkNE?oc=5",
+     "summary": "CEO스코어데일리 분석에 따르면 SK에코플랜트 솔루션 부문(주택·건축·인프라·연료전지)은 상반기 매출 1조8,300억원에 영업손실 2,230억원으로 전년 흑자(약 750억원)에서 적자 전환했다. 지식산업센터 미수금 관련 대손충당금 등 예상 손실을 선제 반영한 영향이 크다는 설명이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-22 08:26",
+     "source": "안전신문",
+     "title": "아파트 하자판정 건수, 대우건설 최다… 하자판정률은 SK에코플랜트가 톱",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QaE43azVZMHgwWDlzeGpGdnp5UDh4dGo0Umg4dW1lTkVRZFhYWlRzN0NybGdYdEh5RnpvTzRzWFd5LTdvZ25tUXBIX3Njem1abEtvVzQ2azU4MWFyZjNhekhjV1lxeXV3NGRGcnE0bHE?oc=5",
+     "summary": "국토부가 김미애 의원실에 제출한 자료 기준 2022년 1월~2026년 6월 10대 건설사 하자심사 접수 4,983건 중 323건이 실제 하자로 판정됐는데, SK에코플랜트는 접수 105건 중 32건이 인정돼 판정률 30.48%로 1위를 기록했다(현대엔지니어링 16.67%, 삼성물산 16.22% 등). 하자 유형은 결로(430건)가 가장 많았고 창호·문짝 불량, 바닥·벽지 들뜸이 뒤를 이었다.",
+     "more": 4
+    }
+   ]
+  },
   {
    "ts": "2026-09-22 07:30",
    "label": "09-22 07시",
