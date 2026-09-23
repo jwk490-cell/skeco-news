@@ -1,8 +1,51 @@
 {
- "updated": "2026-09-23 07:30",
- "last_check": "2026-09-23 07:30",
- "last_new": 3,
+ "updated": "2026-09-24 07:30",
+ "last_check": "2026-09-24 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-09-24 07:30",
+   "label": "09-24 07시",
+   "digest": [
+    "이번 배치의 축은 **하이테크(반도체 인프라) 쏠림**이다 — SK하이닉스 발주분 **9조4000억원**과 수주잔액 **25조4000억원**(+29.4% QoQ)에 더해, 신입 **68명 전원을 반도체·AI 현장 인력으로 배치**했다.",
+    "**사업 확장 국면에서 품질 지표는 반대 방향** — 국감 자료에서 SK에코플랜트의 아파트 **하자 판정률 30.48%가 10대 건설사 중 1위**(최저사 대비 약 29배)로 지적됐다.",
+    "발주처로서의 존재감이 커지며 **KCC 등 협력·자재 업체로 낙수 효과가 확산**되는 서술이 등장했고, AI 활용도 콘테크 공모(AI 데이터센터·설계/구매/시공 AI)로 확대되고 있다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-23 14:44",
+     "source": "파이낸셜포스트",
+     "title": "삼전·닉스 '선한 영향력' 시즌2...에코플랜트 발주, KCC도 덩달아 호재",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JY194N0dLSXpUX2RheEZfcXJ5dXVzYk91d3ZCallkRmRranNqLURFaHBHeXdNUHlQT1ZQb2FtZnNvbWg2UUs2SGM5eHJVY3B3YmpzU0lUeWFmeThYRFAzSU53djBYSDlSa0l4TVYtSWpsMlpq?oc=5",
+     "summary": "파이낸셜포스트는 삼성전자·SK하이닉스의 반도체 투자가 협력사로 퍼지는 '낙수 효과'를 다루며, SK하이닉스 발주분 9조4000억원을 확보한 SK에코플랜트의 하이테크 물량이 하반기 이후 실적을 견인하고 이 발주가 KCC 등 자재·내장 업체로도 수혜가 확산된다고 전했다. 2분기 말 SK에코플랜트 수주잔액은 전분기 대비 29.4% 늘어난 25조4000억원이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-23 09:08",
+     "source": "스페셜경제",
+     "title": "SK에코플랜트, 반도체·AI 신입 68명 실전교육",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PdnlZVE1MNFZwOFdYTmw5Sm1DVkFRVGVVbVdoQVZlN1JYSFFKNk5EaW9LU2FxS1dVb0sxR3NtWGM2QkZLNUtwUjNCeVQzaDJhdmR5ZWY0VXVRQTlBOTVsZUZCZ0Njb3h1U25sLQ?oc=5",
+     "summary": "SK에코플랜트가 하반기 신입사원 68명 전원을 반도체·AI 등 하이테크 분야 실전 교육 과정에 투입해 현장 인재로 양성한다고 밝혔다. 신입 인력을 사실상 전량 하이테크(반도체 인프라)로 배치한 것으로, 사업 축이 하이테크로 이동하고 있음을 보여주는 인력 운용이다.",
+     "more": 2
+    },
+    {
+     "ts": "2026-09-23 14:03",
+     "source": "포커스경제",
+     "title": "10대 건설사 5년간 하자심사 4983건…323건 실제 하자 판정",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80S3BPelM4ZzJoalo2eTB2QjlSZVlDWGQ2ZDRnS1JoT1RvZTBibzRuS1ZTSl9CaTQ0ekxKbHdONjNsU2tEQ180NlVGZHlYYXVGRS1xVjctMTR5OWthVWNpZjBwcTVMOG53ZF9iWNIBcEFVX3lxTE50VzVvSjJneFBZSEZjMmw5aXlpM3pQa0loaC1fVGJRQUhraXdMUlVaR1BxTGlGSThVTWRBdGgtYnFoVzRQcktYdHlvTmo5b01kN203RnRnenRUYjhrYUxuUEx2UnhvTEljeURmZ0UyR18?oc=5",
+     "summary": "국정감사 자료 기준 2022년~2026년 6월 10대 건설사 하자심사 접수 4983건 중 323건이 실제 하자로 판정됐고, SK에코플랜트는 접수 105건 중 32건이 인정돼 판정률 30.48%로 10대 건설사 중 가장 높았다(최저 DL이앤씨 1.05%와 약 29배 격차). 판정 건수 자체는 대우건설 87건이 최다였다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-23 08:00",
+     "source": "banronbodo.com",
+     "title": "건설업계, AI·스마트 기술 활용 확대...도면 검토부터 사고 예방까지",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXNThlNEtYdnBrSTR3d0VKYlFHT05nT2NYN1BXRzNXMWIwbkQxc0pOZWtYTEFoaGFLU1QzOGNsU2NQMmZFNnRadDdDblJzWmpRTzNhSHRtUVUtb1lXX3plV0xTaTl0LTNQV1oyMjRneTTSAXBBVV95cUxQVzU4ZTRLWHZwa0k0d3dFSmJRR09OZ09jWDdQV0czVzFiMG5EMXNKTmVrWExBaGhhS1NUMzhjbFNjUDJmRTZ0WnQ3Q25Sc1pqUU8zYUh0bVFVLW9ZV196ZVdMU2k5dC0zUFdaMjI0Z3k0?oc=5",
+     "summary": "건설업계의 AI·스마트 기술 적용 확대를 다룬 기획 기사로, SK에코플랜트는 '2026 콘테크 미트업 데이' 공모를 통해 AI 데이터센터·건설AI 혁신기술을 발굴하며 도면 분석·설계 검토, 단가·원가 예측, 현장 진척·품질 관리 등을 수요 기술로 제시했다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-23 07:30",
    "label": "09-23 07시",
