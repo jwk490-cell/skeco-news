@@ -1,8 +1,26 @@
 {
- "updated": "2026-09-24 07:30",
- "last_check": "2026-09-24 07:30",
- "last_new": 4,
+ "updated": "2026-09-25 07:30",
+ "last_check": "2026-09-25 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-09-25 07:30",
+   "label": "09-25 07시",
+   "digest": [
+    "이번 배치는 **노르웨이 소트라 고속국도 공기 지연** 단일 이슈로, 2027년 개통 목표 달성이 불투명해졌다는 내용이다.",
+    "해외 EPC 프로젝트의 **반복적 일정 지연에 따른 원가·손익 영향** 여부가 향후 확인 포인트다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-25 07:00",
+     "source": "글로벌이코노믹",
+     "title": "SK에코플랜트 참여 소트라 고속국도 또 지연…2027년 개통 불투명",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPald3b21IUjlIaFZXdUFNaXg4YVlFTDMtM01wLTkyeDVxVnA2ZHZPUFVLSE9jTXQ4V2FVdDQyVUxEWDA5NlVyTG9jcHZCbHE0RGNCQjFHLWlEQ2w4MmJzaHdtb0FRQzBGb2NCSTdpeVZIaUREYktETFVFbkFZYW5udkhFdF92a3EtTmc?oc=5",
+     "summary": "SK에코플랜트가 참여 중인 노르웨이 소트라 고속국도(Sotra Link) 프로젝트가 또다시 공기 지연을 겪으며 2027년 개통이 불투명해진 것으로 전해졌다. 반복되는 지연은 해외 인프라 사업의 공기·원가 리스크 부담으로 이어질 수 있다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-24 07:30",
    "label": "09-24 07시",
