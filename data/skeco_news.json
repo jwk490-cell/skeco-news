@@ -1,8 +1,25 @@
 {
- "updated": "2026-09-25 07:30",
- "last_check": "2026-09-25 07:30",
+ "updated": "2026-09-26 07:30",
+ "last_check": "2026-09-26 07:30",
  "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-09-26 07:30",
+   "label": "09-26 07시",
+   "digest": [
+    "이번 배치에서 수집된 기사 1건은 SK에코플랜트와 **무관한 스팸성 게시물**(해외 스포츠팀 도메인의 도박 관련 콘텐츠)로, 유효한 뉴스가 없습니다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-25 07:50",
+     "source": "Calgary Roughnecks",
+     "title": "강원랜드 인기 슬롯머신 학생를 위한 글쓰기 기술 심층 분석",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUwzMkJETms2bVREdm90N011ZFVob01wQl9TUkplOS1RNGt0X2loNkMxMmx0dlREYjlIcGxNM1lhZU9jOEgwQkhCTjFtSk5keHhtMWUtWFJNalhIME42SV9DeWRXOXJHMUhOZjhsQlJoMWJCUmtVWkZfOHdnMkJ5NzlGZW1OQVJHUDlhekd2UWhybXN4MmF0eGdwcWhXb3dGX2p5cU5qY3VhN3NteUwtUlNMWkhPLWJTcDBGSnVsckZ2bU1oNHV2ZE5QTTNMM05V?oc=5",
+     "summary": "",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-25 07:30",
    "label": "09-25 07시",
