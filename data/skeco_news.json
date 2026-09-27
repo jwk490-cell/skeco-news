@@ -1,8 +1,25 @@
 {
- "updated": "2026-09-27 07:30",
- "last_check": "2026-09-27 07:30",
- "last_new": 0,
+ "updated": "2026-09-28 07:30",
+ "last_check": "2026-09-28 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-09-28 07:30",
+   "label": "09-28 07시",
+   "digest": [
+    "이번 배치에 SK에코플랜트 관련 유효 기사 없음 — 10대 건설사 원가율 기사 1건은 SK에코플랜트가 표에 포함된 수준의 단순 나열로 판단"
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-28 06:10",
+     "source": "소비자가 만드는 신문",
+     "title": "[데이터&뉴스] 10대 건설사 원가율 일제히 하락...현대건설·포스코이앤씨·롯데건설은 여전히 90% 넘어",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxaTYtdnc3alpsSkJVUEdvcUFNcWhrNkwzZHdHZVFEX05LaE1kNmtWNGQ2eFFsZE11S1JuZWxUeDZDMW9MdmtiWXdYWE42RWpRc2ZZbHp2U3hMSTVPckowWWRKYTNkbHdHZXFlaXpndDBsYU0?oc=5",
+     "summary": "",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-26 07:30",
    "label": "09-26 07시",
