@@ -1,8 +1,51 @@
 {
- "updated": "2026-09-28 07:30",
- "last_check": "2026-09-28 07:30",
- "last_new": 1,
+ "updated": "2026-09-29 07:30",
+ "last_check": "2026-09-29 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-09-29 07:30",
+   "label": "09-29 07시",
+   "digest": [
+    "**해상풍력 축소 → 반도체·AI 인프라 집중**이라는 포트폴리오 전환이 이번 배치의 관통 주제 — SK오션플랜트 4,100억 매각과 12/1 SK에코엔지니어링 흡수합병, 그리고 신입 인력의 반도체·AI 현장 배치까지 같은 방향을 가리킨다.",
+    "**9월 30일 국감 증인 명단 확정**이 단기 최대 이벤트 — 장동현·김영식 대표 채택 여부에 따라 IPO 무산·재무 부담 등 민감한 이슈가 공개 질의 대상이 될 수 있다.",
+    "장외 주가는 4거래일 연속 상승(4만7천원대)했지만 **매도잔량이 매수의 2배**로, 재편 기대와 수급 부담이 동시에 관찰된다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-28 09:21",
+     "source": "dealsite.co.kr",
+     "title": "해상풍력 '저조' AI 전력 '조급'…SK의 선택은 '통합'",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyVUdtT29YOGZ4TjlVOHRYbFZXeUFRalIzV3puZnZ1TnFxcHhDNGh4ajhhSm9uRE9KZEZPWDRTSFV0N0pVZ19nOHZnTjREa2M?oc=5",
+     "summary": "SK에코플랜트가 SK오션플랜트 지분 35.62%를 4,100억원에 매각하며 해상풍력 제조 직접투자 부담을 덜고, 12월 1일 100% 자회사 SK에코엔지니어링을 흡수합병해 반도체 팹·AI 데이터센터 인프라로 사업 무게추를 옮기는 'SK의 통합 전략'을 분석한 기사. 신재생 시장 개화 지연과 급증하는 AI 전력 수요라는 엇갈린 흐름이 재편의 배경으로 지목됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-28 15:34",
+     "source": "newsworker.co.kr",
+     "title": "2026 국감 레이더⑦] 현대건설 이한우·SK에코플랜트 장동현·김영식 '긴장'…30일 증인 명단 확정",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsYWJFUDN0allRelZKZl9DOVMyckFtVEE4aDM3Y1phTWJpWUxGcnpBMDAyX1BpYVFzVjRkRElYbF9MYVVYNURZOXptWjBGS25WeHo0YTU1LVIteU0xNmVmMmhmYUY5U09weUFFZEpNV27SAXRBVV95cUxPTUlUZjREUEdFWHlyMlVnR0toamVQbFhfUVJNRTZERXlPdkRqY0VQT2VuREM5SGFvTjlMSUE0c2t1bGFPa255U2hNd0pmUjFtU3NlREZ5M25hblVaYVNVU1RES2ZDNjhKWEduc2tUTlV6WVMxQw?oc=5",
+     "summary": "국회가 9월 30일 2026 국정감사 증인 명단을 확정할 예정인 가운데 SK에코플랜트 장동현·김영식 대표가 현대건설 이한우 대표 등과 함께 증인 채택 후보로 거론되고 있다. 채택 시 사업 재편·재무 이슈에 대한 경영진 직접 답변 부담이 생긴다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-28 10:15",
+     "source": "fetv.co.kr",
+     "title": "SK에코플랜트, 신입사원 집중 교육 후 반도체·AI 인프라 사업 현장 배치",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yU0RTSFBId2cxZktqWUFGNXdkUXpqUlE0aFBGdjdkUzAtcGdfb3A0S3E0a081bXNDSHF3cnFmNV91OGxGdjFsUjBtMS1sTGlaeHhDSGt3Z3EzQnVzZ1BjU0JaYTdQdU0z?oc=5",
+     "summary": "SK에코플랜트가 신입사원 집중 교육을 마친 인력을 반도체·AI 인프라 사업 현장에 배치했으며, 건설업계 전반의 채용 축이 주택에서 원전·반도체 등 비주택 인프라로 이동하는 흐름의 사례로 함께 언급됐다. 인력 재배치가 사업 포트폴리오 전환과 같은 방향임을 보여준다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-09-28 09:33",
+     "source": "프리스탁뉴스",
+     "title": "[종목시황] SK에코플랜트, 4만7천원대 상승…매도잔량 우세",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBINlBqdW9XSDlrYVlRWGZtRElTZ211VVdjU0d2V25nd2Z4RTI0Y092eDczTjhzbF9CTU9mNFdrY3NKUWdLMjRQS3ZHejh1TG9YOHN5NVQxMmRuWVhlZ2w2NGNrUm5vSHE0ZkV0SnBHdw?oc=5",
+     "summary": "비상장 장외시장에서 SK에코플랜트 주가가 4거래일 연속 상승해 4만7천원대를 기록했으나, 매도잔량이 매수잔량의 약 2배로 우세한 수급 상태가 이어졌다. 사업 재편 기대가 장외 시세에 일부 반영된 것으로 보이나 물량 부담은 남아 있다.",
+     "more": 1
+    }
+   ]
+  },
   {
    "ts": "2026-09-28 07:30",
    "label": "09-28 07시",
