@@ -1,8 +1,51 @@
 {
- "updated": "2026-09-29 07:30",
- "last_check": "2026-09-29 07:30",
+ "updated": "2026-09-30 07:30",
+ "last_check": "2026-09-30 07:30",
  "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-09-30 07:30",
+   "label": "09-30 07시",
+   "digest": [
+    "**센바이로 매각은 단순 자산 처분이 아니라 사업 정체성 전환 신호** — 환경(폐기물) 축소·반도체/AI 인프라 집중이라는 방향이 언론 다수 보도로 확정 국면에 접어들었다.",
+    "거래 성사의 핵심 변수는 **말레이시아 국부펀드(공동주주)의 동의**이며, 인수 후보로 프랑스 베올리아가 거론된다.",
+    "국내에서는 **국감 증인 소환 가능성과 하자판정 비율 최고**라는 시공 품질·안전 리스크가 동시에 부각돼, 사업 재편 서사와는 별개의 평판 부담이 쌓이고 있다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-29 12:15",
+     "source": "v.daum.net",
+     "title": "[단독] SK에코플랜트, 말레이 폐기물업체 지분매각…환경떼고 반도체 올인",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NV1RtVHl2SEtzVnplYUtVU2Q3Rmg0Nlo0QS13d3RxelQ3R2dDOHlkWXc2MmFUUG1VcS00MG5IZ3hYV0tBaE5nRUdVNkhFQUQzNWdzNg?oc=5",
+     "summary": "SK에코플랜트가 2022년 인수한 말레이시아 폐기물처리업체 센바이로 지분 매각 절차에 착수해 프랑스 베올리아 등이 인수를 타진 중이며, 공동주주인 말레이시아 국부펀드의 동의 여부가 거래 성사의 관건으로 지목됐다. 환경·친환경 사업을 축소하고 반도체·AI 인프라 중심으로 사업 포트폴리오를 재편하는 흐름의 일환이다.",
+     "more": 4
+    },
+    {
+     "ts": "2026-09-29 17:55",
+     "source": "v.daum.net",
+     "title": "철근 누락에 사망사고까지…현대·포스코·SK 국감 소환되나",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9NaGtfZjBTZ1U1d0x4Rl8tb3d0c0dFdHJ3Rkg1bGx3MlRKY0x0V0xDSjhDTWx6elI3LUh1SEhGa0d6em9wUUhRQkNxcw?oc=5",
+     "summary": "국회 국정감사에서 건설현장 안전관리와 시공품질이 쟁점으로 부상하며 현대건설·포스코이앤씨·대방건설 등과 함께 SK(에코플랜트)도 CEO 증인 소환 대상으로 거론되고 있다. GTX 철근 누락과 사망사고 등이 주요 질의 소재로 꼽힌다.",
+     "more": 4
+    },
+    {
+     "ts": "2026-09-29 08:50",
+     "source": "소셜밸류",
+     "title": "아파트 하자판정 대우건설 최다…비율은 SK에코플랜트 가장 높아",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iQVdpNjB2VEpWT1FrN1JFWWVCLWZjSEg0ckJ0ejduaXphR1hnVkpiclg0VHZXTWJfNjJQWlpNMlpEVElkUEhadUtBWk84b0tUUl85ZkVVUkZZU1lHUlJ4MmgzZ9IBbEFVX3lxTE9aTTFQbl91OEhHTTFXNTJVWEx6Tm8xS0FzaklndG0zdjhPYkxDVDlJTVNsR3dJbnhUVjVzWDNZMTFGZU1hV1Jra2xVUTAxakZnRTNYcGhxMnZENkFJWFhadEQ5ZkdYQm9VTVRTOA?oc=5",
+     "summary": "아파트 하자판정 건수는 대우건설이 가장 많았으나, 공급 물량 대비 하자판정 비율에서는 SK에코플랜트가 가장 높게 나타났다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-09-29 09:20",
+     "source": "여성소비자신문",
+     "title": "효성-SK에코플랜트, 경력보유여성 취업활성화 지원금 전달-반도체·AI 활용방법 집중 교육",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FbVBJZjZFMjVia2VjSGtkaGFrdjZRQXhPR092bi1RRDBoUTNlVDBfRnRHUG1aaWRvcnJGTU1QYnFTTUFVTXNyZHVfMDNoc3BjS2FoaTg1Q2xNLUZPU3NhNWVMVTRjdw?oc=5",
+     "summary": "SK에코플랜트가 효성과 함께 경력보유여성 취업활성화 지원금을 전달하고, 반도체·AI 활용 교육 프로그램을 제공하는 사회공헌 사업을 진행했다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-09-29 07:30",
    "label": "09-29 07시",
