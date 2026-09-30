@@ -1,8 +1,34 @@
 {
- "updated": "2026-09-30 07:30",
- "last_check": "2026-09-30 07:30",
- "last_new": 4,
+ "updated": "2026-10-01 07:30",
+ "last_check": "2026-10-01 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-10-01 07:30",
+   "label": "10-01 07시",
+   "digest": [
+    "**말레이 센바이로 매각 추진** — 환경·폐기물 자산을 정리하고 반도체·AI 인프라로 자본을 집중하는 포트폴리오 재편이 실제 매각 거래로 가시화되는 국면.",
+    "**국토위 국감 증인 채택은 '재논의' 상태** — 현대·대우는 본부장급 출석 확정, SK에코플랜트는 보류로 남아 안전사고 이슈 리스크가 아직 해소되지 않음."
+   ],
+   "articles": [
+    {
+     "ts": "2026-09-30 09:22",
+     "source": "서울경제TV",
+     "title": "SK에코플랜트, 말레이 센바이로 지분 매각 추진",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oTkNuVlZVazlZWllMYklFVzBOX3Y1R1luZG1uU2wwTGRXY2t4Njk2VWFHZUdMWG9Bb3UzOVdTckJTQVZYTVFId0pDT2JTRTZjaER0dl9DT3AyTjB1N1VRWkJCSFk?oc=5",
+     "summary": "SK에코플랜트가 말레이시아 폐기물 처리업체 센바이로(Cenviro) 지분 매각을 추진하는 것으로 확인됐다. 반도체·AI 인프라 중심으로 포트폴리오를 재편하는 과정에서 환경(폐기물) 사업 비중을 줄이는 흐름으로, '친환경' 간판을 내린다는 평가까지 나왔다.",
+     "more": 2
+    },
+    {
+     "ts": "2026-09-30 16:25",
+     "source": "뉴시스",
+     "title": "현대건설·포스코이앤씨 국토위 국감 소환…SK에코플랜트는 재논의",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84endWaG5pTzdoYTUxbE90TTl1Zm9PVk5EVjUyb210QlI5M0MwbTVYdHBtVm55Z1JQU25fdkZEZEdaRm5BLTNlenRjdHl5ZGpmdlA1NEFGUU5rcGhQYWRodWhYOE5GMHkycUFhMTQ2Zmg2UXFVUzRjNtIBeEFVX3lxTE84endWaG5pTzdoYTUxbE90TTl1Zm9PVk5EVjUyb210QlI5M0MwbTVYdHBtVm55Z1JQU25fdkZEZEdaRm5BLTNlenRjdHl5ZGpmdlA1NEFGUU5rcGhQYWRodWhYOE5GMHkycUFhMTQ2Zmg2UXFVUzRjNg?oc=5",
+     "summary": "국회 국토교통위원회가 안전사고 관련 국정감사 증인으로 현대건설·대우건설 본부장급을 채택했고, SK에코플랜트와 포스코이앤씨는 채택이 보류돼 추가 논의 대상으로 넘어갔다. 건설사 CEO급 줄소환은 일단 피한 상태다.",
+     "more": 5
+    }
+   ]
+  },
   {
    "ts": "2026-09-30 07:30",
    "label": "09-30 07시",
