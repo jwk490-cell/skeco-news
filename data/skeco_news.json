@@ -1,8 +1,34 @@
 {
- "updated": "2026-10-01 07:30",
- "last_check": "2026-10-01 07:30",
+ "updated": "2026-10-02 07:30",
+ "last_check": "2026-10-02 07:30",
  "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-10-02 07:30",
+   "label": "10-02 07시",
+   "digest": [
+    "**환경에서 AI·반도체 인프라로**: 환경 자산 축소와 그룹 친환경 법인 정리가 동시에 진행되며 사업 포트폴리오 재편이 실행 단계에 들어섰다",
+    "재편 기대가 **장외주가 4거래일 9.7% 상승**으로 반영됐지만 호가창은 매도 우위로, 밸류에이션 재평가는 아직 확인 단계"
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-01 17:52",
+     "source": "서울경제TV",
+     "title": "SK에코, 환경자산 줄인다…AI·반도체 기업 전환 속도",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wdzl4SUtEYXNNNFdQenoxb1BxNENZT0VJbW1ya2FpRTcyeHptTTlLMkdfOTUtbEhSdFBGQjUzak9TX2Focnoxd0d4MmZTSDJRM2lxMzhXa2NJWFM0OXZQT2hlNkk?oc=5",
+     "summary": "SK에코플랜트가 환경(폐기물·수처리) 자산 비중을 축소하고 반도체 인프라·AI 데이터센터 중심 기업으로 사업 재편에 속도를 내고 있으며, SK그룹 차원에서도 과거 100조 투자를 내걸었던 친환경 법인들이 대거 정리되고 있다. SK는 \"AI 중심 재편 과정의 선별적 조정이며 친환경 투자 자체는 지속한다\"는 입장을 밝혔다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-10-01 16:00",
+     "source": "프리스탁뉴스",
+     "title": "SK에코플랜트, 4거래일 9.7% 상승…호가창은 팔자 우세",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90czR0WFI4c21SYVVILXpNU19YX2YydW92T3dxeUN2SHhoMXMzUHBfbExqc2hOcFFmNHh4V193QUFjWnUtOC1DMk05WG0tWWViMUZFLUViZ3lSX0ZPV0M4UTNmY3Ftc0ppTGZkeUlLYw?oc=5",
+     "summary": "SK에코플랜트 장외주가가 4거래일간 9.7% 상승했으나, 호가창에서는 매도 잔량이 우세해 추가 상승 탄력은 제한적이라는 평가다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-01 07:30",
    "label": "10-01 07시",
