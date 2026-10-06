@@ -1,8 +1,51 @@
 {
- "updated": "2026-10-06 07:30",
- "last_check": "2026-10-06 07:30",
- "last_new": 1,
+ "updated": "2026-10-07 07:30",
+ "last_check": "2026-10-07 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-10-07 07:30",
+   "label": "10-07 07시",
+   "digest": [
+    "**SK하이닉스 4분기 건설 거래액 4.2조원(+61.5%)** 확대 공시로 SK에코플랜트의 반도체 EPC 매출 가시성이 한 단계 더 높아졌다 — 선수금 지급이 증액의 직접 원인.",
+    "같은 날 **건설업종 중 유일한 크레딧 스프레드 축소**(민평 -36~-70bp, 주문 9,870억원)가 보도되며, '반도체 회사로의 변신'이 조달 비용에서 실제로 확인됐다. 다만 PF·전통 건설부문 손실은 미해결 과제.",
+    "모회사 SK㈜의 리밸런싱 자금도 **4월 SK에코플랜트 지분 추가 취득 3,985억원**으로 투입돼, 그룹 내 반도체 인프라 축으로서의 위상이 재확인됐다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-06 14:51",
+     "source": "파이낸셜뉴스",
+     "title": "SK하이닉스, 4분기 SK에코플랜트 건설 거래액 4.2조로 확대[공시]",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNcHlkSXB5NDlkNE83cG5rTVRUZXZodTZRZ1lBcUxZLXBEVXByaG1CTFBLV2oyVEo3TGVYSWU5eFRBNFhZSnRXb25KTF8yYmpQc2Vma2Vrb2paUQ?oc=5",
+     "summary": "SK하이닉스가 SK에코플랜트와의 4분기 신규 FAB 건설 거래 예상액을 기존 2.6조원 수준에서 4.2조원으로 61.5% 확대하는 변경 공시를 냈다. 증액분은 공사 선수금 지급에 따른 것으로, SK에코플랜트 하이테크(반도체) 부문 매출 기반이 추가로 두터워졌다.",
+     "more": 3
+    },
+    {
+     "ts": "2026-10-06 10:29",
+     "source": "연합인포맥스",
+     "title": "'반도체 덕분에'…건설업 중 홀로 금리 스프레드 좁힌 SK에코플랜트",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QN1JvQVA2Skx6V1FnUk1WM3Z0b0V0OXB4OF8wbmNJU0ZFUE1nWFYxVU93NDh6RS1XTTB6NEJ2d0N4eDlObWZnSUVRU3AyWkJiZ243TXNtSHE3aHhReWs0OFlFOXpZaFhmUlVhcjdzQTU?oc=5",
+     "summary": "SK에코플랜트가 최근 무보증사채 수요예측에서 개별민평 대비 -36~-70bp 금리로 총 9,870억원의 주문을 받아, 건설업종 중 유일하게 크레딧 스프레드를 축소했다. 반도체 소재 계열사 편입과 하이테크 부문 실적 개선(영업이익 122억→1,722억원) 기대가 반영된 결과로, 다만 PF 리스크와 전통 건설부문 손실은 과제로 남았다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-06 15:01",
+     "source": "PRESS9",
+     "title": "SK, 1.3조 지분매각 뒤 1.2조 재투자…남은 현금은 [SK 리밸런싱①]",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44WEVDN28wTG84WWFoVEhtNFFJSXZabmlpVG9sODU3dFU5TVkzMWg5UTI0QkY2ZG0xMWZTTUVpa19FRm5UR3ZmTWlqVE9xRDBMZ3pLVU95TlhkNzhLdlBvX2ptQTg?oc=5",
+     "summary": "SK㈜가 상반기 종속기업투자 처분으로 1조3,082억원을 확보한 뒤 1조2,130억원(처분액의 93%)을 계열사에 재투자했으며, 이 중 4월 SK에코플랜트 지분 추가 취득에 3,985억원을 투입했다. 리밸런싱 자금이 반도체·AI 중심 계열로 재배치되는 흐름에서 SK에코플랜트가 주요 투자 대상임을 보여준다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-06 19:31",
+     "source": "프리스탁뉴스",
+     "title": "[장외시황] K-OTC 거래 63%는 아리바이오-SK에코플랜트 주식",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1SUE0SjF5a2c4bWx3Rk5ZZFZBMm91NFpFU2h6NlNvZndaUHE0R29SUHl3bEJVSkVwMHlMM2JWWG96LXpGa1NOSXd6Nks0dzB6WDR3dVFtQTV4SW9FNFlubFhKcUdKMXpudDBobDNXSQ?oc=5",
+     "summary": "K-OTC 장외시장에서 아리바이오와 SK에코플랜트 두 종목이 전체 거래대금의 63%를 차지했다. 비상장 상태인 SK에코플랜트에 대한 장외 수요가 여전히 집중되어 있음을 시사한다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-06 07:30",
    "label": "10-06 07시",
