@@ -1,8 +1,50 @@
 {
- "updated": "2026-10-07 07:30",
- "last_check": "2026-10-07 07:30",
+ "updated": "2026-10-08 07:30",
+ "last_check": "2026-10-08 07:30",
  "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-10-08 07:30",
+   "label": "10-08 07시",
+   "digest": [
+    "**SK하이닉스 FAB 발주 확대가 이번 배치의 핵심** — 4분기 거래액 4.2조원으로 61.5% 증액, 어음→현금 전환에 따른 선수금까지 반영돼 실적·현금흐름 양쪽에 우호적",
+    "**그룹 반도체 인프라 수혜 ↔ 안전·지역 리스크 병존** — 사업 재편 가속의 반대편에서 잇단 현장 사고로 안전관리 특명, SK오션플랜트는 고성군의 투자·고용 이행 압박에 직면"
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-07 11:46",
+     "source": "PRESS9",
+     "title": "SK하이닉스, 에코플랜트와 4.2조 거래…공사대금 어음 대신 현금",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ncHZMQUZQLTFadXgzd0lPeHZtR2pSR3FRSTBKdW1aMVBEQ1JFWUs0Rzd4cF81V3VyUnBYbkpFUHRfVjBlX2N0ZFQzeGZHdlY0SlNGRlN1RWNuc2xlZk5jODFNOVU?oc=5",
+     "summary": "SK하이닉스가 4분기 SK에코플랜트와의 건설 거래 예상액을 4조2,462억원으로 공시 변경했다(2월 공시 2조6,286억원 대비 61.5%·1조6,176억원 증액). 이 중 4조49억원은 신규 FAB 건설분이며, 협력사 유동성 지원을 위해 공사대금 지급 방식을 어음에서 현금으로 바꾸면서 발생한 건설공사 선수금이 증액에 반영됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-07 15:12",
+     "source": "비즈니스포스트",
+     "title": "SK에코플랜트 그룹사 반도체 훈풍 업고 사업 재편 가속, 김영식 잇단 현장 사고에 안전관리 강화 특명",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hYy1aeUdZUmpKZVJEdXBvQmZPQU4zRmtnY2dlVkFHVk1KMS1FcjFUYktTQzJxLXEzcEtMcFk0cTZVSWluUVAtdXNuNVZ5M1E2N2d5TTd4cm54aEhkVW82QzNyZDZncWRleGV2X0c5eE5tN3c?oc=5",
+     "summary": "비즈니스포스트는 그룹사 반도체 투자 확대를 등에 업고 SK에코플랜트가 사업 재편에 속도를 내고 있다고 분석했다. 동시에 잇단 현장 사고로 김영식 대표가 안전관리 강화를 특명으로 내걸었다고 전했다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-07 14:51",
+     "source": "부산일보",
+     "title": "하학열 고성군수 “SK오션플랜트 투자·고용 약속 이행 강제력 필요”",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNEdmS282TlRjRnJfSG9fSUNxRU8xM21laDZOXzVpeHFHVXJnYXNHWG5hOENMczR6ZDdLQ3hQUXB1QUZ5dktBSngyZXJiMHNuUWFSSnRMMGJFLXpucU0ySi1sZlNtUFRCQTl0OU1RX3ZuUFI3Qk5DOQ?oc=5",
+     "summary": "하학열 고성군수가 SK오션플랜트(SK에코플랜트 자회사)의 지역 투자·고용 약속 이행에 강제력이 필요하다고 밝혔다. 지자체가 투자협약 이행 담보 장치를 요구하는 것으로, 자회사의 지역사회 리스크 관리 이슈다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-07 12:02",
+     "source": "Daum",
+     "title": "해킹 우려 커지는데…건설사, 정보보호인증 5곳뿐",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QMjlzQ1IwYV9DWDB4SXJVQzRWd25XZk5LWmN2clEyN25PcVc4ZE4zaFd3OEcyVnBtd29vQXJ0MDJENG83STRDLTVmOUtySUE?oc=5",
+     "summary": "해킹 위협이 커지는 가운데 국내 건설사 중 정보보호(ISMS·ISMS-P) 인증을 보유한 곳은 5곳뿐이라는 보도다. SK에코플랜트는 분양·입주·하자보수 등 고객 서비스 부문에서 인증을 취득한 소수 건설사에 포함된다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-07 07:30",
    "label": "10-07 07시",
