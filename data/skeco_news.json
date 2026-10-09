@@ -1,8 +1,59 @@
 {
- "updated": "2026-10-09 07:30",
- "last_check": "2026-10-09 07:30",
- "last_new": 1,
+ "updated": "2026-10-10 07:30",
+ "last_check": "2026-10-10 07:30",
+ "last_new": 5,
  "checks": [
+  {
+   "ts": "2026-10-10 07:30",
+   "label": "10-10 07시",
+   "digest": [
+    "이번 배치의 중심은 **장외주가 열흘 연속 상승·25.2% 급등** — 올해 7월 상장기한을 넘긴 **IPO 재추진 기대**가 비상장 수급을 끌어올리는 국면이다.",
+    "상승 재료와 반대 방향으로, **송도 외장재 추락·평택~오송 현장 사망사고에서 비롯된 안전·품질 리스크**가 국감 증인 채택 추가 논의 대상으로 남아 있어 미결 하방 변수다.",
+    "**광주 군공항 800조 반도체 산단**에 최태원 회장이 직접 '속도전'을 못 박은 것은 반도체 인프라 EPC 파이프라인 측면에서 가장 큰 중장기 긍정 신호다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-09 13:39",
+     "source": "프리스탁뉴스",
+     "title": "[장외급등주] SK에코플랜트, 열흘 넘게 상승 흐름…25.2%↑",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ldW9XU1daUlctc2VaU1FPVlA3alpWcHI0MktDM25FTjlQakJUN2xKRi1tTEQ2d0RjYW81TmxOaHZ3OV93eDYydEhCOWFYN1pDYlI1N0dCZl9wWUZWWjNYY2E4STJKOVRmN2NhNDNBYw?oc=5",
+     "summary": "장외시장에서 SK에코플랜트 주가가 열흘 넘게 상승 흐름을 이어가며 이 기간 25.2% 올랐다. 올해 7월로 걸려 있던 프리IPO 상장기한을 넘긴 상태에서 IPO 재추진 기대와 최근 건설사 IPO 흥행이 장외 수급을 끌어올린 것으로 거론된다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-09 09:00",
+     "source": "오피니언뉴스",
+     "title": "[2026 건설국감]③ 부동산 문제에 쏠린 국토위 국감…남은 일정서 건설사 안전 책임 물을까",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SUlNsYW5iNm1TVGd1c0xVeTBsVVl5U3FWeGxPNTc3RGY5aFhfS3IwSjNxRkJ3MkhKd19BWE1iaTV6c2tGYXhTZXNEOU82Rk0tQWJHM2dpcEpHRHFRaXdNbFpiandzcFVqTmxEWU1lclRzQQ?oc=5",
+     "summary": "국토위 국정감사가 집값·부동산 이슈에 쏠린 가운데, SK에코플랜트는 인천 송도 럭스오션SK뷰 외장재 추락과 평택~오송 2복선화 2공구 하청 노동자 사망사고로 안전·품질 관리가 쟁점에 올랐다. 다만 증인 명단에서는 빠졌고, 포스코이앤씨 등과 함께 여야 추가 논의로 증인 채택 여부가 미결 상태다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-09 14:00",
+     "source": "뉴시스",
+     "title": "최태원 SK그룹 회장, '반도체 산단부지' 광주군공항 첫 방문",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wODZ0TzJoZDg3TmtMTEc2c0dzcVhIeE0td0xuUkJQZi1nZFM2RUg2RlRmYnNjTklmc05rRFR0YUYtc2ZIcE5mNDR3QWFoQk96ZXBodXlSRlk1dlUxcmludWlqWW1LUXR1ODZXcFJsMUxKUURuSUV4Q9IBeEFVX3lxTE9wODZ0TzJoZDg3TmtMTEc2c0dzcVhIeE0td0xuUkJQZi1nZFM2RUg2RlRmYnNjTklmc05rRFR0YUYtc2ZIcE5mNDR3QWFoQk96ZXBodXlSRlk1dlUxcmludWlqWW1LUXR1ODZXcFJsMUxKUURuSUV4Qw?oc=5",
+     "summary": "최태원 회장이 호남 반도체 클러스터 예정지인 광주 군공항 부지를 처음 방문해 관제탑·탄약고 이전 예정지를 점검하고 \"용인 클러스터 이상의 속도전\", \"전력·용수 인프라가 늦어도 선제 착공\" 의지를 밝혔다. 826만㎡에 800조원을 투입해 메모리 팹 4기 이상을 짓는 사업으로, 그룹 반도체 인프라 EPC를 담당하는 SK에코플랜트의 중장기 수주 기회와 직접 연결된다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-09 16:30",
+     "source": "내외일보",
+     "title": "대한건설협회, 연세대서‘미래 건설인 타운홀 미팅’개최",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UVUVrZS1QU3I1ZTlBRFNIWkFVS3E1dk11RVZnWTJFNXFHOWhsTWZ4NnlVcHEzZEZYTlltVW5oUXdvUmwza3VBWm0tR2swZHJhLU9rcS1qM0h4Q1gxNk5PUjJJWHBVT1pCV0JkV0pMdw?oc=5",
+     "summary": "김영식 SK에코플랜트 대표가 대한건설협회의 '연세대 미래 건설인 타운홀미팅'에 홍석화 HL디앤아이한라 대표와 함께 참석해 대학생 200여 명과 AI 시대 건설산업의 미래 성장 분야·필요 역량·진로를 논의했다. 대표이사가 직접 나선 공개 대외 행보다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-10-09 14:26",
+     "source": "ISSUE ON (이슈온)",
+     "title": "10월 마감 창업 지원사업 7선…SK에코플랜트 PoC 1000만원부터 입주공간까지",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lQmRVMlkyb3owVzVGOWlSR0tOUnMxaFFOTW1oWDBzYnFtTjVDRVJONnY3c0VlWE1HMjdkSDJhYTRxczc2SXQ1UzhYZ25yMVdYLTFqbHhNeXBIZ3VhdGswLUl3cXgzZkl0c2lv?oc=5",
+     "summary": "10월 마감 창업 지원사업 소개 기사에서 SK에코플랜트 오픈이노베이션 공모가 포함됐다. 선정 스타트업에 PoC 자금 1000만원과 입주공간 등을 지원하는 프로그램이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-09 07:30",
    "label": "10-09 07시",
