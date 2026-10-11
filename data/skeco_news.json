@@ -1,8 +1,43 @@
 {
- "updated": "2026-10-11 07:30",
- "last_check": "2026-10-11 07:30",
- "last_new": 0,
+ "updated": "2026-10-12 07:30",
+ "last_check": "2026-10-12 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-10-12 07:30",
+   "label": "10-12 07시",
+   "digest": [
+    "**SK오션플랜트 매각**이 디오션자산운용 인수 협상 단계로 진입, 고성군과의 지역 상생안 협의가 딜 수용성의 핵심 변수로 부상",
+    "**송도 럭스오션SK뷰 붕괴 두 달**, 입주민의 용적률 완화 요구와 지자체 면담으로 사고 후속 비용·일정 부담이 장기화",
+    "최태원 회장의 **호남 팹 선제 착공** 방침은 SK에코플랜트 반도체 인프라 수주 파이프라인에 우호적 신호"
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-11 09:05",
+     "source": "연합뉴스",
+     "title": "SK오션플랜트 인수 디오션, 지역상생 내용에 관심",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OUF9WUmJqMWVXMEFsZlNZUDktcmoyalRFNjFQbDNxel9aemgyemxJX0NaSFJKeGxTTXRXTEN1enp1SWRPNVVhNDdWLVlVNUF4TmdKQUY1Tk12cEhkRlpNeNIBYEFVX3lxTE9OUF9WUmJqMWVXMEFsZlNZUDktcmoyalRFNjFQbDNxel9aemgyemxJX0NaSFJKeGxTTXRXTEN1enp1SWRPNVVhNDdWLVlVNUF4TmdKQUY1Tk12cEhkRlpNeA?oc=5",
+     "summary": "디오션자산운용이 SK에코플랜트의 자회사 SK오션플랜트 인수를 추진하며 사업장이 있는 경남 고성군과 지역 상생안 협의에 착수했다. 고용 유지·지역 경제 기여 등 상생 내용이 인수 이후 지역사회 수용성의 관건으로 부각되고 있다.",
+     "more": 2
+    },
+    {
+     "ts": "2026-10-11 12:33",
+     "source": "경기신문",
+     "title": "송도 럭스오션SK뷰 붕괴 사고 두 달…입주민, 인천시에 용적률 완화 요구",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnNUxrc2pKRlUzV0Fnbll1M1V5MUk4ckpTbjFrdVRmMVMzZ2kyTFJmUFNTTDZaYWF0NWFtRi1VNjJGTlJ4QTd0MFFxU1hRMC1aM3VNSjJuUTg3dDNNSlpQTGZ3?oc=5",
+     "summary": "SK에코플랜트가 시공한 인천 송도 럭스오션SK뷰 붕괴 사고 발생 두 달이 지나면서 입주 예정자 비대위가 인천시·인천경제청에 용적률 완화 등 보상·대안을 요구하고 박찬대 인천시장, 김종철 인천경제청장과 면담을 진행했다. 재시공·일정 지연에 따른 손실 분담 문제가 계속 쟁점으로 남아 있다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-10-11 11:30",
+     "source": "뉴시스",
+     "title": "투자 지연 우려 불식 나선 최태원 회장…\"호남 팹, 인프라 늦어도 선제 착공\"",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uRXpKZmhxWVJGSEJWLTVYamFQcE9HU2dMX19Wa1h6dDdQVlIyWWdWdkEwcHpuY1VvMVFVQ1JIM0FwYU9lcjEwMjZ3WFY2eU5YczVYNXFSRTFROFZHVzhDaV8wNkVmWnQ2VFdHb3pQUC1YZEhCczZzQ9IBeEFVX3lxTE9uRXpKZmhxWVJGSEJWLTVYamFQcE9HU2dMX19Wa1h6dDdQVlIyWWdWdkEwcHpuY1VvMVFVQ1JIM0FwYU9lcjEwMjZ3WFY2eU5YczVYNXFSRTFROFZHVzhDaV8wNkVmWnQ2VFdHb3pQUC1YZEhCczZzQw?oc=5",
+     "summary": "최태원 SK 회장이 호남 지역 반도체 팹에 대해 \"인프라가 늦어도 선제 착공\"하겠다며 투자 지연 우려 차단에 나섰다. 그룹 반도체 인프라 EPC를 담당하는 SK에코플랜트의 공사 물량·착공 시점에 직접 영향을 주는 발언이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-10 07:30",
    "label": "10-10 07시",
