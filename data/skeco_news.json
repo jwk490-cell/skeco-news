@@ -1,8 +1,51 @@
 {
- "updated": "2026-10-12 07:30",
- "last_check": "2026-10-12 07:30",
- "last_new": 3,
+ "updated": "2026-10-13 07:30",
+ "last_check": "2026-10-13 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-10-13 07:30",
+   "label": "10-13 07시",
+   "digest": [
+    "**반도체 EPC가 성장 엔진이자 인력 병목**: 용인 클러스터 일정이 12년 앞당겨지며 반도체 공사 계약잔액 **9조4214억원**을 확보했지만, 하이테크 인력 쟁탈전으로 주택 사업 투입 여력이 줄어드는 구조적 트레이드오프가 드러났다.",
+    "**비반도체 부문에선 비용·평판 리스크가 동시 노출**: 송도 럭스오션SK뷰 테라스 붕괴 수습이 인천시 행정 지원까지 끌어들이는 단계로 확대됐고, 해운대 홈플러스 부지는 **브릿지론 6500억 대위변제 후 3200억 셀프 인수**로 지방 PF 부담이 재무에 이미 반영됐다.",
+    "환경·에너지 기술 소싱을 위한 오픈이노베이션 공모(PoC 1000만원·2개사)는 10월 중순 평가·밋업 일정으로 진행 중이다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-12 16:59",
+     "source": "머니투데이",
+     "title": "반도체 공사 앞당기자 건설사도 '하이테크' 인력 쟁탈전…\"10년치 일감 밀렸다\" - 머니투데이",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZRmRjRGhvSWZpbDQ0X1hQZ3VxNW9MSjI3WFJ0NURWTmF6VGNzYXdDenNiOTI2Ym5hMUI0d0pZNnhvRVM5SFkxdDlrVVVaSTQ2YUJRQkNUa2MyemR1MTBoNW1xc2JvUFVBS1RqVk9NQdIBb0FVX3lxTFBZRmRjRGhvSWZpbDQ0X1hQZ3VxNW9MSjI3WFJ0NURWTmF6VGNzYXdDenNiOTI2Ym5hMUI0d0pZNnhvRVM5SFkxdDlrVVVaSTQ2YUJRQkNUa2MyemR1MTBoNW1xc2JvUFVBS1RqVk9NQQ?oc=5",
+     "summary": "SK하이닉스가 용인 반도체 클러스터 생산공장 4기 완공 목표를 2045년→2033년으로 12년, 첫 공장 클린룸 오픈을 3개월 앞당기면서 SK에코플랜트가 하이테크 인력 충원에 속도를 내고 있다. 6월말 기준 주요 반도체 공사 4건의 계약잔액은 9조4214억원(준공 2027~2028년)으로, 반도체 현장 우선 배치 탓에 주택 사업에 돌릴 인력 여력까지 빠듯한 상황이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-12 14:15",
+     "source": "매일안전신문",
+     "title": "송도 럭스오션SK뷰 비대위, 인천시에 테라스 붕괴 피해 복구 행정 지원 요청",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zQ0ZJU3pVMXU0UzgxSURId3p4eksyRkRiNmRXTG5QeFNtVURLOFg0Q2Z0cnJPY1FXME9BSFpqUUlQSUN2aGsxTDd6bElVd3F5NzBtNVozT3dralhEMVV4ektaX0J5NEtD0gFoQVVfeXFMT3NDRklTelUxdTRTODFJREh3enh6SzJGRGI2ZFdMblB4U21VREs4WDRDZnRyck9jUVcwT0FIWmpRSVBJQ3ZoazFMN3psSVV3cXk3MG01WjNPd2tqWEQxVXh6S1pfQnk0S0M?oc=5",
+     "summary": "8월 테라스 붕괴 사고가 발생한 송도 럭스오션SK뷰(1114가구) 비대위가 박찬대 인천시장·김종철 인천경제청장을 면담해 피해 복구와 단지 가치 회복을 위한 행정 지원(규제 완화·인허가 간소화)을 요청했다. 입주민은 시공사 SK에코플랜트에 단순 원상복구를 넘어 커뮤니티시설 증축·외관 고급화 등 종합 개선과 정밀진단·재시공을 요구하고 있다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-12 19:20",
+     "source": "국제신문",
+     "title": "PF ‘돈맥경화’…해운대 옛 홈플·세가사미 개발 잇단 좌초",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWlIVUpLY2w1OUIzZDl1b01xNmN6d1RTZ193OGV3cFpNV3NZdjJGSHFNcUVSR2llTy1YbUxNaVJCbWNtVzM0TWU0ZHZiQ21OR1Bxa0xTSnN5bGhQRUtHMVJXYTFDaENwZE1ZamJQY2p1cHdVUmtOSndaVkNWR2QxNFQ5V0tqVjlRVHRxbE5R?oc=5",
+     "summary": "부산 해운대 옛 홈플러스 해운대점 부지와 세가사미 부지 개발이 본PF 전환 실패와 지방 오피스 침체로 잇따라 좌초했다는 지역 PF 경색 보도다. SK에코플랜트는 해운대마린원PFV 브릿지론 6500억원을 전액 대위변제한 뒤 6차 공매에서 감정가(5057억원)의 63% 수준인 3200억원에 부지를 단독 낙찰받아 사실상 셀프 인수했다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-12 08:41",
+     "source": "ISSUE ON (이슈온)",
+     "title": "이달 마감 오픈이노베이션 공모 5건…PoC 지원금·IP 귀속부터 따져야",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84YXd2TklsNlIyeWN3dVljOFNhMnluR2VyVVZPS1V4ZGxLOFhJR0ItOVRUNlA4SnNBNVBMc0ZpSzNNT1NqdDMwRElQRTBtVENsSTFQeWhreWVhRmxGNUlDTF8wZ1NVVU9aN0pN?oc=5",
+     "summary": "10월 마감 오픈이노베이션 공모 5건 소개 기사로, 서울창업센터 관악이 SK에코플랜트와 공동기술개발·PoC를 추진할 스타트업 2개사를 모집한다(기업당 PoC 지원금 최대 1000만원). 서류평가 12~14일, 19일 SK에코플랜트 1대1 밋업, PoC는 10월 말~12월 초 진행이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-12 07:30",
    "label": "10-12 07시",
