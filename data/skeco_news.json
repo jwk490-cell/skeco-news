@@ -1,8 +1,34 @@
 {
- "updated": "2026-10-13 07:30",
- "last_check": "2026-10-13 07:30",
- "last_new": 4,
+ "updated": "2026-10-14 07:30",
+ "last_check": "2026-10-14 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-10-14 07:30",
+   "label": "10-14 07시",
+   "digest": [
+    "**AI 데이터센터가 SK에코플랜트의 성장 축으로 전면화** — 반도체 EPC 레퍼런스와 AI DC 사업단 통합 조직을 묶어 '설계+시공 통합 수행력'을 핵심 차별점으로 제시, SK그룹 15GW 구축 계획이 내부 물량 기반으로 작동.",
+    "**지자체 상생 요구가 발주 조건으로 확장** — 충북도 민·관 간담회에서 SK에코플랜트와의 협력 MOU가 안건화되며, 지역 데이터센터·인프라 프로젝트 수주 시 지역업체 하도급 참여 압력이 구조화되는 흐름."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-13 16:47",
+     "source": "국민일보",
+     "title": "SK에코플랜트, 반도체·데이터센터 경험 앞세워 AI 인프라 시장 공략",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxV1V4MTkzOGhoenhSOWV3ME1tTjA3UGF0Wl9aUVFDcThmY1V0SWxnR3NpQ2xNeGVRbG91X05EeHB3S1JENVY5YVBvRTVBWmVydmlGR2gyQXZKcjZjNTdPdmtINExNakVDRVBMctIBbEFVX3lxTFBxV1V4MTkzOGhoenhSOWV3ME1tTjA3UGF0Wl9aUVFDcThmY1V0SWxnR3NpQ2xNeGVRbG91X05EeHB3S1JENVY5YVBvRTVBWmVydmlGR2gyQXZKcjZjNTdPdmtINExNakVDRVBMcg?oc=5",
+     "summary": "SK에코플랜트가 반도체 제조시설·대형 데이터센터 구축 경험을 토대로 설계부터 시공까지 아우르는 통합 수행 역량을 앞세워 AI 데이터센터 시장 공략에 나섰다. 최근 AI DC 사업단으로 설계·건설·기술·사업 조직을 통합해 전력·냉각 설계와 MEP 역량을 핵심 경쟁력으로 내세웠으며, SK그룹의 전국 15GW AI 데이터센터 구축 계획이 수주 기반으로 거론된다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-13 08:11",
+     "source": "타임뉴스",
+     "title": "“외지 업체 위주 발주 관성 과감히 타치, 지역 건설업계 상생·체질 개선 백본망 수혈… 충북도, 민·관 합동 간담회 전격 개최”",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04Q2w2c0xnVk5lQmdvMlcyRnBXTTFCVHRldHdia0RJcjdsNGxKRzVKdEtfOERhcTFxdmtWOHd6TjdyMTRwMUlEQ0dYekdmU1ViQjlNYg?oc=5",
+     "summary": "충북도가 10월 12일 11개 시·군과 지역 건설업계 관계자 약 40명이 참여한 민·관 합동 간담회를 열고 외지 업체 위주 발주 관행 개선과 지역업체 입찰·하도급 참여 확대를 논의했다. 안건에 '충북도-SK에코플랜트 협력 MOU'가 포함돼, 도내 SK에코플랜트 발주 공사에 지역 건설사 참여를 늘리는 상생 협력 틀이 테이블에 올랐다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-13 07:30",
    "label": "10-13 07시",
