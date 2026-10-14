@@ -1,8 +1,57 @@
 {
- "updated": "2026-10-14 07:30",
- "last_check": "2026-10-14 07:30",
- "last_new": 2,
+ "updated": "2026-10-15 07:30",
+ "last_check": "2026-10-15 07:30",
+ "last_new": 5,
  "checks": [
+  {
+   "ts": "2026-10-15 07:30",
+   "label": "10-15 07시",
+   "digest": [
+    "이번 배치는 SK에코플랜트와 실질적 관련이 있는 기사가 없습니다(타사 해외공사 미수금, 건설협회 행사, 은행 외화채 발행, 식품 담합 조사, 부동산 분양 등)."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-14 19:17",
+     "source": "토요경제",
+     "title": "공정위, 가공식품 6개 식품군 가격 담합 의혹 조사 착수",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzaHhONF9nSl9sNndHUTg2b2xqOUFjMUZENDc2ZnNaR2ZUcnhqdldma1ktT1BKTXRJcVJIQTQtN1FnVDVLNVprSmZBMnlfTVBxZUIwaEE1S1RVeVdDZUVIZ9IBb0FVX3lxTE43ZGdXNnpVWUpJdUxTTHhqXzY5V2ladWpSb2xhcjRGMzZJUkMtSUdQVklIM3FyLUVWaG9mU09jWUkzWmxFUVRVeHpSaE03QllYNW9melFsenJGTXM0eXAzN0xyR0Z5RGN2MXZlN0pkUQ?oc=5",
+     "summary": "",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-14 14:11",
+     "source": "토요경제",
+     "title": "하나은행, 6억 달러 선순위채 발행…조달금리 낮춰",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JZ0F5NmJqeXZNLTJjdkFJVklZY25tWHVySXQ2Uy1icTQ0c0pieXphUVBOeWJ1NThRaWhLcHVtTGxVZ05nVHhjMGdoajY5Ti1RdjcydjVSV1VzUERVZzhQbtIBb0FVX3lxTFAxTlVQX2kwamdlNnBna1dfdE9TcTYyRlNFYXVlNGJyZXBQeUZ0UnpHMlpoNTNBSTRSaWRWQkgzOVlQTkxIMy1JZFNFTjlxZ2U0R1FhTXhJc0Mxd0xPS01QM2VZeWNqVENtRThiZkpBNA?oc=5",
+     "summary": "",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-14 10:24",
+     "source": "한국건설신문",
+     "title": "건설협회, 연세대서 ‘미래 건설인 타운홀 미팅’ 개최",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpZmFPbk9CWHRmanhteDM5dTh1RjJQT2Q1cUNJUFlJYlNxRndYbHhGWVVHSWNQYXFuME1oZEkzSEYwMzlXMm94SG00Ql9zWmVEMWpqUTFhdzBhazBXY1J1TnQyMmtrTEJXekhZ?oc=5",
+     "summary": "",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-14 10:04",
+     "source": "부산일보",
+     "title": "[속보]현대ENG 믿고 해외 공사…중소기업 1년째 100억 못 받아 폐업위기",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZU3BUdzI3TzRQZ3lGdTZlQXNqRkhTd1V1cmpDSFhEaFNOTzc3VDg0TlpTWExrSHNlbjRsRWVhdTY0dGhZUl93Q0ZpamRMM2pSTkstaTh3OW1sRTFzWUZMN296eF95bXdDZFRQVGU4RjJDcjctZEFFaGdsMDM?oc=5",
+     "summary": "",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-14 08:03",
+     "source": "홈두부",
+     "title": "드파인 아르티아 줍줍 3차 (’26. 10/16)",
+     "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE96VU5hLWpiY2s2OU8yaTdNUlNqRmxSb0JvczNxZFA1MVlya2lDN2t3a2tuMER1c0dQeV83bzJUTlU?oc=5",
+     "summary": "",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-14 07:30",
    "label": "10-14 07시",
