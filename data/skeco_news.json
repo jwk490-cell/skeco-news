@@ -1,8 +1,51 @@
 {
- "updated": "2026-10-15 07:30",
- "last_check": "2026-10-15 07:30",
- "last_new": 5,
+ "updated": "2026-10-16 07:30",
+ "last_check": "2026-10-16 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-10-16 07:30",
+   "label": "10-16 07시",
+   "digest": [
+    "**국감 증인 채택**으로 SK오션플랜트 매각이 공개 검증 무대에 올랐다 — 매각 구조·조건에 대한 외부 압력이 커질 국면.",
+    "**웨스팅하우스 투자 검토**는 SK그룹 차원의 원전·전력 밸류체인 진입 시그널로, 체코 원전 현금흐름(분배금 78%)이 경제성 판단의 핵심 변수.",
+    "주택 브랜드 **'드파인'의 수주 존재감 부진**이 김영식 대표 체제의 과제로 반복 지적되는 흐름."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-15 18:31",
+     "source": "Chosunbiz",
+     "title": "[단독] SK에코플랜트 대표, 국감 증인 채택… 오션플랜트 매각 쟁점 - 조선비즈",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQm53eTdVQm82SEo3cWd3a3NBTERmOHY1TVhyclNPdndRVUV5Nnhrd0hxVlpxS1p6ckNhcVd2Mm5JbWxXaFgxRm5lWFdTaGNnYkJURE9NR3plZm5rOExMYm1XRHQxejk4UlhJTjZMc2hzRVJKLU9xRzFjVm41c002SFNBU3FQU1NKQVExTGhTSl81UVo5QktYOdIBrAFBVV95cUxOejdiaE1VMExKeTJ3TGtOWUZTRk5iSkJwd09jVnQtSFpQNEpzMnFmS01aM1RLSTNqU0FRU2ZUUkxuU0duOVBvQy1XaHJiS2hNNTBLZmdKWHE3dU1vR2VRWjhnUmtQNjVtUXNkeFRUV1kzWHExOGxqaHNad3VqV05RSmYxVmlXdXRTQjR0UGc5LUtka0FtLVUzU3lHaTdWWkQyNzNoTDVuOVJ0NDVm?oc=5",
+     "summary": "SK에코플랜트 대표가 국회 국정감사 증인으로 채택됐으며, SK오션플랜트 매각이 핵심 쟁점으로 다뤄질 전망이다. 매각 추진 과정과 고용·지역경제 영향 등이 질의 대상이 될 가능성이 크다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-15 16:08",
+     "source": "시사저널e",
+     "title": "'반도체 넘어 전력까지'···SK, 원전 투자로 AI 밸류체인 확장 모색",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ibnJwMk1ab2xSX0JvMmRLaXU2Wlg1UUdyQ05vcEx3dHpzMUhWdEc0T2NKR2NzVG5qTlhlWXc1Y1BTamVvalJjWFdvaVJXYTNiZmNudGRZRzV4cm5oOFlqTjZiU2xhdWxBZHZNX0hSaUZqUdIBdkFVX3lxTE5ZZ2VhaDJMLS1oVXhJbTVTRXNIRDdtS3g1SzZpcWhwN0VsendFdFJDaEs5cHIxallwaWFpTjJXdmFBT05FcWRiVm91UFJycThvMklBa2VhYmFXamtYb01TbnU3blo1Q1RnMnJzWWdJZnFNT3VCckE?oc=5",
+     "summary": "SK그룹이 웨스팅하우스 지분 투자를 검토하며 반도체를 넘어 전력·원전까지 AI 밸류체인 확장을 모색하고 있다는 보도다. 기존 주주 현금 분배금의 78%가 체코 원전 관련 몫으로, 투자 경제성 판단의 핵심 변수로 지목됐다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-10-15 16:32",
+     "source": "더팩트",
+     "title": "치열한 수주 속 존재감 미미한 '드파인'…SK에코플랜트 김영식號 '과제 산적'",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43dzhxV0VPS21scWtMWUdrRTB2Ri11T0E3VWh3a3NXemVwcHhCWVZfNEhuUDYyUkdqV0RVVWxCejRKbEVfelkzYUlQYUdYNENrOXRHZHVHMnV4QdIBVEFVX3lxTE9HY2NCZ3UwQ1pNVjA5N3c2QVJ2NlFra0J5T2haZF9UckRLNEprUmhfZlI2ZFFBVkg3X2tiajZaOWt1RjlmSk1CRDFUOHZaTlZ4VGFHQg?oc=5",
+     "summary": "주택 브랜드 '드파인'이 치열한 수주 경쟁 속에서 존재감을 확보하지 못하고 있다는 지적으로, 김영식 대표 체제의 과제로 거론됐다. 비건설 부문 재편과 별개로 주택 브랜드 경쟁력 회복이 숙제로 남았다는 평가다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-15 11:14",
+     "source": "메트로신문",
+     "title": "[아파트의 미학(美學)] 드파인 광안 \"광안리 물결 담은 역세권 대단지\"",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlX0tYaWthcUk1YlhCZFl3bWt3NUFKdGM1SWt1YjZVR1o5MFAzV09SSnBLc1RMRkc5MkdUVDZSNFB3OVE2QzQ4UnRMY19SS0pHT1ViMW5CQTJSWU53N1QzXw?oc=5",
+     "summary": "부산 광안리 역세권 대단지 '드파인 광안'의 설계·입지 특징을 소개한 브랜드 기획 기사다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-15 07:30",
    "label": "10-15 07시",
