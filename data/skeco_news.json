@@ -1,8 +1,43 @@
 {
- "updated": "2026-10-16 07:30",
- "last_check": "2026-10-16 07:30",
- "last_new": 4,
+ "updated": "2026-10-17 07:30",
+ "last_check": "2026-10-17 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-10-17 07:30",
+   "label": "10-17 07시",
+   "digest": [
+    "이번 배치는 **기사 46건 중 40건 이상이 동일한 'CE100 기부물품 3만건' 보도자료 확산**으로, 실질적 신규 정보는 ESG 홍보 1건에 집중",
+    "같은 날 **교량 붕괴 수사·영업정지 재판 장기 지연**과 **대표 자택 앞 집회 확산**이 함께 보도되어, 홍보 기사 뒤편에 안전·노무 리스크 이슈가 병존",
+    "수주·실적·산업가스·반도체 인프라 등 **본업 관련 신규 뉴스는 이 구간에 없음**"
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-16 16:32",
+     "source": "시사저널e",
+     "title": "SK에코플랜트 교량 붕괴 2년 5개월···수사도 영업정지 재판도 지지부진",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zUzFtTEJaSnBlMnpSSUZ6OWZac01CSjFBWnVHSG1vY29OM204QllMcW1uM3htbElFem41T2Z0TUxSc1l4UXlNOVE2LXkxTTJvY2I5alNYTDUxRHVRSnNGcUtkV1pjTGJuN3BfYlk0cTI2c3BUY1HSAXZBVV95cUxOc1MxbUxCWkpwZTJ6UklGejlmWnNNQkoxQVp1R0htb2NvTjNtOEJZTHFtbjN4bWxJRXpuNU9mdE1MUnNZeFF5TTlRNi15MU0yb2NiOWpTWEw1MUR1UUpzRnFLZFdaY0xibjdwX2JZNHEyNnNwVGNR?oc=5",
+     "summary": "2024년 발생한 SK에코플랜트 시공 현장 교량 붕괴 사고가 2년 5개월째 수사와 영업정지 처분 관련 재판 모두 결론이 나지 않은 채 지연되고 있다는 지적이 제기됐다. 사법·행정 제재 리스크가 장기 미결 상태로 남아 있다는 점이 핵심이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-16 13:53",
+     "source": "팝콘뉴스",
+     "title": "SK에코플랜트 대표 집 앞까지 번진 이권 다툼...건설현장 집회, ‘이권쟁의’ 변질 막아야",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zcy1YY0Q3U1FSOTREVDBpSEVBM0VCUW4wVzFBcWtMS05ESW9YSlcyb0VyN3VkdzVCMEw1anlHQ3dhVDBYaHFaN0w5TE85WEZ6akVMWElsSEdla3NPeEhBaTd2SVJKLS1TdVM4NUxB0gFyQVVfeXFMTzRGaEtFSExCRndXWTFDSTNDRmpvUnhIdVdFeWNFRERJeHV3RHRFTXNSMTR6MUs2Q2dpenZyWFU4b1VWMnpJNEVpaHVWN1FFUHJuTE5Lb292bkN5d1BUaV8zN2RDajRDcDlrcmtOSExqX0dn?oc=5",
+     "summary": "건설현장 집회가 노동쟁의를 넘어 '이권쟁의'로 변질되는 양상 속에, SK에코플랜트 대표이사 자택 앞까지 집회가 확산된 사례가 보도됐다. 현장 외부로 번지는 집회 관행에 대한 제도적 대응 필요성을 짚었다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-16 14:56",
+     "source": "서울경제",
+     "title": "안 쓰는 물건 모았더니 ‘3만건’··· SK에코플랜트의 ‘기부 선순환’",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Qd0E0OUpkU3dIeGtiemFqTmcyT0pQci02bllxRGNnSDRHcFNlS0JuX2FpSnV1SHF0V3FWWFU3dFQ1Q0hpRkFXTHRmY1FKMEZoTEHSAVNBVV95cUxPZVVCR2tTVVVtcGMweVRGUFBEUzczOHlNUnZ6c1hJMWd2UzdGdWx4a0tSRzBoZWo2QWZPNl9CSHJNcURrbXhsUEtiejBScFFEMWNzVQ?oc=5",
+     "summary": "SK에코플랜트가 3년째 운영 중인 구성원 참여형 자원순환 캠페인 'CE100'의 누적 기부물품이 3만건(연평균 1만건)을 돌파했다고 밝혔다. 본사·현장 임직원이 모은 안 쓰는 물건을 기부해 재사용·재판매로 연결하고, 수익과 분류 작업을 장애인 일자리·자립 지원에 쓰는 선순환 구조가 골자다.",
+     "more": 38
+    }
+   ]
+  },
   {
    "ts": "2026-10-16 07:30",
    "label": "10-16 07시",
