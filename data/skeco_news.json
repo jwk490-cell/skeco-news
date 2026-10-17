@@ -1,8 +1,25 @@
 {
- "updated": "2026-10-17 07:30",
- "last_check": "2026-10-17 07:30",
- "last_new": 3,
+ "updated": "2026-10-18 07:30",
+ "last_check": "2026-10-18 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-10-18 07:30",
+   "label": "10-18 07시",
+   "digest": [
+    "이번 배치는 **자원순환 캠페인 'CE100' 기부물품 3만건 돌파**라는 ESG 홍보성 단일 건으로, 실적·수주·지배구조 등 펀더멘털 관련 뉴스는 없었다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-17 13:25",
+     "source": "이코노뉴스",
+     "title": "SK에코플랜트, 자원순환 캠페인 기부물품 3만건 돌파...'CE100' 캠페인 운영",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UYVM0Z21sZVk1aFRmOEZjN2cyOWpjZHEzeEFZaGRhUF9QeER1VUlna0NqMHU4WTRzR0dqVWI5Y1dNNW94NnN0QmRTMUpDOHYxbzZWdnJBMnRJdy1sUlY2V1hpWDhVbWJ1Wjdja0R4QQ?oc=5",
+     "summary": "SK에코플랜트가 운영하는 자원순환 캠페인 'CE100'의 기부물품 접수가 누적 3만건을 돌파했다. 폐자원 기부·재활용을 통한 순환경제 활동으로, ESG 브랜딩 성격의 캠페인 성과 발표다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-17 07:30",
    "label": "10-17 07시",
