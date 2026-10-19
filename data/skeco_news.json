@@ -1,8 +1,43 @@
 {
- "updated": "2026-10-19 07:30",
- "last_check": "2026-10-19 07:30",
- "last_new": 0,
+ "updated": "2026-10-20 07:30",
+ "last_check": "2026-10-20 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-10-20 07:30",
+   "label": "10-20 07시",
+   "digest": [
+    "해운대 개발사업 **브릿지론 6500억원 대위변제 후 공매 5차 유찰 → 셀프 인수**로 귀결, 비주력 부동산 PF 익스포저가 현금이 아닌 토지 자산으로 고정됐다는 점이 이번 배치의 최대 이슈",
+    "반대편에서는 **SK테스 ITAD 기반 중고 AI 서버 재활용·클라우드 사업 확대**로 AI 인프라·반도체 생애주기 서비스 중심 포트폴리오 재편이 계속 진행",
+    "주택 부문은 영종국제도시 '영종 SK 뷰' 특별공급 등 분양 일정 소화 수준으로, 단순 건설업계 브리핑 나열 기사는 제외"
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-19 13:50",
+     "source": "땅집고",
+     "title": "부산 53층 랜드마크 접은 SK에코플랜트, 6500억 물어주고 해운대 땅 확보",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPZDdfS0JsRkVDdjdlcEJkVFdENUItUEt1Z2pRY0UyZk9tQWlDVkVtWWIwc3lxMHZ1cnVGUGJiTnpzcmszVU5tUjJNNTB1S1laaF96bkxwbFRwR0NkRjlpM3VSMS0yUE9RNE1PVUYzRENuU1nSAXNBVV95cUxQT2Q3X0tCbEZFQ3Y3ZXBCZFRXRDVCLVBLdWdqUWNFMmZPbUFpQ1ZFbVliMHN5cTB2dXJ1RlBiYk56c3JrM1VObVIyTTUwdUtZWmhfem5McGxUcEdDZEY5aTN1UjEtMlBPUTRNT1VGM0RDblNZ?oc=5",
+     "summary": "SK에코플랜트가 부산 해운대 옛 홈플러스 부지에 지하 8층~지상 53층 2개동을 짓는 개발사업이 본PF 전환에 실패하자 브릿지론 6500억원을 전액 대위변제했고, 회수를 위해 부친 공매가 5차례 유찰된 끝에 직접 매수자로 나서 부지를 '셀프 인수'하게 됐다. 해운대해수욕장 인접 알짜 입지지만 6500억원 규모의 자금이 부동산 자산으로 묶이는 구조다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-20 06:10",
+     "source": "소비자가 만드는 신문",
+     "title": "SK에코플랜트, IT 자산 재활용 사업 확대...日서 AI 서버 매입해 클라우드 인프라로 활용",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fbnFibXM0UElOODZGYXVUOWZoNXVsSFU0UnFUeWxDOG93S09TX0tLM2NBckpJZTRHUkJKTFFlcnp5aVctTmVzOGhGcGNLYjFXZlBTOE5makU1dTJ1aVY0SzdBZFJfZl9JNkItYWN4RmlCQlU?oc=5",
+     "summary": "SK에코플랜트가 자회사 SK테스를 통해 IT자산처분(ITAD) 사업을 확대하며, 일본에서 사용 연수가 지난 중고 AI 서버를 매입해 잔존가치를 산정한 뒤 클라우드 인프라로 재활용하는 사업을 추진한다. 환경사업 축소 후 AI 인프라·반도체 생애주기 서비스로 사업 포트폴리오를 재편하는 흐름의 일환이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-20 07:05",
+     "source": "문화일보",
+     "title": "SK에코플랜트, 영종국제도시에 ‘영종 SK 뷰’ 특공",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01NklodmNGUmxMWTRfcEZtZURvOEk5YTdEallVUVZDY0VPZGNmcHVHNnQ4d3VTWEN6cVZ3SmZjV0MyMVFyN2dsVXQtOVNwQzNH?oc=5",
+     "summary": "SK에코플랜트가 인천 영종국제도시에서 주거 브랜드 아파트 '영종 SK 뷰' 특별공급을 진행한다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-18 07:30",
    "label": "10-18 07시",
