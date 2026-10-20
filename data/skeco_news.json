@@ -1,8 +1,51 @@
 {
- "updated": "2026-10-20 07:30",
- "last_check": "2026-10-20 07:30",
- "last_new": 3,
+ "updated": "2026-10-21 07:30",
+ "last_check": "2026-10-21 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-10-21 07:30",
+   "label": "10-21 07시",
+   "digest": [
+    "**중복상장 가이드라인**이 이번 배치의 최대 변수 — 솔리다임 상장 논란의 여파가 SK㈜ 자회사인 SK에코플랜트 IPO 시나리오로 번지며, 회사는 공식적으로 '세부사항 검토 중'이라는 신중한 톤을 유지",
+    "송도 럭스오션SK뷰 **100여 세대 집단 침수**가 테라스 붕괴에 이어 보도되며 '총체적 부실' 프레임이 형성 — 건축·주택 부문 하자 리스크가 반복 노출되는 국면",
+    "회사 발신 메시지는 **'시공사 → AI 인프라 솔루션'** 체질 전환에 집중(POWER COMPANY 기획)되어, 사업 포지셔닝 홍보와 품질 논란·상장 불확실성이 동시에 노출된 하루"
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-21 06:00",
+     "source": "아시아투데이",
+     "title": "솔리다임發 유탄 맞은 SK에코플랜트 “중복상장 가이드라인 세부사항 검토 中”",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55RFYwcEN4c2dZUllxZnFmR3pkN216dnA3TV9DSkVPNDRIcm9KMWR6RXRndzVjM1JocnphMS04QlVEcnVSUFpsTXhmRE9rMVljY3A4R1MwYjN4UC1YQ2FRekhuc0oyZFpaaDNPb3ln?oc=5",
+     "summary": "SK하이닉스 자회사 솔리다임 상장 추진으로 불붙은 '중복상장' 논란의 유탄이 SK에코플랜트로 번졌다는 보도로, 회사는 금융당국의 중복상장 가이드라인 세부사항을 검토 중이라는 입장을 밝혔다. SK㈜ 자회사인 만큼 IPO 일정·구조에 변수가 될 수 있는 사안이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-20 16:06",
+     "source": "더퍼블릭",
+     "title": "SK에코플랜트 신축 아파트 ‘총체적 부실’ 논란…테라스 붕괴 이어 100여 세대 침수",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xdlZhUkMzRnBvY3hGWUVRbzNYVF9TRkJCUERfM0M2b0FYV0g2ZjVDLWRZTGdDaWRmcUJzM3VBd0pBeGEwcXdKWFZaNFZwS253WWFwU04tZnBvX3ZrQkZRSmVCdXVJeFFzajBV0gFvQVVfeXFMTk9KQ0VueGxsZ3loS2N0d04wMzVUVnd0TWVOMGloalJ2VmMtWUxrSjZaSzE0eGhvQjFkak1xUl9XMnY5OElBMFRSckVyd1hmZW10UEV6U293WWZnS2lrV3lKNzZoU3pZeE44NjMxdkhj?oc=5",
+     "summary": "인천 송도 '럭스오션SK뷰'에서 입주민이 창문을 모두 닫은 상태였음에도 100여 세대가 집단 침수되는 피해가 발생해, 앞서 불거진 테라스 붕괴에 이어 '총체적 부실' 논란이 확대됐다. 주택 브랜드 품질·하자 리스크가 연속 이슈화되는 흐름이다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-10-20 18:31",
+     "source": "www.dt.co.kr",
+     "title": "\"단순 시공 넘어 AI 인프라 솔루션으로\"… SK에코플랜트의 체질 전환 [POWER COMPANY]",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnQ2NYSUZRa3hLSmU3THZlRUVuamVOREg2Q21nNkp3dzlqY3B1NlhjNVRSRmdfZ1ZnNVNEZGJjWjlGaHhjdWE1LXFISkhJZw?oc=5",
+     "summary": "디지털타임스 POWER COMPANY 기획에서 SK에코플랜트를 단순 시공사에서 'AI 인프라 솔루션' 기업으로 체질 전환하는 사례로 조명했다. 반도체·데이터센터 등 AI 인프라 밸류체인 확장이 회사의 핵심 전략 메시지로 제시됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-20 09:01",
+     "source": "아시아경제",
+     "title": "분당서울대병원-SK에코플랜트, 베트남 얼굴기형 어린이 무료 수술",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VQlNBSXM0ckxteUF5S3IzbkFvZmNFRWtNQlZiSzZtTlVFcjJ3bVlCeTNSLUFjTlNjWlBvV21faU9JUnVtaGVabkJQNHRMdWE4QVVRZGxRNHktb1MtMFFiMg?oc=5",
+     "summary": "분당서울대병원·세민얼굴기형돕기회·SK에코플랜트가 28회째 베트남 얼굴기형 어린이 무료 수술 의료봉사를 진행했다고 발표했다. SK에코플랜트는 후원사로 참여한 사회공헌 활동이다.",
+     "more": 4
+    }
+   ]
+  },
   {
    "ts": "2026-10-20 07:30",
    "label": "10-20 07시",
