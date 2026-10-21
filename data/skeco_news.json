@@ -1,8 +1,59 @@
 {
- "updated": "2026-10-21 07:30",
- "last_check": "2026-10-21 07:30",
- "last_new": 4,
+ "updated": "2026-10-22 07:30",
+ "last_check": "2026-10-22 07:30",
+ "last_new": 5,
  "checks": [
+  {
+   "ts": "2026-10-22 07:30",
+   "label": "10-22 07시",
+   "digest": [
+    "**AIDC가 수주와 조직을 동시에 움직이는 축** — SK하이퍼와의 120억원 데이터센터·기반시설 계약(계열 수의계약)과 건설산업대상의 AIDC 전과정 공법 평가가 같은 배치에 나왔다.",
+    "**12월 SK에코엔지니어링 흡수합병이 실행 단계** — 가산 설계센터·영등포 통합 본사로의 1000명 이상 재배치, SK하이퍼 변전시설 계약 분담 모두 합병 후 AIDC 일괄 수행 체제를 전제로 한 움직임이다.",
+    "**반면 주택·정비 부문은 약세** — 재건축 대어 장에서 수주 비중 4%대로, 인프라·AIDC 쏠림과 대비된다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-21 15:35",
+     "source": "네이트뷰",
+     "title": "부지 확보에 용역계약까지…SK하이퍼 AIDC ‘속도전’",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxV3B1RGtPY3dfcHZEb1hvMHpDR2VjVjBnUzdwaXVGYUc4UVpGTndRa1p6Tkx3N0x3aHpnUXhZOEI0cXVfOWM3M2thOWtYa1RT0gFWQVVfeXFMT0tlWVBLVGhUYXMxSkRuSThEUVg2akptWXAxQzBjeFBicEkyOUJGbU5fbEwtX2hwbDY0R0JydFlBemFESzVWcF9wcGo3U1ZXUW1ua1ItVGc?oc=5",
+     "summary": "SKT의 AIDC 전담 자회사 SK하이퍼가 설립 100일도 안 돼 SK에코플랜트와 데이터센터·기반시설 구축 120억원 규모 계약, SK에코엔지니어링과 변전시설 구축 35억원 규모 계약을 수의계약으로 체결했다. 앞서 8월 SK지오센트릭으로부터 울산 남구 산업시설용지를 1034억원에 넘겨받아 부지도 확보, 고객 확보 즉시 착공할 수 있는 준비 단계에 들어갔다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-21 15:30",
+     "source": "딜사이트",
+     "title": "SK에코플랜트, 설계는 가산·본사는 영등포로 분리",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13Xy1fQnYxaEludENVN1VBeTd1RGVZcTdYNlVqZE14QXBFcHN4U1EydHJMdWZRQS1mQ015aVFLNDlwWnBYTzkzRVJWZU1lZms?oc=5",
+     "summary": "SK에코플랜트가 SK에코엔지니어링 흡수합병(12월 예정)에 맞춰 설계 조직은 가산 3차 SK V1 설계센터로(내년 상반기), 본사는 영등포구 양평동4가로(내년 하반기) 분리 재배치하며 1000명 이상이 이동한다. SK에코엔지니어링도 동일 빌딩에 입주해 통합 사옥을 운영한다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-21 08:06",
+     "source": "서울경제",
+     "title": "[한국건설부동산산업대상] SK에코플랜트, 가상설계·IoT 기반 시공…AIDC 전과정 최적 공법",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZQlQzaERmLUY0SFhHcndwMU9vb2RfTkFjSHFXQ0dlOFotUEE4YlZoZ1UwYXpRUDlWbzc3OEhBdkU3LW9RblhFM3c5eWZhQTNabWfSAVNBVV95cUxPUTlISDVjNXBaZi1EM1NGLS1PVGpWdURxaEFXUnN1UzNQSllEVjlHT3kwWmtpMTlMaWJCMzZOOVZjeUZvV2laTk16WWhUQ0FIeGYyTQ?oc=5",
+     "summary": "SK에코플랜트가 한국건설부동산산업대상을 수상했으며, 가상설계(BIM)·IoT 기반 시공 기술로 AI 데이터센터 설계부터 시공까지 전 과정에 최적 공법을 적용하는 역량이 평가 근거로 제시됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-21 10:51",
+     "source": "메가경제",
+     "title": "재건축 ′대어′ 쏟아져도…DL이앤씨·SK에코플랜트 수주 비중 4%대",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDRDdrek00OVRYdTUxakU5T2RSLV92aF95WXJTV3dIa2xqNl8wYm5DTzBSTnNxWEtnZ0RUcG05S243LU1ZWkh0VVRRaFhFVVd6Y3p6NWtDbl9FTXhacWc3blNVbEdSS05UUlJCUk82bjJvQdIBckFVX3lxTFBDRDdrek00OVRYdTUxakU5T2RSLV92aF95WXJTV3dIa2xqNl8wYm5DTzBSTnNxWEtnZ0RUcG05S243LU1ZWkh0VVRRaFhFVVd6Y3p6NWtDbl9FTXhacWc3blNVbEdSS05UUlJCUk82bjJvQQ?oc=5",
+     "summary": "올해 재건축 대형 사업지가 쏟아졌지만 DL이앤씨와 SK에코플랜트의 수주 비중은 4%대에 머물렀다는 분석으로, 주택·정비사업에서의 수주 점유율 열위를 지적했다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-21 11:35",
+     "source": "프리스탁뉴스",
+     "title": "[종목추세] SK에코플랜트, 5거래일 연속 상승…5만4400원",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UMFFqd1pDRXdrMHE0c1pFU2FITWFfbDlfOS1GeTZmRnluQ1hIdm9FZnpKclNRYTQ0UDNhX2UtUFl6d21iOTlzZVAzWm84YVFrVmZ0dTNWNWhPUFhyTGxTYUpEa24xalNCZ0xzNWFLYw?oc=5",
+     "summary": "비상장 SK에코플랜트 장외 주가가 5거래일 연속 상승해 5만4400원을 기록했다는 시세 추세 기사다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-21 07:30",
    "label": "10-21 07시",
