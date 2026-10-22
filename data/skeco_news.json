@@ -1,8 +1,43 @@
 {
- "updated": "2026-10-22 07:30",
- "last_check": "2026-10-22 07:30",
- "last_new": 5,
+ "updated": "2026-10-23 07:30",
+ "last_check": "2026-10-23 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-10-23 07:30",
+   "label": "10-23 07시",
+   "digest": [
+    "이번 배치의 중심은 **송도 아파트 테라스 붕괴·침수 하자**로, 입주민 본사 앞 1인 시위가 시작되며 갈등이 **대외 노출 국면**으로 전환됐다.",
+    "개별 현장 하자가 아니라 **부실시공 논란 자체가 브랜드·수주 리스크**로 거론되기 시작해, 시공 품질관리 체계가 정비사업 수주와 함께 핵심 과제로 제시됐다.",
+    "같은 기간 용인 백암초 **AI 스마트횡단보도 사회공헌**이 보도됐으나, 하자 이슈 대비 논조 비중은 제한적이다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-22 16:26",
+     "source": "인천투데이",
+     "title": "‘테라스 붕괴·빗물 침수’ 송도 아파트 주민 ‘뿔났다’··· 시공사 앞 1인 시위",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhTWRBZWR3TjVDeVhzdUtPM0ZaTWZvMUhzam9adzkyTndKZi15bG84Z1ZqU092V0l1d1ppRTNUY25nT09FSF9xOWJ1eEg3aEpjMXdwcGxDTGNaUEZoSVJnSHRQX3VRQmFlQTBhUXhZSDE?oc=5",
+     "summary": "인천 송도 아파트 입주민들이 테라스 붕괴와 빗물 침수 등 하자를 문제 삼아 시공사인 SK에코플랜트 본사 앞에서 1인 시위에 돌입했다. 입주민들은 시공사의 하자 보수 대응이 미흡하다며 책임 있는 조치를 요구하고 있다.",
+     "more": 2
+    },
+    {
+     "ts": "2026-10-22 08:31",
+     "source": "스포츠조선",
+     "title": "SK에코플랜트, 부실시공 논란은 현재 진행형…시공 품질관리·정비사업 수주 등 과제",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05eFhFbzBlTm9HYUVYdVZZUm5DUmpTVXgtaXNHbTRsY3VsQk1iRjF1dHhLRzFkbVFEcUJXdEZSWV82UEk5Z2lVVEloZ0pabDBoS2ZsM3VDSG5rUmVGM3RNUzI0TUxtQUpNVzk1eEhVemxsNERyUkRHcg?oc=5",
+     "summary": "SK에코플랜트의 부실시공 논란이 계속 이어지고 있다는 진단 기사로, 시공 품질관리 체계 강화와 정비사업 수주 확대가 당면 과제로 지목됐다. 반복되는 하자 이슈가 주택·건축 부문 수주 경쟁력에 부담이 될 수 있다는 지적이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-23 06:10",
+     "source": "미디어모현",
+     "title": "백암초등학교에 'AI 스마트횡단보도' 조성",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ONDhVam9kRmtmOWs5bmhPVU4zcHc4YkFfYmxyRmVMQWR0ekNPVzNqakl1WVFDcXJJMWpHX3d6cjE3cjZMeFM5TkNQM1ZsWWNHNHBpY2FxRkhMb0h3aU5lYko4QzJ4SXBIaUVj?oc=5",
+     "summary": "SK에코플랜트가 사회공헌사업으로 경기 용인 백암초등학교에 AI 스마트횡단보도를 조성했다. 보행자 감지·경고 시스템을 통해 어린이 교통안전을 강화하는 지역 상생 사업이다.",
+     "more": 1
+    }
+   ]
+  },
   {
    "ts": "2026-10-22 07:30",
    "label": "10-22 07시",
