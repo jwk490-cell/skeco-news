@@ -1,8 +1,51 @@
 {
- "updated": "2026-10-23 07:30",
- "last_check": "2026-10-23 07:30",
- "last_new": 3,
+ "updated": "2026-10-24 07:30",
+ "last_check": "2026-10-24 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-10-24 07:30",
+   "label": "10-24 07시",
+   "digest": [
+    "이번 배치는 기사 수의 대부분(47건)이 **용인 백암초 AI 스마트 횡단보도** 사회공헌 보도자료 확산분으로, 실질 뉴스는 AI 데이터센터·하자 분쟁·자회사 이슈 3건에 집중된다.",
+    "사업 측면 핵심은 **반도체 EPC 역량의 AI 데이터센터 전환** — 'AI DC 사업단' 중심의 설계~시공 통합 수행과 15GW 파이프라인이 성장 스토리의 축으로 제시됐다.",
+    "반대편에는 **송도 럭스오션SK뷰 테라스 붕괴·침수에 따른 본사 앞 시위**와 SK오션플랜트 투자·고용 약속 이행 요구가 있어, 시공 품질·지역사회 리스크가 병존한다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-23 09:00",
+     "source": "매일경제",
+     "title": "SK에코플랜트, 반도체 공장 시공 기술로 AI 데이터센터 시장 공략",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DTXA4QkRsdk9lYmdkdTByTzBVdWtvNGp5UUVrdGVfLVNMUlZjVVNGYkhxQk04elktLXd5VEdhQU1uYkFyRjJsLTl0b2ZRTHlzOGktWDA1MVU?oc=5",
+     "summary": "SK에코플랜트가 반도체 공장 시공에서 쌓은 전기·기계·배관(MEP) 및 설계~시공 통합 수행 역량을 앞세워 AI 데이터센터 시장 공략에 나섰다고 밝혔다. 지난 8월 신설한 'AI DC 사업단'을 축으로 AWS 울산 프로젝트를 포함해 전국 주요 거점에 총 15GW 규모 AI DC 구축을 추진 중이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-23 10:09",
+     "source": "쓰담미디어",
+     "title": "“테라스 무너지고, 집 안엔 빗물까지”…송도 럭스오션SK뷰 주민들, SK에코플랜트 본사 앞에 섰다",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5acmctZjRfaXBsVUUweThvem4yMm9tQlplLUFSWUZpWUhPVzR4ZUJwcXhFOFNGWVVoakRlZERpZHhndzZyV1RnNG9jT09MdWZwWndXTU1EX1dMNmhjNy14dHVsTnhJQWc?oc=5",
+     "summary": "인천 송도 럭스오션SK뷰 입주민들이 외벽 테라스 붕괴(8월 7일)와 100여 세대 빗물 침수를 문제 삼아 시공사인 SK에코플랜트 본사 앞에서 1인 시위에 돌입했다. 회사는 철근 시공 부족과 접착제 도포 미흡을 사고 원인으로 지목했고, 주민 비상대책위는 인천경제청에 설계변경·구조계산·인허가 전 과정 공개와 자체 감사를 요구하고 있다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-23 10:10",
+     "source": "뉴스1",
+     "title": "아이들 건널 때 신호 자동 연장…SK에코플랜트, AI 횡단보도 조성",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZcmdoRnh3YndXS09CNG9kZUhLNmowUl9BUkNjUGxNd3pfRGJjaHpLcmxqQjQwMDFCT2dESnVUbnMzMFpXUHdicmFIMV9rTEcwNnlOdF9xYjFKRE0?oc=5",
+     "summary": "SK에코플랜트가 사회공헌사업으로 용인특례시 처인구 백암초등학교 어린이보호구역에 'AI 스마트 횡단보도'를 준공했다. AI 영상분석으로 보행자를 감지해 횡단 중인 어린이가 남아 있으면 녹색신호를 자동 연장하며, 옐로카펫 등 보행안전 시설도 함께 조성했다.",
+     "more": 46
+    },
+    {
+     "ts": "2026-10-23 16:22",
+     "source": "통영신문",
+     "title": "정점식 의원 “SK오션플랜트 투자·고용 약속 지켜야”",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQeDA1MEZYbHA4OTR3bHc0MnV5a0pvTHFoLUN0N240NUo3VWVRSGFGV0hZWm5LUU1EZEktVVgzUlRGYkprU1V4R0p2aXlYejJhZHhCTjBxQ1NGOGJmMVBLSkNyTUxSb0FieEFTRTdkX2xjZ0XSAXNBVV95cUxQUHgwNTBGWGxwODk0d2x3NDJ1eWtKb0xxaC1DdDduNDVKN1VlUUhhRldIWVpuS1FNRGRJLVVYM1JURmJKa1NVeEdKdml5WHoyYWR4Qk4wcUNTRjhiZjFQS0pDck1MUm9BYnhBU0U3ZF9sY2dF?oc=5",
+     "summary": "정점식 의원이 SK에코플랜트 자회사 SK오션플랜트를 향해 경남 고성 해상풍력 하부구조물 사업과 관련한 투자·고용 약속을 이행하라고 압박했다. 지역 고용 창출과 투자 집행 지연이 쟁점으로 거론됐다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-23 07:30",
    "label": "10-23 07시",
