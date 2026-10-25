@@ -1,8 +1,25 @@
 {
- "updated": "2026-10-25 07:30",
- "last_check": "2026-10-25 07:30",
- "last_new": 0,
+ "updated": "2026-10-26 07:30",
+ "last_check": "2026-10-26 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-10-26 07:30",
+   "label": "10-26 07시",
+   "digest": [
+    "이번 배치는 **AI 기반 통학로 안전 시스템** 단일 건으로, 사업 실적보다 **ESG·사회공헌 성격의 기술 적용 홍보**에 해당"
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-25 08:42",
+     "source": "신아일보",
+     "title": "아이들 건널 땐 신호 연장…SK에코플랜트, AI로 통학로 안전 강화",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BbUpvZDJPbDhLYlNVT2h0VXQyLWdrOTMxZVN1dU1KSFdoUW5HN2hCekZRd2VRSTBSS0JtZG1XVEx1eENhRGVaRFptQ2lZYzZWRjBlTjd6MFpKVE5OTllIQ3pOaDNjbzZMcWY5UHBCMWM?oc=5",
+     "summary": "SK에코플랜트가 AI 영상분석 기반 보행자 감지 기술로 어린이 통학로 신호를 연장하는 스마트 횡단보도 안전 시스템을 적용해 통학로 안전을 강화했다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-24 07:30",
    "label": "10-24 07시",
