@@ -1,8 +1,51 @@
 {
- "updated": "2026-10-26 07:30",
- "last_check": "2026-10-26 07:30",
- "last_new": 1,
+ "updated": "2026-10-27 07:30",
+ "last_check": "2026-10-27 07:30",
+ "last_new": 4,
  "checks": [
+  {
+   "ts": "2026-10-27 07:30",
+   "label": "10-27 07시",
+   "digest": [
+    "**송도 럭스오션SK뷰 리스크가 이번 배치의 중심축** — 테라스 붕괴에 100여 가구 침수가 겹치며 품질 논란이 커졌고, 국감 증인 채택까지 이어졌다.",
+    "**규제·국회 리스크는 모두 '유예' 상태** — 시흥 교량 붕괴 건 6개월 영업정지는 집행정지로 본안 선고 후까지 미뤄졌고, 장동현 부회장 국감 출석도 철회돼 쟁점이 해소가 아니라 이연됐다.",
+    "**SK오션플랜트 매각(12월 종결 예정)과 고성 지역 협약 이행이 국회 압박의 레버**로 작용한 만큼, 매각 완료 전까지 재점화 소지가 남아 있다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-26 14:27",
+     "source": "FETV",
+     "title": "[2026 국감] 장동현 SK에코플랜트 대표, '출석 철회'된 배경은",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OaUMzQ1NON2tSY29DU0tNaFNuTEEtbXpHZkl1QTJsNlFISUc3NzhRUFhpUy1JbnJiOXRDVkVRMjhWUjMxS0xSdF9Od2VoMG9qUElsU2lCaHVrSmFfN3piOGlCRG5Rc3No?oc=5",
+     "summary": "국회 국토위 국감 증인으로 채택됐던 장동현 SK에코플랜트 부회장의 출석 요구가 철회됐다. 송도 '럭스오션SK뷰' 테라스 붕괴가 증인 채택 사유였으나, SK오션플랜트 매각을 둘러싼 경남 고성 투자·고용 협약 이행(12월 매각 종결 전 담보 대책 마련) 약속이 이뤄지며 출석을 피한 것으로 해석된다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-26 14:01",
+     "source": "메가경제",
+     "title": "영업정지 집행 미뤄진 SK에코플랜트…송도선 테라스 붕괴·침수",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BNkxNNHNRQXhiNjhLMHd1ekR3WFhLNl9jUUpSMWp1RUFyVDZOUjBzVkNySS1TQUM3QWRES2czTnlOTzFDUG9UR0RXTGp1MUhTSWpYQXhfNU9lNHd3UGhDUFEtSXhPbVJVX3QxeE1Rc1FqUdIBckFVX3lxTE9BNkxNNHNRQXhiNjhLMHd1ekR3WFhLNl9jUUpSMWp1RUFyVDZOUjBzVkNySS1TQUM3QWRES2czTnlOTzFDUG9UR0RXTGp1MUhTSWpYQXhfNU9lNHd3UGhDUFEtSXhPbVJVX3QxeE1Rc1FqUQ?oc=5",
+     "summary": "2024년 4월 시흥 시화MTV 서해안 우회도로 교량 붕괴(사망 1명·부상 6명)에 따른 6개월 영업정지 처분은 서울행정법원이 지난해 11월 집행정지를 받아들여 본안소송 선고 30일 후까지 효력이 정지된 상태다. 그 사이 송도 럭스오션SK뷰에서는 8월 테라스 붕괴에 이어 10월 18일 폭우로 100여 가구 침수 피해가 접수돼 시공 품질 논란이 확산되고 있다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-26 16:01",
+     "source": "파이낸셜뉴스",
+     "title": "롯데·현대·호반·SK에코플랜트, 스타트업과 '건설혁신' 맞손",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWTmJuWG1JNjVqV2FDWkpjWXJtZ253Mzdpbmp4YjI4OTRhVzVKNjhDd09wYlBuUXd6Q21sRUoyYkhHZ3QydGtPV1pnNEFxWER5SEE4RzJibDVUUQ?oc=5",
+     "summary": "한국무역협회가 SK에코플랜트·현대건설·롯데건설·호반건설 등과 손잡고 건설 분야 혁신 스타트업 발굴·협업 프로그램을 가동한다. 건설사들이 과제를 제시하고 유망 스타트업의 기술을 현장에 접목하는 오픈이노베이션 방식이다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-10-26 10:39",
+     "source": "프리스탁뉴스",
+     "title": "[이 종목 얼마야?] SK에코플랜트 5만4,300원…반등 뒤 숨 고르기",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nMnVfVmpydlFIMGFnMUhuREl0c3R5NlozQ3VOSlB0aE11VWU5TVk1MzZiZDRmOTE0bkFnMGJURWh5WFdtWEEtc0FMZ0J2NnAtZTNvVWlybEkwLXpHNHJlOFFZX0YxdmEtaVQteXFPVQ?oc=5",
+     "summary": "비상장 SK에코플랜트 장외 주가가 5만4,300원으로, 최근 반등 이후 숨 고르기 양상을 보이고 있다는 시세 동향 기사다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-26 07:30",
    "label": "10-26 07시",
