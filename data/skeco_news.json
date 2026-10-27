@@ -1,8 +1,23 @@
 {
- "updated": "2026-10-27 07:30",
- "last_check": "2026-10-27 07:30",
- "last_new": 4,
+ "updated": "2026-10-28 07:30",
+ "last_check": "2026-10-28 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-10-28 07:30",
+   "label": "10-28 07시",
+   "digest": [],
+   "articles": [
+    {
+     "ts": "2026-10-27 23:29",
+     "source": "프리스탁뉴스",
+     "title": "[오늘 장외주식] SK에코플랜트, 2.19% 상승…호가 잔량은 매도 우세",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40WW8tczE5QkFuVldzRHd2ZVVHZFE1Q2NPREdsYk1RNS1CNHMtaVNpU0twME1aenc1bWFyRmxBWkRMdURIU3g3RXNna3ZubHpGZ0RVRTNLTFhjbmZ5azdaamJzTFJkSXNFNmtiQjVrbw?oc=5",
+     "summary": "",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-27 07:30",
    "label": "10-27 07시",
