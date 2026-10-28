@@ -1,8 +1,43 @@
 {
- "updated": "2026-10-28 07:30",
- "last_check": "2026-10-28 07:30",
- "last_new": 1,
+ "updated": "2026-10-29 07:30",
+ "last_check": "2026-10-29 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-10-29 07:30",
+   "label": "10-29 07시",
+   "digest": [
+    "이번 배치는 사실상 **후루카와전공 MOU 단일 이슈**로, 20개 매체가 동일 보도를 재생산했다 — 자체 증설이 아닌 **일본 소재 국내 적용·유통 확대형 제휴**라는 점에서 즉각적 실적 기여보다 AI 데이터센터 소재 포트폴리오 확보 성격이 강하다.",
+    "**SK에코플랜트 머티리얼즈(구 SK머티리얼즈)**를 전면에 세운 보도로, 환경·건설 색채보다 **반도체·AIDC 소재 기업 정체성**을 강조하는 IPO 전 메시지 정렬이 이어지고 있다.",
+    "발주 측면에서는 우진아이엔에스 **256억원 계약**으로 반도체 인프라 EPC 물량이 확인되고, 장외주가는 **이틀 연속 상승·거래량 +82%**로 반응했다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-28 10:35",
+     "source": "연합뉴스",
+     "title": "SK머티리얼즈, 일본 후루카와전기와 AI 반도체 재료사업 협력",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vakpnLV95VUVzdF9uOEZNbF96OTk1QU1ZMlkwSlBLNHhrZUY3MG9kZHJBSkhRQXJpV0tNTkNEVGVQaGlwbWFJa0phWWkzelRCa25oOUpKeHhiaTluRF80M9IBYEFVX3lxTE9vakpnLV95VUVzdF9uOEZNbF96OTk1QU1ZMlkwSlBLNHhrZUY3MG9kZHJBSkhRQXJpV0tNTkNEVGVQaGlwbWFJa0phWWkzelRCa25oOUpKeHhiaTluRF80Mw?oc=5",
+     "summary": "SK에코플랜트 머티리얼즈가 일본 후루카와전기공업(후루카와전공)과 반도체·AI 데이터센터용 고기능 소재 사업 확대를 위한 MOU를 체결했다. 후루카와의 신소재를 국내 반도체·AIDC 시장에 적용·확대하는 협력으로, AI 인프라 소재 시장 공략이 목적이다.",
+     "more": 19
+    },
+    {
+     "ts": "2026-10-28 14:15",
+     "source": "비건뉴스",
+     "title": "우진아이엔에스, SK에코플랜트와 256억 계약",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqQThlVWQ4NGFROUpCaXZvdFlZcFA3M3hjNU16aXBxSDlNQ1JtSWRsSmZMbHBzQzVXZXBZSXJkUG83c3E2aWlGMXJsUW93VWRfaXRYV2tXY19ub1BVYmJGR3RaaWVPZw?oc=5",
+     "summary": "우진아이엔에스가 SK에코플랜트와 256억원 규모 공사 계약을 체결했다고 공시했다. SK에코플랜트의 반도체·플랜트 발주 물량이 협력사 수주로 이어지는 사례다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-28 17:40",
+     "source": "프리스탁뉴스",
+     "title": "[오늘 장외주식] SK에코플랜트, 이틀 연속 상승…거래량 82% 증가",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rVnpnYkVSYWpqUG5sN1VsWjdCXzA0QmxqQUxtSklVR0QzVnJCLVJmWlV3VzRQdTV2Rm9jZVg2UUZkVW1OS1RvbUJwV05qNDRvZ0tYZ2YtMFJMQUxFY3A4b1I4eVZwaXQtMW5BRDdlSQ?oc=5",
+     "summary": "장외시장에서 SK에코플랜트 주가가 이틀 연속 상승하고 거래량이 전일 대비 82% 증가했다. 소재 협력 발표 등 AI 인프라 모멘텀이 장외 수급에 반영되는 흐름이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-28 07:30",
    "label": "10-28 07시",
