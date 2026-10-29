@@ -1,8 +1,26 @@
 {
- "updated": "2026-10-29 07:30",
- "last_check": "2026-10-29 07:30",
- "last_new": 3,
+ "updated": "2026-10-30 07:30",
+ "last_check": "2026-10-30 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-10-30 07:30",
+   "label": "10-30 07시",
+   "digest": [
+    "이번 배치는 **실질 기업 뉴스 없음** — 장외주식 시세 동향 기사 1건과 'SK VIEW' 브랜드 관심도 기사(SK에코플랜트 아파트 브랜드지만 회사 사업·실적과 무관한 소비자 조사)뿐.",
+    "장외 주가 **4거래일 연속 상승**은 IPO 재추진 기대 등 수급 요인 가능성이 있으나, 호가창 매도 우세로 추세 지속력은 제한적."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-29 17:21",
+     "source": "프리스탁뉴스",
+     "title": "[오늘 장외주식] SK에코플랜트, 4거래일 연속 상승... 호가창은 매도 우세",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GNm81QlZMYUJZeUh5TkxaV1VpUS1JbElpZk52NVlIdVh3eHctQW5VVldaY1YtLXlLTmpwNDEtWWVHZnlSQ1RadmlIVXpuZGFsNmh5Z2ZIa19kX2hmUE1NSTdTRVRrRGdpbGVHR1JPMA?oc=5",
+     "summary": "SK에코플랜트 장외주식 주가가 4거래일 연속 상승했으나, 호가창은 매도 우세로 집계됐다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-29 07:30",
    "label": "10-29 07시",
