@@ -1,8 +1,35 @@
 {
- "updated": "2026-10-30 07:30",
- "last_check": "2026-10-30 07:30",
- "last_new": 1,
+ "updated": "2026-10-31 07:30",
+ "last_check": "2026-10-31 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-10-31 07:30",
+   "label": "10-31 07시",
+   "digest": [
+    "이번 배치의 두 기사는 **같은 축**을 가리킨다 — 송도 사고로 불거진 리스크를 **김영식 대표 유임**으로 수습·관리하겠다는 구도.",
+    "**11월 20일 국토부·인천시 사고조사위 결과 발표**가 최대 체크포인트로, 원인 판정에 따라 영업정지·하자 책임 등 후속 제재 강도가 결정된다.",
+    "비상장사라 주가 영향은 없으나, 모회사 SK㈜ 입장에서는 **IPO 재추진 여건과 건설 브랜드 신뢰도**에 직결되는 사안이다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-30 17:30",
+     "source": "인천in 시민의 손으로 만드는 인터넷신문",
+     "title": "인천서 치명상 입은 SK에코플랜트... 내달 사고 조사 결과 주목",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TOGZWbzBrQkZTNXZmYS1veXAzeUs5RzNsSnZaVjNXcHduQ1FlcGtjWTNRaEY2OGx6MHdVbDNROU9JTGcwLVNMSmZ5cFg1emRYUzdmVFk5TmprM3NCaHNyOGhJQ2xWZU1WRnp0Rw?oc=5",
+     "summary": "송도 럭스오션SK뷰 테라스 붕괴·100여 세대 침수 등 사고가 잇따르며 시공사 SK에코플랜트의 인천 내 신뢰가 크게 훼손된 상황으로, 국토교통부·인천시 공동 사고조사위원회가 11월 20일까지 붕괴 원인 규명과 재발 방지 대책을 내놓을 예정이다. 시공·감리·행정 감독체계 전반에 대한 점검 요구와 함께 영업정지 등 후속 제재 향방도 쟁점이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-10-30 13:31",
+     "source": "FETV",
+     "title": "[SK그룹 인사] SK에코플랜트, 김영식 대표체제 유지 '리스크 관리' 방점",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RTjJhVTQtbkdIUmhnT3ZFeUpyZVkxZ1hXaXZBTXZwNDFwZ19rM1NyWklkMzVoTDA0RjBYc1Y5SW1aYVR4cUZ4LUtZRlNmUjQ4d1c5M3c2QjhvQVBRYTZVejVGdHZJMVFa?oc=5",
+     "summary": "2027년 SK그룹 임원인사에서 SK에코플랜트는 김영식 대표 체제를 유지하기로 해, 교체보다 안전·품질 등 리스크 관리와 경영 연속성에 무게를 둔 인사로 평가된다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-30 07:30",
    "label": "10-30 07시",
