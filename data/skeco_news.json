@@ -1,8 +1,26 @@
 {
- "updated": "2026-10-31 07:30",
- "last_check": "2026-10-31 07:30",
- "last_new": 2,
+ "updated": "2026-11-01 07:30",
+ "last_check": "2026-11-01 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-11-01 07:30",
+   "label": "11-01 07시",
+   "digest": [
+    "이번 배치는 **반도체 인프라 EPC 수혜** 관점의 건설업 섹터 기사 1건뿐으로, SK에코플랜트 단독 이슈는 없음",
+    "SK에코플랜트가 **삼성물산·삼성E&A와 함께 반도체 특수 실적 방어주**로 분류된 점이 유일한 포인트"
+   ],
+   "articles": [
+    {
+     "ts": "2026-10-31 08:00",
+     "source": "KB Think",
+     "title": "반도체 특수에 웃는 삼성물산·삼성E&A·SK에코…실적 방어 '든든'",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ramU5X2JMME1xLTdyd2lFQTZxUjNTQnRYUzgzMEhoeEt3d2FKbmxUcmhSdXVfbWVacWhIUzBoenNNWGUxWExMSnJRQXQ2SEtmWkRfZlBCX08wSXNud3VvQTQ0Wkt6QkZ5dTFWWmpfMDZNQQ?oc=5",
+     "summary": "KB증권 리포트 기반으로, 반도체 투자 확대에 따른 수주·실적 수혜주로 삼성물산·삼성E&A와 함께 SK에코플랜트가 거론됐다. 주택·건축 경기 부진 속에서 반도체 인프라 EPC 물량이 실적 방어 역할을 한다는 분석이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-10-31 07:30",
    "label": "10-31 07시",
