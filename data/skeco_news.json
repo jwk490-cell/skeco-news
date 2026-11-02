@@ -1,8 +1,35 @@
 {
- "updated": "2026-11-02 07:30",
- "last_check": "2026-11-02 07:30",
- "last_new": 0,
+ "updated": "2026-11-03 07:30",
+ "last_check": "2026-11-03 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-11-03 07:30",
+   "label": "11-03 07시",
+   "digest": [
+    "이번 배치는 **44건 중 41건이 '1인 1 AI 에이전트' 동일 보도자료**로, 수주·실적·에너지/환경 사업 관련 신규 뉴스는 사실상 없는 하루였다.",
+    "AX 전략의 방향성이 **외부 솔루션 도입이 아니라 '사내 업무 데이터 분석 → 직무별 에이전트 자체 개발·배치'**로 제시됐고, 적용 1순위가 **반도체·데이터센터 현장의 반복업무**라는 점이 본업(인프라 EPC) 생산성과 직결되는 포인트다.",
+    "자체 개발 역량의 근거로 **도메인 AI 전문가 318명 육성**을 내세운 것이 이번 발표의 유일한 정량 지표다. 비상장사라 주가 신호는 없고, **장외시장 거래대금 상위권 유지**가 유일한 시장 참고치다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-02 09:25",
+     "source": "한국경제",
+     "title": "SK에코플랜트, 업무 데이터 분석 기반 ‘1인 1 AI 에이전트’ 혁신 가속",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwNG5QSmU4cU52c0ptOEFwTXY0MWpZcDY0VnY0RHMwaFZWQ2RXZC1RaUNCZEt2UURTdnpyRWFLTk9WM3Q3dkYwNWhUdTFhaTRMUmlOb3FOZGtwdw?oc=5",
+     "summary": "SK에코플랜트가 사내 업무 데이터를 분석해 직무별 맞춤 AI 에이전트를 개발·배치하는 '1인 1 AI 에이전트' 체계를 전사 가동했다. 반도체·데이터센터 등 프로젝트 현장의 실적 취합·보고서 작성 같은 반복업무에 우선 적용하며, 이를 뒷받침할 도메인 AI 전문가(AX 정예팀) 318명을 육성했다.",
+     "more": 40
+    },
+    {
+     "ts": "2026-11-02 15:58",
+     "source": "프리스탁뉴스",
+     "title": "[오늘 장외시장] 티맥스소프트·아리바이오·SK에코플랜트, 거래대금 85% 차지",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fUWxLNEpVMzV6ZXI2MTE3LS1pamNaNVRkRllBN2trUFNYWUEtSEt4WXF3TVNFX3VhUmRHNER4RVF3OEhNWXpaV3hjd2xvZjE2OTZQNG1BX2hKWFFqeEZ2MllEN0ZfWTVZQm5rb0FKWQ?oc=5",
+     "summary": "11월 2일 장외시장에서 티맥스소프트·아리바이오·SK에코플랜트 3종목이 전체 거래대금의 85%를 차지했다. 비상장사인 SK에코플랜트가 장외 거래대금 상위권을 유지하고 있다는 내용이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-11-01 07:30",
    "label": "11-01 07시",
