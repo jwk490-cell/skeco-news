@@ -1,8 +1,34 @@
 {
- "updated": "2026-11-03 07:30",
- "last_check": "2026-11-03 07:30",
+ "updated": "2026-11-04 07:30",
+ "last_check": "2026-11-04 07:30",
  "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-11-04 07:30",
+   "label": "11-04 07시",
+   "digest": [
+    "이번 배치는 **신규 사업·수주 뉴스 없이 사내 AI 도입과 장외주가 흐름** 두 건에 그쳐, 실질 뉴스플로우는 한산했다.",
+    "**장외주가 2주 만에 +20%**로, 시장이 IPO 재추진 및 반도체 인프라·AI 데이터센터 모멘텀을 선반영하는지 주목할 구간이다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-03 10:16",
+     "source": "FETV",
+     "title": "SK에코플랜트, 업무 데이터로 짠 ‘1인 1 AI 에이전트' 가동",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PdElxNjFZalFnS19NeHc0SWFBNkMyT0JkOVVoU2dWS1RqSzVzcVZjNGFRRE9wSmY2UGxuUGU0S1A1blBpaVJVTVV1ZmJzcXhNMGZFeEc3ZlBGRUk0dGJ0Q0pDcGdkaHlF?oc=5",
+     "summary": "SK에코플랜트가 사내 업무 데이터를 학습시킨 '1인 1 AI 에이전트' 체계를 가동해 임직원별 업무 지원 AI를 도입했다. 설계·시공 등 축적된 업무 데이터를 활용한 생산성 제고 및 AI 기반 업무 혁신 차원의 조치다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-11-03 19:05",
+     "source": "프리스탁뉴스",
+     "title": "[오늘 장외주식] SK에코플랜트, 일주일째 상승…2주만에 20% 올라",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VenR3UnBQc1hjbmZpdGY2YUh1X2RQNXc4VVFJc2tma1lzZV9oU1lhQ0VRLU5reU5tSEdvZTdJdFlTM3ZZUjhXOXFGZXpMRFdVeVRST0k4bnRmUndLVWVkRG15ZEpJa2duaE9XSGpaVQ?oc=5",
+     "summary": "장외시장에서 SK에코플랜트 주가가 일주일 연속 상승하며 2주 만에 20% 올랐다. IPO 재추진 기대와 반도체 인프라·AI 데이터센터 모멘텀이 비상장 주가에 반영되는 흐름으로 읽힌다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-11-03 07:30",
    "label": "11-03 07시",
