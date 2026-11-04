@@ -1,8 +1,35 @@
 {
- "updated": "2026-11-04 07:30",
- "last_check": "2026-11-04 07:30",
+ "updated": "2026-11-05 07:30",
+ "last_check": "2026-11-05 07:30",
  "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-11-05 07:30",
+   "label": "11-05 07시",
+   "digest": [
+    "이번 배치는 사실상 **단일 이벤트**로, SK㈜의 **SK에코플랜트 IPO 철회 및 공개매수(주당 8만8,000원·1,643만 주·약 1조4,462억원)를 통한 완전자회사 편입** 결의가 57건 전부를 채웠다.",
+    "언론의 공통 해석은 **중복상장 논란 차단**과 **반도체·AI 인프라 성장 과실의 지주사 내재화**이며, 비상장 유지로 SK에코플랜트의 자금조달은 모회사 의존 구조로 바뀐다.",
+    "향후 체크포인트는 **공개매수 응모율·가격 적정성 논란**과 1.4조원 투입에 따른 **SK㈜ 재무·주주환원 영향**이다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-04 17:21",
+     "source": "인베스트조선",
+     "title": "SK㈜, SK에코플랜트 잔여 지분 전량 인수…1조4462억원 투입해 완전자회사 편입 추진",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObGh2VVU4bUNhWHZ4ck9ybXFyVWV0ZmpCdjdheHlMWnFGOFhKa3daWHh6M2M4SGo5UVcyeHJEWndCMVlJTzEyd2ZvMEE0ay1udG84Tm1iU0phS0RBTHdHc2tJbzJZYTUxdGpubjVxSE9MWlVhTjBfZGhtQlJhcTBBNXdiYw?oc=5",
+     "summary": "SK㈜가 11월 4일 이사회에서 SK에코플랜트 잔여 지분(약 25%, 1,643만 주)을 주당 8만8,000원에 공개매수하기로 결의했다. 총 투입액은 약 1조4,462억원(1조4,500억원 규모)으로, 추진해 온 IPO를 철회하고 100% 완전자회사로 편입하는 방식을 택했다.",
+     "more": 51
+    },
+    {
+     "ts": "2026-11-04 18:36",
+     "source": "대한경제",
+     "title": "SK㈜, SK에코플랜트 IPO 접고 완전 자회사화…중복상장 부담 덜고 성장 과실 확보",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoX3ZrSUMwMDgzdEUyOUhNb3lKb3NISWh4M3ZrU1l4RU1DaHpvcVFvU3ZtaFhRLVpqRGJpaGp0VjVIWjFyUDlLOTJWdTRTUS1CUzY3LTVXdzFNVUlEZDdiQTJzOEpvakNvU1dhbVc4cWszcEE?oc=5",
+     "summary": "배경으로는 SK㈜의 중복상장 논란·지주사 디스카운트 부담 해소와, 반도체·AI 인프라(EPC·산업가스) 중심으로 재편되는 SK에코플랜트의 성장 과실을 지주사가 온전히 확보하려는 의도가 지목됐다. 공개매수 가격 적정성과 SK㈜ 주주가치 개선 효과가 후속 쟁점으로 거론된다.",
+     "more": 4
+    }
+   ]
+  },
   {
    "ts": "2026-11-04 07:30",
    "label": "11-04 07시",
