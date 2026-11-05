@@ -1,8 +1,59 @@
 {
- "updated": "2026-11-05 07:30",
- "last_check": "2026-11-05 07:30",
- "last_new": 2,
+ "updated": "2026-11-06 07:30",
+ "last_check": "2026-11-06 07:30",
+ "last_new": 5,
  "checks": [
+  {
+   "ts": "2026-11-06 07:30",
+   "label": "11-06 07시",
+   "digest": [
+    "**SK㈜의 SK에코플랜트 IPO 철회·주당 8만8,000원(1.4조원) 공개매수**가 이번 배치 전체를 관통하는 단일 사건으로, 5년간의 상장 추진이 완전 자회사화로 종결됐다.",
+    "딜 발표와 동시에 **장동현 부회장이 대표이사·사내이사에서 사임**하며 체질 전환 국면이 리더십 교체로 이어졌고, SK디스커버리는 PRS 정리로 약 3,800억원 회수 기회를 확보해 **FI·계열 지분 정리 퇴로가 동시에 열렸다**.",
+    "향후 쟁점은 **53% 할증의 적정성, SK㈜와의 합병 가능성·실익, 그리고 SK하이닉스 현금이 반도체·AI 인프라 투자로 흘러가는 그룹 자금 경로**로 좁혀지는 반면 주택·건축 비중은 축소 전망이다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-05 08:36",
+     "source": "연합인포맥스",
+     "title": "SK㈜, SK에코플랜트 상장 대신 완전 자회사화 추진…공개매수",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSMFQ1OU1PN1VCTWpvMXNuMTJER2p1MElDUzdkd0tSQ3JzUmxuMi1mWjQ5VmlKbVNSR25yamY2QVZvcDVpZ1dCMXpiOWRET1AzTUFITVBFLWU4bVFEdlZLTS1WVWR2N0loQV9iMlAwQ0U?oc=5",
+     "summary": "SK㈜가 SK에코플랜트 IPO를 철회하고 주당 8만8,000원(최근 시세 대비 약 53% 할증)에 약 1.4조원 규모 공개매수를 실시해 지분 100% 완전 자회사화를 추진한다. 5년간 끌어온 상장 추진을 접고 반도체·AI 인프라 중심으로 사업을 재편·통합하겠다는 취지다.",
+     "more": 11
+    },
+    {
+     "ts": "2026-11-05 17:40",
+     "source": "연합뉴스",
+     "title": "장동현 SK 부회장, SK에코플랜트 대표 사임",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpNndxcVVUNUMxNHh5SmZTUm5EYmxnRXVZM1lxakxPUzR1aG5ya1ZVYWlzT2s0TFd5QTVITDVtU3kzbUgtc2FaakMtS1RXZHRqOU1GcUdEcjdyWm_SAWBBVV95cUxNVGNzOXlkRUpKYUxDNmUxMDhjY2UzbEVkU3pBeHFEYnljWDhmUkVsVVZIblhRNUl0c0JWaDlCSm9nemR2bWR0QUpYY1B2MXBCNEJHV1J5MWpSbnVwc1FLSms?oc=5",
+     "summary": "장동현 SK 부회장이 SK에코플랜트 대표이사 및 사내이사에서 사임하며 경영 일선에서 용퇴했다. 환경·에너지 중심이던 회사를 반도체·AI 인프라 EPC로 체질 전환한 인물로, 같은 날 최태원 회장의 9,440억원 규모 SK㈜ 주식 매각 완료 소식도 함께 전해졌다.",
+     "more": 8
+    },
+    {
+     "ts": "2026-11-06 05:30",
+     "source": "서울경제",
+     "title": "SK디스커버리, 7년 만에 에코플랜트 PRS 정리…3800억 확보 전망 [시그널]",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92UFNEOGhHcXFmb1EwLW45THFmaWtYUVhfX3dMUGd4U1YtQ3p3dmF5amduMmlMUFNsWWhlbmxHU1JhSVlyckx3cWFaNzIzZzVxWGfSAVNBVV95cUxQaTJ3cXZtZzJnOEpuVmdZRWRHNE40eUxRaHZrVVBpV0U3aUhJQVhHaG93NG9FYWNsamdCZzJqd2xrakN0bkZ3NWU0TWNTa1poLTM4cw?oc=5",
+     "summary": "SK디스커버리가 7년 만에 SK에코플랜트 관련 PRS(주가수익스왑) 계약을 정리해 약 3,800억원을 확보할 전망이다. 공개매수 가격이 제시되면서 그간 미지근했던 지분 정리 퇴로가 열린 것으로 해석된다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-11-05 16:02",
+     "source": "뉴스핌",
+     "title": "SK에코플랜트 기업공개 접은 SK…완전 자회사 택한 속내는",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xWWdCSHdmeXA3ejdOWVJ3WlZmM1pOSnl2cXdqZG0tdktIbkRkOTF1WEZjNG01V2RDNTZoUEE2bTVrcWpKSmY3OGk2QV9lRk1iTWRsLUJSTjZERk5E?oc=5",
+     "summary": "시장에서는 53% 할증이 그간 FI에 약속한 조건 대비 충분한지, 향후 SK㈜와의 합병 시 실익이 무엇인지, 지주사가 배당수익을 챙기는 구조로 가는지를 두고 해석이 갈린다. 특히 SK하이닉스에서 나오는 현금이 에코플랜트의 반도체 인프라 투자로 흘러가는 새 자금 경로가 될 수 있다는 시각이 제기된다.",
+     "more": 4
+    },
+    {
+     "ts": "2026-11-05 18:04",
+     "source": "한국경제",
+     "title": "SK에코, 반도체·AI 인프라 강화…주택은 위축될 듯",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wSmFQUS04RFoydGZhUXB2Nm0yWUZVdjdvZjMtQzlCZkR1cHRKT080MzBJd2ZVb1Y2aF9WWEE5MkQtblRmLVd3UlNkbzNHeVdUdDM4bjNicmU3Zw?oc=5",
+     "summary": "완전 자회사화 이후 SK에코플랜트는 반도체·AI 데이터센터 인프라 사업을 강화하고 주택·건축 부문 비중은 축소될 것으로 전망된다. 장동현 체제가 마무리되면서 김영식 대표가 전환된 사업구조를 안착시키는 과제를 맡게 됐다.",
+     "more": 1
+    }
+   ]
+  },
   {
    "ts": "2026-11-05 07:30",
    "label": "11-05 07시",
