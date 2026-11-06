@@ -1,8 +1,35 @@
 {
- "updated": "2026-11-06 07:30",
- "last_check": "2026-11-06 07:30",
- "last_new": 5,
+ "updated": "2026-11-07 07:30",
+ "last_check": "2026-11-07 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-11-07 07:30",
+   "label": "11-07 07시",
+   "digest": [
+    "**IPO 철회 → SK㈜ 완전자회사 편입**이 이번 경영진 교체의 직접 원인. 공개매수 기간 11/5~24로, 비상장 지배구조 단순화가 확정 국면.",
+    "**장동현 퇴진·김영식 원톱**으로 리더십이 SK하이닉스 출신 단독 체제로 바뀌며 반도체·AI 인프라 EPC 집중이 더 선명해졌다.",
+    "**주택·건축 축소 리스크**가 파생 쟁점. 사업 포트폴리오 재편 속도와 재무구조 개선이 신체제 첫 시험대."
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-06 14:23",
+     "source": "뉴스1",
+     "title": "장동현 물러난 SK에코플랜트…IPO 접고 김영식 원톱 '반도체' 집중",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbjdRT1Vic3llbGZRdXNDY3UwdXQxRFhWbV9uQkp4eUx4Tk5vM1B4LUtzWnFQWm1reUxpTHQ3R1hCdXpPSWpyT0dGSDFFWVZ3bDhFaGNCTFNDaUk?oc=5",
+     "summary": "장동현 SK㈜ 부회장이 SK에코플랜트 대표이사직에서 사임하고 SK하이닉스 출신 김영식 사장 단독(원톱) 체제로 전환됐다. IPO 추진이 사실상 철회되고 SK㈜가 11월 5~24일 공개매수로 SK에코플랜트를 100% 완전자회사로 편입하는 전략 변경이 배경이며, 신체제는 반도체·AI 인프라 중심 사업 재편 가속과 재무구조 개선이 과제로 남았다.",
+     "more": 3
+    },
+    {
+     "ts": "2026-11-06 17:12",
+     "source": "위키리크스한국",
+     "title": "장동현 떠난 SK에코플랜트, 주택 시장 손 떼나",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRLTV6MXptMWF0Mm1nUGtVT1RJeGhKWmFjYWpEUzEyV3VfMkliYUo3T2xVZnJlZWZ1Z1pmblJ0U1BLZGFQdlNSaVhMRDluQi11Q3dvaVlNdDlQSFBHLVRfT1BfQlBRVmZiSWJEelM5cmk?oc=5",
+     "summary": "반도체 전문가 단독 체제와 지주사 100% 지배가 겹치면서, 최근 수년간 수주가 줄어든 주택·건축 사업이 더 위축되거나 사실상 축소·철수 수순을 밟을 수 있다는 관측이 제기됐다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-11-06 07:30",
    "label": "11-06 07시",
