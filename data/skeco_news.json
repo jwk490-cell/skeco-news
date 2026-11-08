@@ -1,8 +1,26 @@
 {
- "updated": "2026-11-08 07:30",
- "last_check": "2026-11-08 07:30",
- "last_new": 0,
+ "updated": "2026-11-09 07:30",
+ "last_check": "2026-11-09 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-11-09 07:30",
+   "label": "11-09 07시",
+   "digest": [
+    "**SK㈜ 완전자회사 편입**(잔여 25% 공개매수, 주당 8만8000원·최대 1조4462억원)이 이번 배치의 유일한 축으로, IPO 철회 이후 SK에코플랜트의 지배구조 재편이 핵심 이슈",
+    "**배당 재원 2조5000억원 전입**(자본준비금→이익잉여금)과 맞물려, 반도체 인프라 사업으로 개선된 실적의 배당이 전액 지주사로 귀속되는 구조가 형성됨"
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-08 08:00",
+     "source": "연합인포맥스",
+     "title": "지주사 품에 안긴 SK에코플랜트…새 '배당 수익원' 거듭나나",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQVi1razdTenlQM3F2LWZtTEluQ21TZmlVdWVLZWxhNzRrMl9saGxtVnBoT0JoVVBVcGtmTVFCVnBGNlAwTVpwQ2dNakpmWG1UUDlFLUh0UjB0WmVfWXQ5YTNNTXdibHh3R3d1RXJybzM?oc=5",
+     "summary": "SK㈜가 SK에코플랜트 IPO를 접고 잔여 지분 약 25%를 주당 8만8000원·최대 1조4462억원에 공개매수해 완전자회사로 편입하기로 하면서, SK에코플랜트가 지주사의 새 배당 수익원이 될지 주목된다는 분석. SK에코플랜트는 지난 6월 자본준비금 2조5000억원을 이익잉여금으로 전입해 배당가능이익 재원을 확충했고, 완전자회사화 이후에는 배당금 전액이 SK㈜에 귀속된다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-11-07 07:30",
    "label": "11-07 07시",
