@@ -1,8 +1,35 @@
 {
- "updated": "2026-11-09 07:30",
- "last_check": "2026-11-09 07:30",
- "last_new": 1,
+ "updated": "2026-11-10 07:30",
+ "last_check": "2026-11-10 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-11-10 07:30",
+   "label": "11-10 07시",
+   "digest": [
+    "**IPO 철회 → SK㈜ 완전자회사화**가 이번 배치의 유일한 실질 이슈: 약 **1조4000억원** 투입, 반년 만에 매수가 **18% 인상**으로 FI·최창원 측 PRS 차익 **1000억원 추가** 지적까지 번졌다.",
+    "상장 압박은 사라졌지만 **차입금·재무구조 개선 부담은 미해결**이라는 평가가 나오며, 향후 축은 **하이테크(반도체 인프라) 중심 사업 재편**으로 모인다.",
+    "나머지 15건은 모두 동일한 **인사동 플로깅 사회공헌 보도**(가족 200명·쓰레기 500L)로 실적·사업 영향은 없다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-09 08:00",
+     "source": "딜사이트",
+     "title": "SK에코플랜트 완전자회사화…하이테크 중심 재편 주목",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzZXJzVXFlN2tMYWlzWDBsLS1GcGdTcmx5Vm10RzNQemZSTFQ4RkpkQmJXb1YyVWtCRnpoWXZVZ21rOFctMEMtRTFmeFBZaE0?oc=5",
+     "summary": "SK㈜가 SK에코플랜트 IPO를 사실상 접고 약 1조4000억원을 투입해 잔여 지분을 사들여 완전자회사로 편입하는 작업을 추진 중이며, 반년 사이 매수가를 18% 올려 FI·최창원 측 PRS 차익(약 1000억원 추가) 논란도 제기됐다. 상장 부담은 덜었지만 차입금·재무구조 개선 과제는 그대로 남아 하이테크(반도체 인프라) 중심 사업 재편이 관전 포인트로 지목된다.",
+     "more": 4
+    },
+    {
+     "ts": "2026-11-09 09:11",
+     "source": "한국경제",
+     "title": "SK에코플랜트, 구성원 가족 초청 도심 플로깅 행사 개최",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ReG5oLXFKYm53Wjc0bi1KQWczWGJCR0ZkWUpfYno4ZEdFUk5CMTZVenFHXzF2anpyaHFLWkhVZ2ZhMktlQzg2VWVXMENnUTBFSEZCTGRiY3ktZw?oc=5",
+     "summary": "SK에코플랜트가 구성원 가족 200여 명을 초청해 서울 인사동 일대에서 도심 플로깅 행사를 열고 약 500L의 쓰레기를 수거했다. 자원순환 체험 프로그램을 함께 운영하며 환경보호 가치 공유를 강조한 사회공헌 행사다.",
+     "more": 14
+    }
+   ]
+  },
   {
    "ts": "2026-11-09 07:30",
    "label": "11-09 07시",
