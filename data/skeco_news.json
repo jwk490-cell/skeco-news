@@ -1,8 +1,35 @@
 {
- "updated": "2026-11-11 07:30",
- "last_check": "2026-11-11 07:30",
- "last_new": 4,
+ "updated": "2026-11-12 07:30",
+ "last_check": "2026-11-12 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-11-12 07:30",
+   "label": "11-12 07시",
+   "digest": [
+    "이번 배치는 **동반성장지수 10년 연속 최우수** 보도자료 한 건이 28개 매체로 확산된 것이 사실상 전부로, 신규 사업·수주·재무 관련 정보는 없음",
+    "평가 포인트로 **협력사 기술 공동개발과 공정거래 체계**를 내세우며 건설업계 상생 선도 이미지를 강조 — ESG·평판 성격의 뉴스",
+    "유일한 비(非)보도자료성 기사는 NH의 **SK㈜ 사업구조 재편 마무리·주주환원 확대** 전망으로, SK에코플랜트는 지주사 포트폴리오 정리 맥락에서 간접 언급"
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-11 13:51",
+     "source": "이데일리",
+     "title": "SK에코플랜트, 협력사와 상생 성과…동반성장지수 10년 연속 '최우수'",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTzAzQzR4VWpYRmNwMnRzZHlMdVJkTlZrYkRxWWRxeVlET05mcFNiZFVuVVhpYXUzWGlqZVYzQjlCS3JEaFJlakFyMWRUOE9Fa2xlTnNQY05kMHg0dVBKbEtnTkFTeHJ2RGhqTEN4Nk52alVoMXBPSFJfZ2JpNk1xZA?oc=5",
+     "summary": "SK에코플랜트가 동반성장위원회 동반성장지수 평가에서 10년 연속 최우수 등급을 받았다. 협력사와의 기술 공동개발 확대, 공정거래 체계·투명한 거래환경 구축, 협력사 금융·교육 지원 등이 평가 근거로 제시됐으며 건설업계에서는 삼성물산·삼성E&A·GS건설·한화 건설부문 등도 함께 최우수권에 포함됐다.",
+     "more": 27
+    },
+    {
+     "ts": "2026-11-11 08:09",
+     "source": "PRESS9",
+     "title": "SK, 사업구조 재편 마무리 단계…주주환원 확대 기대-NH",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xa0pJRDNlTzVtZFk0WTctLW9pOTBVWEwtcEFqakJNQ1pxTmJwX0JtQy14MkxlelUzVGJ1QWR2X0oyOUxJTEhZcExnSWhnVWRIZ1U3T2ptdmxhYUs2Q1Fod0RRV3o?oc=5",
+     "summary": "NH투자증권은 모회사 SK㈜에 대해 사업구조 재편이 마무리 단계에 접어들었다며 주주환원 확대 가능성을 전망했다. SK에코플랜트를 포함한 자회사 포트폴리오 정리가 지주사 밸류에이션 논의의 전제로 다뤄지는 흐름이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-11-11 07:30",
    "label": "11-11 07시",
