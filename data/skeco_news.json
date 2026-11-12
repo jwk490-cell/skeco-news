@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-12 07:30",
- "last_check": "2026-11-12 07:30",
- "last_new": 2,
+ "updated": "2026-11-13 07:30",
+ "last_check": "2026-11-13 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-11-13 07:30",
+   "label": "11-13 07시",
+   "digest": [
+    "이번 배치는 **반도체 인프라 중심 사업 재편**에 따른 **주택사업 기반 약화 우려**를 다룬 기사 1건이 전부로, 신규 수주·실적 발표 등 사실(fact) 성격의 뉴스는 없었다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-12 08:56",
+     "source": "이코노미톡뉴스",
+     "title": "반도체 집중하는 SK에코플랜트…주택사업 기반 흔들림 없나",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QdGUwdWVzY2haMWhrLTlXVEE3azlIZXBqTVdFeVc1ZGhOMk1sYkRGWllCWXJOR0ZWczNEWlVwUnowMS1CRWNKQURhbS0zMEs4Qi1yWUxvalEyZUR5dDZ0ODk1c24xQWdVYU51ZA?oc=5",
+     "summary": "SK에코플랜트가 반도체 인프라(EPC)·산업가스 중심으로 사업 구조를 재편하는 가운데, 기존 주택·건축 사업 기반 약화 우려를 짚은 기사. 반도체 쏠림에 따른 주택사업 축소와 수익 변동성 문제를 제기했다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-11-12 07:30",
    "label": "11-12 07시",
