@@ -1,8 +1,59 @@
 {
- "updated": "2026-11-13 07:30",
- "last_check": "2026-11-13 07:30",
- "last_new": 1,
+ "updated": "2026-11-14 07:30",
+ "last_check": "2026-11-14 07:30",
+ "last_new": 5,
  "checks": [
+  {
+   "ts": "2026-11-14 07:30",
+   "label": "11-14 07시",
+   "digest": [
+    "**SK㈜의 SK에코플랜트 소수지분 장외매수 1차 완료(목표 물량 80.1%, 주당 8만8천원)** — 상장 전 지배구조·지분 정리가 본격 진행되는 단계",
+    "**SK디스커버리 PRS 정산으로 약 4,200억원 차익 수령** — 계열 보유 지분의 파생계약 리스크가 해소되며 그룹 내 지분 구조 단순화",
+    "싱가포르 주롱 법인 청산 청구 등 해외 부실 자산 정리와 함께, 김영식 단독 대표 체제에서 **AI·반도체 인프라 사업의 실적 가시화**가 핵심 과제로 부상"
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-13 14:29",
+     "source": "블로터",
+     "title": "SK㈜, 에코플랜트 장외매수 1차 완료…목표 물량 80.1% 확보",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zekhET3RxOUdnTnZpVGVmZ3U5R2RhQm44dGFMckhSWHJYMnpjWjhKUzY2UEVteDFiYTVudVJtZHdERXBIRkswbThvYVR3YkxKWmZEczV3NmZySFZHb3F6dnBKaUhnckF40gFsQVVfeXFMTlc5YjRISXJfT2E0MzQzckJMelNyR0JXYUtwM2tlWVAyTUhxaExYcEUxTTB6YVdmekVIQ2VBdGNSRGxoQ25RVmNudW9DckQtblZwX2pZQUZsZUhmejByV2p3bTVrVS1mc2ZIYVlI?oc=5",
+     "summary": "SK㈜가 SK에코플랜트 소수주주 지분에 대한 1차 장외매수(주당 8만8천원)를 마무리하며 목표 물량의 80.1%를 확보했다. 장외시장에서는 매수 가격 부근으로 호가가 고공행진하는 가운데 거래량은 줄어드는 모습이다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-11-13 18:13",
+     "source": "연합인포맥스",
+     "title": "SK디스커버리, SK에코플랜트 지분 정산으로 4천200억 차익",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53M3ZvelM1OThRajFhd2g1LVRpekdWUk5pbXhPX2UycWJSbXZHX3dpN2xMVmdFOE9ZdmpZQTZHcEpqYmhZa0M1V2JCQkJCYXdDZVJlYmFVcGYzV1FqYUxOYnFjcGt4UTRvVGU1bExsdE8?oc=5",
+     "summary": "SK디스커버리가 보유 SK에코플랜트 지분 관련 PRS(주가수익스왑) 계약을 정산해 약 4,179억~4,200억원을 수령, 그만큼의 차익을 실현했다. SK㈜ 주도의 지분 정리 과정에서 계열 내 보유 구조가 정리되는 흐름이다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-11-13 20:56",
+     "source": "글로벌이코노믹",
+     "title": "SK에코플랜트, 싱가포르 주롱 법인 청산 청구…채권 규모는 공고서 빠져",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3VtZ2hEQkVIUjY0aER6Y1hPY0M0bWlZUzF1RG93OTl4cDlMQk53czA2dTU1TERRQlh1WjhkZmtyU1RwbGdPTVJtaV9QZmpFLTMyME9kd3QzWmpRMDAwT0FKMUpNdFlmOVlpajRmLUxMWndxY0dYdzYyekk5aW1EUWFIQ0djYWpk?oc=5",
+     "summary": "SK에코플랜트가 싱가포르 주롱 소재 법인에 대한 청산을 청구했다. 다만 공고에 채권 규모가 빠져 정리 비용 규모는 확인되지 않았다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-11-13 09:00",
+     "source": "더구루",
+     "title": "[대한민국 건설 리더십 해부] (8) SK에코플랜트 김영식 '원톱' 체제 시험대…AI 인프라 사업 성장 가시화 숙제",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42SHZ3X3YwaGVJdkkyc3BNWk92dDZRaUVIaDItWTR2ZnNQekk2WkR6a1RTV2VyQm1KYkFLYWpHc3hZMEZ6bWJtRGt3UjdvTEpNQ0lxYkJBcTV6OWp4dlNicFlDTQ?oc=5",
+     "summary": "김영식 대표 '원톱' 체제로 재편된 SK에코플랜트가 AI 데이터센터·반도체 인프라 사업의 성장 가시화라는 과제를 안고 시험대에 올랐다는 분석이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-11-13 14:56",
+     "source": "금융신문",
+     "title": "SK는 기술 협력, GS는 금융·안전…동반성장 전략 차별화",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UVXZSbnFJeXJ2QXhKZ2ZCbUZoaXZoOXNleDljR3F6VjJLZjAyRGVlVFRKUV9LSzJIYjZCWDZ1X2cxdWNmTGFkelZKZEN4aXE5Mzh4NG5Ta0d3S0x5YU04RDlDMVRKWjNDMUhKR1NKbFBCd3phTjk5NUVwZUs?oc=5",
+     "summary": "건설사 동반성장 전략 비교에서 SK(에코플랜트)는 협력사 기술 협력 중심, GS건설은 금융 지원·안전 중심으로 차별화된다는 내용이다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-11-13 07:30",
    "label": "11-13 07시",
