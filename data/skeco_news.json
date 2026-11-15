@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-15 07:30",
- "last_check": "2026-11-15 07:30",
- "last_new": 0,
+ "updated": "2026-11-16 07:30",
+ "last_check": "2026-11-16 07:30",
+ "last_new": 1,
  "checks": [
+  {
+   "ts": "2026-11-16 07:30",
+   "label": "11-16 07시",
+   "digest": [
+    "이번 배치에 SK에코플랜트 관련 유효 기사 없음 — 유일한 수집 기사는 **SK건설(현 SK에코엔지니어링) 계열 주택 브랜드 역사**를 다룬 기획물로, SK에코플랜트 사업과 실질적 관련성이 없어 제외."
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-16 00:00",
+     "source": "한국금융신문",
+     "title": "선경 호멕스로 시작된 브랜드 실험…SK뷰 넘어 드파인으로 [건설 브랜드의 역사 ⑨]",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aWHd6RFlicHN0dno1ZDNWak5GY0tfODhjMEtVRXRFUTZKek4ta0NTZzRCdmJKaXNlR3VZeFduZXRxT2pwZHMyemNyQS0takNjUXpkT1JKdEFEVzlFM2hWYXdKN0RMTmNDOTZXNVkya3Y3U2xlTTJEem15VQ?oc=5",
+     "summary": "",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-11-14 07:30",
    "label": "11-14 07시",
