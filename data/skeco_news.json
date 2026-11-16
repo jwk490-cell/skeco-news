@@ -1,8 +1,35 @@
 {
- "updated": "2026-11-16 07:30",
- "last_check": "2026-11-16 07:30",
- "last_new": 1,
+ "updated": "2026-11-17 07:30",
+ "last_check": "2026-11-17 07:30",
+ "last_new": 2,
  "checks": [
+  {
+   "ts": "2026-11-17 07:30",
+   "label": "11-17 07시",
+   "digest": [
+    "**3분기 연결 영업이익 7,946억원(+405%)** — 반도체·AI 인프라 밸류체인 확장이 실적 급증의 핵심 동력으로, 편입 사업(산업가스·반도체 소재/모듈)의 기여가 본격 반영됐다.",
+    "다만 **별도 기준 순손실 3,377억원**으로 연결과 별도의 괴리가 커, 건설 본업의 수익성 부담은 여전하다는 점을 함께 봐야 한다.",
+    "**SK㈜ 완전자회사 편입**으로 IPO를 통한 상장 대신 그룹 내 통합 경로가 확정됐고, SK디스커버리는 PRS 정산으로 5,355억원·파생이익 4,100억원을 확보하며 7년 만에 투자를 회수했다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-16 16:46",
+     "source": "연합뉴스",
+     "title": "SK에코플랜트 3분기 영업이익 7천946억원…작년 대비 405%↑",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nRlpSVVQ0WXpTSEtRSjhlRy1EdlFqUzBZaE9RWEppYUVmYW9SWnI5TGVWVnpwRjNVaG94Qk1lYkM0c19jZDV0eDVuMy02YVNwdkVYZzFpZVYtNlgwSVlkQdIBYEFVX3lxTE1nRlpSVVQ0WXpTSEtRSjhlRy1EdlFqUzBZaE9RWEppYUVmYW9SWnI5TGVWVnpwRjNVaG94Qk1lYkM0c19jZDV0eDVuMy02YVNwdkVYZzFpZVYtNlgwSVlkQQ?oc=5",
+     "summary": "SK에코플랜트가 3분기 연결 영업이익 7,946억원(전년 동기 대비 405% 증가)을 기록했다고 발표했다. 반도체·AI 데이터센터 인프라 관련 사업(산업가스·반도체 모듈 등 편입 자산 포함)이 실적을 견인했으나, 별도 기준으로는 3,377억원의 순손실을 기록했다.",
+     "more": 12
+    },
+    {
+     "ts": "2026-11-16 08:40",
+     "source": "뉴스톱",
+     "title": "SK㈜ 완전자회사·중복상장 해소…SK디스커버리 5355억 확보",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84cHpCZUpfbVdGTHNIeWh5MVNTM0RPN0xHd2tRMG9JOThjek01bG1vczBfUmdHNWhHV1pkcWV2Z0JuaXFaWGlRdVFSM090ZmZBNnRUVV9HX1Vxc3hxbkEyUGxPY3hHRlFLZUJHT2w2UQ?oc=5",
+     "summary": "SK㈜가 SK에코플랜트 지분을 장외 매수해 완전자회사로 편입하면서 중복상장 우려가 해소됐다. 이 과정에서 7년간 PRS(주가수익스왑) 계약을 유지해온 SK디스커버리가 지분을 정산해 5,355억원을 확보하고 약 4,100억원 규모의 파생상품 순이익을 인식했다.",
+     "more": 2
+    }
+   ]
+  },
   {
    "ts": "2026-11-16 07:30",
    "label": "11-16 07시",
