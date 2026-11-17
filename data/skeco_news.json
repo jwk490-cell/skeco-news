@@ -1,8 +1,67 @@
 {
- "updated": "2026-11-17 07:30",
- "last_check": "2026-11-17 07:30",
- "last_new": 2,
+ "updated": "2026-11-18 07:30",
+ "last_check": "2026-11-18 07:30",
+ "last_new": 6,
  "checks": [
+  {
+   "ts": "2026-11-18 07:30",
+   "label": "11-18 07시",
+   "digest": [
+    "**3분기 영업이익 7946억원(+405%)** — 반도체·AI 데이터센터 인프라가 실적을 견인하며 사업 정체성이 건설사에서 AI 인프라 기업으로 이동 중, 다만 **순이익은 86.6% 급감**으로 손익 질(質)은 과제",
+    "**SK㈜의 완전 자회사 편입**으로 비상장 SK에코플랜트가 지주사 실적·현금흐름의 핵심 축이 됐고, 증권가는 상장 자회사 가치 하향에도 비상장 AI 수혜와 배당 확대 여력을 상향 포인트로 평가",
+    "1.8조원 투입에 따른 **차입 부담과 반도체 업황 둔화 리스크**를 지적하는 반론도 동시에 제기"
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-17 08:43",
+     "source": "헤럴드경제",
+     "title": "SK에코플랜트, 3분기 영업익 7946억원…AI 인프라 사업이 끌었다",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4QkMxSndua1hUdHMzdGpmaF9pU3BKbEVpZnBReTJLblQ2SnN0THJBT2VYbllNVGg4dmlIbmU0UXdWaWsyRkcyR0FFRFBiN1gwb0w1X0RB?oc=5",
+     "summary": "SK에코플랜트가 3분기 영업이익 7946억원으로 전년 동기 대비 405% 급증했다고 발표했으며, 반도체·AI 데이터센터 인프라 사업이 실적을 견인하면서 '건설사에서 AI 인프라 기업으로'의 전환이 부각됐다. 다만 순이익은 86.6% 급감해 영업 외 손익 부담이 남아 있다.",
+     "more": 5
+    },
+    {
+     "ts": "2026-11-17 08:38",
+     "source": "데이터뉴스",
+     "title": "SK㈜, SK에코플랜트 완전 자회사화…무엇이 달라지나",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yN2x5ZFhpdkVQRU1zS3Nab0RJUWZhT3Z2MEx1bmVjbElnekVSVDhKcFNjcV9RNHFSbWlTVXdvaXBBajVzeWhHRFp6Wjh1NDliY19tbjZ0Mm9sMHZDcXhn?oc=5",
+     "summary": "SK㈜가 SK에코플랜트를 완전 자회사로 편입하면서 지배구조·배당·상장 전략 변화에 관심이 쏠리고 있다. 비상장 자회사인 SK에코플랜트가 그룹 실적을 하드캐리하는 구도여서, 향후 상장 추진 여부가 SK㈜ 기업가치의 핵심 변수로 지목된다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-11-17 08:56",
+     "source": "뉴스1",
+     "title": "한화證 \"SK, 자회사 배당 확대 기대…목표가 80만→65만원\"",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BWkJEOXBlOEduNjV2NjZpSkpERHFDb0pMdGxuOEJXems5QTFpMUZ0ck9FaUttVGhsSzlRSm1KWDFVQVFtZnhmajhXa0tRNWJ1dHhNR2FTYU55UHpRMVZz?oc=5",
+     "summary": "한화투자증권은 SK㈜ 목표주가를 80만원에서 65만원으로 하향했으나, 상장 자회사 가치 하락을 반영한 조정일 뿐 SK에코플랜트 등 비상장 자회사의 AI 수혜 본격화와 자회사 배당 확대 가능성은 긍정적으로 평가했다.",
+     "more": 2
+    },
+    {
+     "ts": "2026-11-17 12:04",
+     "source": "뉴스퀘스트",
+     "title": "“에코플랜트에 1.8조 쏟아부은 SK, 빚더미 안고 ‘반도체 한파’ 맞나”",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3czJUNXJ0eWRrSFBWRkhzM1JRZWtwb1BPdm03N1RBWG84SmhidERETGpsbGtReUJrY3IzdGxHaGVzZ3RCWWFVNGxreENKUnlucGd0YUF4Z0NwQ0swSUIzSzVLVWVxMUN2UzFlWVdSSQ?oc=5",
+     "summary": "SK가 SK에코플랜트에 1.8조원을 투입한 가운데 높아진 차입 부담과 반도체 업황 둔화 가능성을 함께 지적하는 비판적 분석이 제기됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-11-17 16:49",
+     "source": "리버티코리아포스트",
+     "title": "SK그룹, AI 타고 지주사 현금흐름 본격화…SK에코플랜트·SK스퀘어 동반 약진",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SbkUyRFhWRjdHOGI1WnpMWDkzdVlQRXJHUm1NOExsSjNFTXhFZTRCdW5MeWJib2ZzMmRnUV9aemNzRWUySTZrUE53VU9PaC0xRlptZmhwdHJFeVMxUXlLVDZ6UdIBZ0FVX3lxTFBVWERkQ1h5MXEzUjhEUE1YbXpfYUtLUjdfaV9HTkxZc0MwOWNMMWptV0lnZXlDQzhIanhsQjlsNzlSYmhmTE13OFBEV2Uzaml3UTllY3BuWW1FcXZLZWlKN09NMHJqaVE?oc=5",
+     "summary": "SK그룹이 AI 사이클을 타고 지주사 차원의 현금흐름 개선 국면에 진입했으며, SK에코플랜트와 SK스퀘어가 동반 약진하며 이를 주도하고 있다는 분석이 나왔다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-11-17 14:06",
+     "source": "시장경제신문",
+     "title": "[단독] SK에플, '테라스 붕괴' 송도럭스오션SK뷰에 하이엔드 '드파인' 적용",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EdlNaM1Bzcm5GOVViVVNXUWZ3NUpodm1SRGhRSGxtNFlxd1dVcDNicEhQZmVUVnVKbzk5bzh3SlJGWl9HTjE0VGlHWHVEV1dqeUR4ZFNneGRhUHpQWGNKYTdnckdTOGh0dk5fNWk1cHg?oc=5",
+     "summary": "SK에코플랜트가 테라스 붕괴 사고가 발생했던 송도럭스오션SK뷰에 하이엔드 브랜드 '드파인'을 적용하기로 한 것으로 단독 보도됐다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-11-17 07:30",
    "label": "11-17 07시",
