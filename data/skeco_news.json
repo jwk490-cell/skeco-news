@@ -1,8 +1,43 @@
 {
- "updated": "2026-11-18 07:30",
- "last_check": "2026-11-18 07:30",
- "last_new": 6,
+ "updated": "2026-11-19 07:30",
+ "last_check": "2026-11-19 07:30",
+ "last_new": 3,
  "checks": [
+  {
+   "ts": "2026-11-19 07:30",
+   "label": "11-19 07시",
+   "digest": [
+    "**공개매수 종료(11월 24일)가 임박**한 가운데 역대 최대 3분기 실적이 공개돼, 8만8000원 가격의 적정성 논란이 실적 호조로 더 커지는 구도다.",
+    "호실적의 질이 쟁점 — 누적 영업이익의 **약 88%가 메모리 모듈 유통** 부문에서 나오고 건설 중심 솔루션 부문은 누적 1694억원 적자로, 반도체 사이클 의존·본업 부진이 동시에 드러났다.",
+    "자회사 SK오션플랜트의 주가 급락과 신야드 자금난은 SK㈜ 편입 이후에도 남는 **자금 소요 리스크**로, 모회사 재무 개선 속도를 가늠할 변수다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-18 13:02",
+     "source": "뉴스톱",
+     "title": "SK에코플랜트 8.8만원 공개매수 반발…\"AI·반도체 미반영\"",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqSVlITU9CTnY0MTB0ejFKcFF2SHVyN25JX2dBc1BIQUtCOXBlYWNZbWx4YWdBUUxDeFZZaDRKSTNxb0U2czJFMHJ0WXlfS0lfbGFlaVJocUstdWNSQlVabTRRck9aRmlfRHVSWVptRQ?oc=5",
+     "summary": "SK㈜가 IPO를 철회하고 SK에코플랜트를 100% 자회사로 편입하기 위해 진행 중인 주당 **8만8000원** 공개매수(약 1643만주·25%, 최대 1조4458억원, 11월 5~24일)에 일부 소액주주가 반발하고 있다. K-OTC 1개월 평균(약 5만7500원)보다 53% 높지만 4년 전 투자단가보다 2.2% 낮고, 최근 재편된 AI·반도체 인프라 사업의 미래 성장가치가 반영되지 않았다는 주장이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-11-18 10:41",
+     "source": "비즈워치",
+     "title": "SK 품 안기는 에코플랜트, 다시 쓴 '역대 최대'",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zeTJ3UGJ5bVZtdmhZR25xX0lYVWdLQVNCcWpKTTdwRk9VUk9sc3JDeHhnSHJNcXNQNkViZVdCYjZzWVA4OVU5djNYNlAzaFZDZEg2dXZ0RkV0RUh4ZTlBVW5IQTViN2hKVEpPSjI5Y04?oc=5",
+     "summary": "3분기 매출 5조8988억원(+82%), 영업이익 7946억원(+405%)으로 분기 **역대 최대** 실적을 경신했고 1~3분기 누적 매출은 16조원에 근접했다. 다만 AI 인프라 관련 사업이 매출의 약 81%, 누적 영업이익의 약 88%가 메모리 모듈 제조·유통(애셋 라이프사이클) 부문에서 나온 반면 건설이 포함된 솔루션 부문은 누적 1694억원 영업손실로 적자 전환해, 실적이 메모리 모듈 호황에 과도하게 의존한다는 비판이 함께 제기됐다.",
+     "more": 1
+    },
+    {
+     "ts": "2026-11-19 07:00",
+     "source": "아시아투데이",
+     "title": "[마켓파워] 주가 70% 급락·신야드 자금난까지…SK오션플랜트 ‘깊은 한숨’",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhbTJRVFZZNGd2aHNHckpfY0ZZQWhfbFA2eld6T0wtaGZZZ00zWWVrX2pSalhVYzN0RVRuRlo3OU10RnRvSFkwRFNOb1g3OHJPbUFkcjZfdW5BYkRVaFVqRHpYaDZWTUlNTlgtS1Z3?oc=5",
+     "summary": "상장 자회사 SK오션플랜트가 주가 70% 급락과 신규 야드 투자 자금난에 직면했다는 보도로, 해상풍력 하부구조물·특수선 수주 지연과 대규모 신야드 캐펙스 부담이 겹친 상황이 지적됐다. 모회사 SK에코플랜트의 재무 부담 요인으로 거론된다.",
+     "more": 0
+    }
+   ]
+  },
   {
    "ts": "2026-11-18 07:30",
    "label": "11-18 07시",
