@@ -1,8 +1,59 @@
 {
- "updated": "2026-11-19 07:30",
- "last_check": "2026-11-19 07:30",
- "last_new": 3,
+ "updated": "2026-11-20 07:30",
+ "last_check": "2026-11-20 07:30",
+ "last_new": 5,
  "checks": [
+  {
+   "ts": "2026-11-20 07:30",
+   "label": "11-20 07시",
+   "digest": [
+    "**지배구조 딜이 최대 변수** — SK㈜의 완전자회사화가 현금 주식교환 방식 소액주주 반발과 글랜우드·한투 등 **4000억원 RCPS 정리** 과제를 동시에 안고 진행 중이다.",
+    "**사상 최대 실적의 질 논쟁** — 3분기 누적 영업이익 2조원 돌파는 반도체·AI 인프라 재편 성과지만, 실적이 AI 캐펙스에 집중 연동돼 투자 둔화 시 변동성 리스크가 부각된다.",
+    "**시공 품질 리스크 두 건 동시 노출** — 부전~마산 터널 붕괴는 정부 조사에서 한계치 20배 고압주입·균열 후 공사 강행 등 시공관리 부실로 결론, 송도 발코니 붕괴는 조사 2개월 연장으로 불확실성이 이어진다."
+   ],
+   "articles": [
+    {
+     "ts": "2026-11-19 15:37",
+     "source": "뉴스토마토",
+     "title": "SK, SK에코플랜트 ‘현금 주식교환’ 추진에 소액주주 반발…“공시 규제 회피 우려”",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WTGg3LTJvNk1SNzg1LUJJcjVoZC1WaVJaMG9vd3FoMmhvLTEtYjlnMHFKZnM0ZjZyWHdfR092U2ltTFhFNWhmb1V6RjlKUTBsV1Z1OU9UblRsNi1ac1hRYQ?oc=5",
+     "summary": "SK㈜가 SK에코플랜트를 완전자회사로 편입하기 위해 추진 중인 '현금 주식교환' 방식에 소액주주들이 반발하고 있다. 주주들은 현금교환 구조가 주식교환 공시·규제 요건을 피해가는 수단이 될 수 있다며 절차 투명성 문제를 제기했다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-11-19 11:02",
+     "source": "인베스트조선",
+     "title": "SK㈜, 글랜우드·한투 등 에코플랜트 4000억 RCPS도 정리 가닥",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeGVmSzgzRnA5U1pqME9PdW85MmtqSVBSWGJ3REtFQXJ4a3dlNkV4QTNnUWlZaHVYT19DZVhGMFlRYTFzaTg2N3p1ODlia1liYjkza1YxQzgyM19DajhzMG5WZjdKUVpWb3hBMGJWUVY4OVRpNlVBUXFTMWRtaHZ3aGd6cw?oc=5",
+     "summary": "SK㈜가 SK에코플랜트 완전자회사화 과정에서 글랜우드PE·한국투자증권 등이 보유한 약 4000억원 규모 RCPS(상환전환우선주)도 함께 정리하는 방향으로 가닥을 잡았다. IPO 철회에 따른 재무적투자자(FI) 투자회수 구조를 일괄 해소하려는 움직임이다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-11-19 13:37",
+     "source": "비즈니스포스트",
+     "title": "SK에코플랜트 영업이익 2조 신화에도 경계 모드, 김영식 'AI 투자 둔화' 대비책 시급",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5adDBwOXNCV0JxeDZsZUJjVlAyOGdvUk1ndm9FODd6MGxFb0MyeFBYR2VlVWJGVTBZN3U3ZlhXcDMzR05TY05waFRFMkZqbHRzNnZkcl9TSkdtMlhzZFNZai1pNXpyN3lSMFRoVzYxLU5ZNlE?oc=5",
+     "summary": "SK에코플랜트가 3분기 누적 연결 영업이익 2조2549억원으로 건설업계 최초 2조원을 넘기며 반도체·AI 인프라 중심 사업재편 성과를 확인했다(3분기 매출 5조8989억원·영업이익 7946억원, 각각 +81.6%·+404.8%). 다만 실적이 AI 투자에 집중 연동돼 투자 둔화 시 변동성이 커질 수 있다는 점이 김영식 사장의 과제로 지적됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-11-19 14:00",
+     "source": "아주경제",
+     "title": "부전~마산 터널 붕괴, 한계치 20배 압력 탓… 균열 확인하고도 공사 지속",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JMm9qQzBZd0RYaU1vVW5iUE5EYmpzUXZfbE96X1FraEZWcnpZMERIX0oxNTdVOG8wN19EWVh4cTdrN3hnVVFSdXg2SERGdHRQa09BeENTVlQzUdIBWEFVX3lxTE1veG1hRmYwbUQ2OTZJb1Zrc0lEVVFVZzZ2YmZqaFpNQmNycFpwTlphNzV1cEw1VThaaHp3LTBfVjQtUUljczFvNG9vVmdJMTd3R3UzOTNVVTA?oc=5",
+     "summary": "국토부 건설사고조사위원회가 부전~마산 복선전철 낙동1터널 붕괴사고 원인을 한계 주입압력(약 450kPa)의 최대 20배인 9000kPa 고압 그라우팅 주입으로 결론 내렸다. 시험시공 없이 공법을 적용하고 터널 균열·누수 확인 후에도 주입을 지속했으며 수기·자동 주입기록 불일치 등 기록 관리 부실도 확인됐다.",
+     "more": 0
+    },
+    {
+     "ts": "2026-11-19 09:23",
+     "source": "메가경제",
+     "title": "′SK에코플랜트 시공′ 송도 아파트 발코니 붕괴사고 조사 2개월 연장…내년 1월까지",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tV2xJcXVNeU14ek1kRl81QkpQMjFUTm5qUjc3a2ZZcHhzaUlub2FNV0gtMlc1WE83bFU4SFlpdXpNbDY3SVg3Q3dTT2pfU2RpaWtUbTQ4S2Z6TV81NURMU25wUFlZYnhsR0JqNEdvWUpyUdIBckFVX3lxTE4tV2xJcXVNeU14ek1kRl81QkpQMjFUTm5qUjc3a2ZZcHhzaUlub2FNV0gtMlc1WE83bFU4SFlpdXpNbDY3SVg3Q3dTT2pfU2RpaWtUbTQ4S2Z6TV81NURMU25wUFlZYnhsR0JqNEdvWUpyUQ?oc=5",
+     "summary": "SK에코플랜트가 시공한 '송도 럭스오션 SK뷰' 아파트 2층 발코니 붕괴사고에 대한 사고조사 기간이 2개월 연장돼 내년 1월까지로 늘어났다. 준공 1년 반 만에 발생한 사고로 원인 규명이 지연되고 있다.",
+     "more": 2
+    }
+   ]
+  },
   {
    "ts": "2026-11-19 07:30",
    "label": "11-19 07시",
